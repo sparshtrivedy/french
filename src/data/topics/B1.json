@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b1-opinions",
+    "title": "Giving opinions",
+    "summary": "Phrases for explaining what you think and why.",
+    "items": [
+      {
+        "french": "À mon avis...",
+        "english": "In my opinion...",
+        "note": "Neutral opinion starter."
+      },
+      {
+        "french": "Je pense que...",
+        "english": "I think that...",
+        "note": "Very common opinion pattern."
+      },
+      {
+        "french": "Je ne suis pas d'accord.",
+        "english": "I don't agree.",
+        "note": "Useful for discussion."
+      }
+    ]
+  },
+  {
+    "id": "b1-travel-problems",
+    "title": "Travel problems",
+    "summary": "Language for delays, mistakes, and asking for help.",
+    "items": [
+      {
+        "french": "Mon train est en retard.",
+        "english": "My train is late.",
+        "note": "Transport issue."
+      },
+      {
+        "french": "J'ai perdu ma valise.",
+        "english": "I lost my suitcase.",
+        "note": "Useful emergency phrase."
+      },
+      {
+        "french": "Pouvez-vous m'aider ?",
+        "english": "Can you help me?",
+        "note": "General request."
+      }
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "infinitive": "finir",
+    "english": "to finish",
+    "pattern": "-ir",
+    "participle": "fini",
+    "conjugations": {
+      "je": "finis",
+      "tu": "finis",
+      "il/elle/on": "finit",
+      "nous": "finissons",
+      "vous": "finissez",
+      "ils/elles": "finissent"
+    },
+    "examples": [
+      { "french": "Je finis mes devoirs.", "english": "I finish my homework." },
+      { "french": "Ils finissent le travail demain.", "english": "They finish the work tomorrow." }
+    ]
+  },
+  {
+    "infinitive": "réfléchir",
+    "english": "to think/reflect",
+    "pattern": "-ir",
+    "participle": "réfléchi",
+    "conjugations": {
+      "je": "réfléchis",
+      "tu": "réfléchis",
+      "il/elle/on": "réfléchit",
+      "nous": "réfléchissons",
+      "vous": "réfléchissez",
+      "ils/elles": "réfléchissent"
+    },
+    "examples": [
+      { "french": "Je réfléchis à la réponse.", "english": "I am thinking about the answer." },
+      { "french": "Nous réfléchissons avant de décider.", "english": "We think before deciding." }
+    ]
+  },
+  {
+    "infinitive": "choisir",
+    "english": "to choose",
+    "pattern": "-ir",
+    "participle": "choisi",
+    "conjugations": {
+      "je": "choisis",
+      "tu": "choisis",
+      "il/elle/on": "choisit",
+      "nous": "choisissons",
+      "vous": "choisissez",
+      "ils/elles": "choisissent"
+    },
+    "examples": [
+      { "french": "Je choisis un livre.", "english": "I choose a book." },
+      { "french": "Vous choisissez la bonne option.", "english": "You choose the right option." }
+    ]
+  },
+  {
+    "infinitive": "réussir",
+    "english": "to succeed",
+    "pattern": "-ir",
+    "participle": "réussi",
+    "conjugations": {
+      "je": "réussis",
+      "tu": "réussis",
+      "il/elle/on": "réussit",
+      "nous": "réussissons",
+      "vous": "réussissez",
+      "ils/elles": "réussissent"
+    },
+    "examples": [
+      { "french": "Tu réussis souvent cet exercice.", "english": "You often succeed at this exercise." },
+      { "french": "Nous réussissons grâce à la pratique.", "english": "We succeed thanks to practice." }
+    ]
+  },
+  {
+    "infinitive": "grandir",
+    "english": "to grow",
+    "pattern": "-ir",
+    "participle": "grandi",
+    "conjugations": {
+      "je": "grandis",
+      "tu": "grandis",
+      "il/elle/on": "grandit",
+      "nous": "grandissons",
+      "vous": "grandissez",
+      "ils/elles": "grandissent"
+    },
+    "examples": [
+      { "french": "L'enfant grandit vite.", "english": "The child grows quickly." },
+      { "french": "Les plantes grandissent au soleil.", "english": "Plants grow in the sun." }
+    ]
+  },
+  {
+    "infinitive": "remplir",
+    "english": "to fill",
+    "pattern": "-ir",
+    "participle": "rempli",
+    "conjugations": {
+      "je": "remplis",
+      "tu": "remplis",
+      "il/elle/on": "remplit",
+      "nous": "remplissons",
+      "vous": "remplissez",
+      "ils/elles": "remplissent"
+    },
+    "examples": [
+      { "french": "Je remplis la bouteille d'eau.", "english": "I fill the water bottle." },
+      { "french": "Nous remplissons le formulaire.", "english": "We fill out the form." }
+    ]
+  },
+  {
+    "infinitive": "applaudir",
+    "english": "to applaud",
+    "pattern": "-ir",
+    "participle": "applaudi",
+    "conjugations": {
+      "je": "applaudis",
+      "tu": "applaudis",
+      "il/elle/on": "applaudit",
+      "nous": "applaudissons",
+      "vous": "applaudissez",
+      "ils/elles": "applaudissent"
+    },
+    "examples": [
+      { "french": "J'applaudis la performance.", "english": "I applaud the performance." },
+      { "french": "Ils applaudissent à la fin du concert.", "english": "They applaud at the end of the concert." }
+    ]
+  },
+  {
+    "infinitive": "obéir",
+    "english": "to obey",
+    "pattern": "-ir",
+    "participle": "obéi",
+    "conjugations": {
+      "je": "obéis",
+      "tu": "obéis",
+      "il/elle/on": "obéit",
+      "nous": "obéissons",
+      "vous": "obéissez",
+      "ils/elles": "obéissent"
+    },
+    "examples": [
+      { "french": "Le chien obéit bien.", "english": "The dog obeys well." },
+      { "french": "Les enfants obéissent à leurs parents.", "english": "The children obey their parents." }
+    ]
+  },
+  {
+    "infinitive": "rougir",
+    "english": "to blush/turn red",
+    "pattern": "-ir",
+    "participle": "rougi",
+    "conjugations": {
+      "je": "rougis",
+      "tu": "rougis",
+      "il/elle/on": "rougit",
+      "nous": "rougissons",
+      "vous": "rougissez",
+      "ils/elles": "rougissent"
+    },
+    "examples": [
+      { "french": "Je rougis facilement.", "english": "I blush easily." },
+      { "french": "Elle rougit quand elle est gênée.", "english": "She blushes when she is embarrassed." }
+    ]
+  },
+  {
+    "infinitive": "nourrir",
+    "english": "to feed",
+    "pattern": "-ir",
+    "participle": "nourri",
+    "conjugations": {
+      "je": "nourris",
+      "tu": "nourris",
+      "il/elle/on": "nourrit",
+      "nous": "nourrissons",
+      "vous": "nourrissez",
+      "ils/elles": "nourrissent"
+    },
+    "examples": [
+      { "french": "Je nourris le chat.", "english": "I feed the cat." },
+      { "french": "Ils nourrissent les oiseaux le matin.", "english": "They feed the birds in the morning." }
+    ]
+  },
+  {
+    "infinitive": "punir",
+    "english": "to punish",
+    "pattern": "-ir",
+    "participle": "puni",
+    "conjugations": {
+      "je": "punis",
+      "tu": "punis",
+      "il/elle/on": "punit",
+      "nous": "punissons",
+      "vous": "punissez",
+      "ils/elles": "punissent"
+    },
+    "examples": [
+      { "french": "Le professeur punit les retards répétés.", "english": "The teacher punishes repeated lateness." },
+      { "french": "On ne punit pas sans explication.", "english": "You do not punish without an explanation." }
+    ]
+  },
+  {
+    "infinitive": "bâtir",
+    "english": "to build",
+    "pattern": "-ir",
+    "participle": "bâti",
+    "conjugations": {
+      "je": "bâtis",
+      "tu": "bâtis",
+      "il/elle/on": "bâtit",
+      "nous": "bâtissons",
+      "vous": "bâtissez",
+      "ils/elles": "bâtissent"
+    },
+    "examples": [
+      { "french": "Ils bâtissent une maison.", "english": "They build a house." },
+      { "french": "Nous bâtissons quelque chose de solide.", "english": "We are building something solid." }
+    ]
+  }
+]

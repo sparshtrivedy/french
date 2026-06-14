@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b2-argumentation",
+    "title": "Argumentation",
+    "summary": "Structures for contrast, cause, and support.",
+    "items": [
+      {
+        "french": "D'une part..., d'autre part...",
+        "english": "On the one hand..., on the other hand...",
+        "note": "Use to compare two sides."
+      },
+      {
+        "french": "Cela dépend de...",
+        "english": "It depends on...",
+        "note": "Good for nuanced answers."
+      },
+      {
+        "french": "Il faut prendre en compte...",
+        "english": "You have to take into account...",
+        "note": "Formal but useful."
+      }
+    ]
+  },
+  {
+    "id": "b2-work-discussions",
+    "title": "Work discussions",
+    "summary": "Vocabulary for tasks, priorities, and coordination.",
+    "items": [
+      {
+        "french": "La priorité, c'est...",
+        "english": "The priority is...",
+        "note": "Useful at work."
+      },
+      {
+        "french": "Nous devons respecter le délai.",
+        "english": "We must meet the deadline.",
+        "note": "Task planning phrase."
+      },
+      {
+        "french": "Je propose qu'on...",
+        "english": "I suggest that we...",
+        "note": "Good for meetings."
+      }
+    ]
+  }
+]

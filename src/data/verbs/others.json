@@ -1,0 +1,686 @@
+[
+  {
+    "infinitive": "être",
+    "english": "to be",
+    "pattern": "irregular",
+    "participle": "été",
+    "conjugations": {
+      "je": "suis",
+      "tu": "es",
+      "il/elle/on": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils/elles": "sont"
+    },
+    "examples": [
+      { "french": "Je suis prêt.", "english": "I am ready." },
+      { "french": "Nous sommes en classe.", "english": "We are in class." }
+    ]
+  },
+  {
+    "infinitive": "avoir",
+    "english": "to have",
+    "pattern": "irregular",
+    "participle": "eu",
+    "conjugations": {
+      "je": "ai",
+      "tu": "as",
+      "il/elle/on": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils/elles": "ont"
+    },
+    "examples": [
+      { "french": "J'ai une question.", "english": "I have a question." },
+      { "french": "Ils ont beaucoup de travail.", "english": "They have a lot of work." }
+    ]
+  },
+  {
+    "infinitive": "devenir",
+    "english": "to become",
+    "pattern": "other",
+    "participle": "devenu",
+    "conjugations": {
+      "je": "deviens",
+      "tu": "deviens",
+      "il/elle/on": "devient",
+      "nous": "devenons",
+      "vous": "devenez",
+      "ils/elles": "deviennent"
+    },
+    "examples": [
+      { "french": "Je deviens plus confiant en français.", "english": "I am becoming more confident in French." },
+      { "french": "Ils deviennent amis rapidement.", "english": "They become friends quickly." }
+    ]
+  },
+  {
+    "infinitive": "aller",
+    "english": "to go",
+    "pattern": "irregular",
+    "participle": "allé",
+    "conjugations": {
+      "je": "vais",
+      "tu": "vas",
+      "il/elle/on": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils/elles": "vont"
+    },
+    "examples": [
+      { "french": "Je vais au marché.", "english": "I go to the market." },
+      { "french": "Nous allons au cinéma ce soir.", "english": "We are going to the movies tonight." }
+    ]
+  },
+  {
+    "infinitive": "faire",
+    "english": "to do/make",
+    "pattern": "irregular",
+    "participle": "fait",
+    "conjugations": {
+      "je": "fais",
+      "tu": "fais",
+      "il/elle/on": "fait",
+      "nous": "faisons",
+      "vous": "faites",
+      "ils/elles": "font"
+    },
+    "examples": [
+      { "french": "Je fais mes exercices.", "english": "I do my exercises." },
+      { "french": "Que faites-vous aujourd'hui ?", "english": "What are you doing today?" }
+    ]
+  },
+  {
+    "infinitive": "revenir",
+    "english": "to come back / to return",
+    "pattern": "other",
+    "participle": "revenu",
+    "conjugations": {
+      "je": "reviens",
+      "tu": "reviens",
+      "il/elle/on": "revient",
+      "nous": "revenons",
+      "vous": "revenez",
+      "ils/elles": "reviennent"
+    },
+    "examples": [
+      { "french": "Je reviens demain.", "english": "I am coming back tomorrow." },
+      { "french": "Nous revenons tard le soir.", "english": "We come back late in the evening." }
+    ]
+  },
+  {
+    "infinitive": "vouloir",
+    "english": "to want",
+    "pattern": "irregular",
+    "participle": "voulu",
+    "conjugations": {
+      "je": "veux",
+      "tu": "veux",
+      "il/elle/on": "veut",
+      "nous": "voulons",
+      "vous": "voulez",
+      "ils/elles": "veulent"
+    },
+    "examples": [
+      { "french": "Je veux un café.", "english": "I want a coffee." },
+      { "french": "Ils veulent apprendre vite.", "english": "They want to learn quickly." }
+    ]
+  },
+  {
+    "infinitive": "pouvoir",
+    "english": "can/to be able to",
+    "pattern": "irregular",
+    "participle": "pu",
+    "conjugations": {
+      "je": "peux",
+      "tu": "peux",
+      "il/elle/on": "peut",
+      "nous": "pouvons",
+      "vous": "pouvez",
+      "ils/elles": "peuvent"
+    },
+    "examples": [
+      { "french": "Je peux t'aider.", "english": "I can help you." },
+      { "french": "Nous pouvons commencer maintenant.", "english": "We can start now." }
+    ]
+  },
+  {
+    "infinitive": "apprendre",
+    "english": "to learn",
+    "pattern": "other",
+    "participle": "appris",
+    "conjugations": {
+      "je": "apprends",
+      "tu": "apprends",
+      "il/elle/on": "apprend",
+      "nous": "apprenons",
+      "vous": "apprenez",
+      "ils/elles": "apprennent"
+    },
+    "examples": [
+      { "french": "J'apprends le français.", "english": "I am learning French." },
+      { "french": "Les enfants apprennent vite.", "english": "Children learn quickly." }
+    ]
+  },
+  {
+    "infinitive": "prendre",
+    "english": "to take",
+    "pattern": "other",
+    "participle": "pris",
+    "conjugations": {
+      "je": "prends",
+      "tu": "prends",
+      "il/elle/on": "prend",
+      "nous": "prenons",
+      "vous": "prenez",
+      "ils/elles": "prennent"
+    },
+    "examples": [
+      { "french": "Je prends le bus.", "english": "I take the bus." },
+      { "french": "Nous prenons des notes.", "english": "We take notes." }
+    ]
+  },
+  {
+    "infinitive": "dire",
+    "english": "to say/tell",
+    "pattern": "other",
+    "participle": "dit",
+    "conjugations": {
+      "je": "dis",
+      "tu": "dis",
+      "il/elle/on": "dit",
+      "nous": "disons",
+      "vous": "dites",
+      "ils/elles": "disent"
+    },
+    "examples": [
+      { "french": "Je dis la vérité.", "english": "I tell the truth." },
+      { "french": "Ils disent bonjour.", "english": "They say hello." }
+    ]
+  },
+  {
+    "infinitive": "lire",
+    "english": "to read",
+    "pattern": "other",
+    "participle": "lu",
+    "conjugations": {
+      "je": "lis",
+      "tu": "lis",
+      "il/elle/on": "lit",
+      "nous": "lisons",
+      "vous": "lisez",
+      "ils/elles": "lisent"
+    },
+    "examples": [
+      { "french": "Je lis un roman.", "english": "I read a novel." },
+      { "french": "Elle lit le journal tous les matins.", "english": "She reads the newspaper every morning." }
+    ]
+  },
+  {
+    "infinitive": "vivre",
+    "english": "to live",
+    "pattern": "other",
+    "participle": "vécu",
+    "conjugations": {
+      "je": "vis",
+      "tu": "vis",
+      "il/elle/on": "vit",
+      "nous": "vivons",
+      "vous": "vivez",
+      "ils/elles": "vivent"
+    },
+    "examples": [
+      { "french": "Je vis au Canada.", "english": "I live in Canada." },
+      { "french": "Ils vivent près de la mer.", "english": "They live near the sea." }
+    ]
+  },
+  {
+    "infinitive": "voir",
+    "english": "to see",
+    "pattern": "other",
+    "participle": "vu",
+    "conjugations": {
+      "je": "vois",
+      "tu": "vois",
+      "il/elle/on": "voit",
+      "nous": "voyons",
+      "vous": "voyez",
+      "ils/elles": "voient"
+    },
+    "examples": [
+      { "french": "Je vois la montagne.", "english": "I see the mountain." },
+      { "french": "Nous voyons nos amis demain.", "english": "We are seeing our friends tomorrow." }
+    ]
+  },
+  {
+    "infinitive": "boire",
+    "english": "to drink",
+    "pattern": "other",
+    "participle": "bu",
+    "conjugations": {
+      "je": "bois",
+      "tu": "bois",
+      "il/elle/on": "boit",
+      "nous": "buvons",
+      "vous": "buvez",
+      "ils/elles": "boivent"
+    },
+    "examples": [
+      { "french": "Je bois de l'eau.", "english": "I drink water." },
+      { "french": "Vous buvez du café le matin.", "english": "You drink coffee in the morning." }
+    ]
+  },
+  {
+    "infinitive": "recevoir",
+    "english": "to receive",
+    "pattern": "other",
+    "participle": "reçu",
+    "conjugations": {
+      "je": "reçois",
+      "tu": "reçois",
+      "il/elle/on": "reçoit",
+      "nous": "recevons",
+      "vous": "recevez",
+      "ils/elles": "reçoivent"
+    },
+    "examples": [
+      { "french": "Je reçois un message.", "english": "I receive a message." },
+      { "french": "Nous recevons des invités ce soir.", "english": "We are receiving guests tonight." }
+    ]
+  },
+  {
+    "infinitive": "offrir",
+    "english": "to offer/give",
+    "pattern": "other",
+    "participle": "offert",
+    "conjugations": {
+      "je": "offre",
+      "tu": "offres",
+      "il/elle/on": "offre",
+      "nous": "offrons",
+      "vous": "offrez",
+      "ils/elles": "offrent"
+    },
+    "examples": [
+      { "french": "J'offre un cadeau à mon ami.", "english": "I give a gift to my friend." },
+      { "french": "Ils offrent leur aide.", "english": "They offer their help." }
+    ]
+  },
+  {
+    "infinitive": "écrire",
+    "english": "to write",
+    "pattern": "other",
+    "participle": "écrit",
+    "conjugations": {
+      "je": "écris",
+      "tu": "écris",
+      "il/elle/on": "écrit",
+      "nous": "écrivons",
+      "vous": "écrivez",
+      "ils/elles": "écrivent"
+    },
+    "examples": [
+      { "french": "J'écris un e-mail.", "english": "I write an email." },
+      { "french": "Nous écrivons une carte postale.", "english": "We write a postcard." }
+    ]
+  },
+  {
+    "infinitive": "croire",
+    "english": "to believe",
+    "pattern": "other",
+    "participle": "cru",
+    "conjugations": {
+      "je": "crois",
+      "tu": "crois",
+      "il/elle/on": "croit",
+      "nous": "croyons",
+      "vous": "croyez",
+      "ils/elles": "croient"
+    },
+    "examples": [
+      { "french": "Je crois ton histoire.", "english": "I believe your story." },
+      { "french": "Ils croient en leurs capacités.", "english": "They believe in their abilities." }
+    ]
+  },
+  {
+    "infinitive": "courir",
+    "english": "to run",
+    "pattern": "other",
+    "participle": "couru",
+    "conjugations": {
+      "je": "cours",
+      "tu": "cours",
+      "il/elle/on": "court",
+      "nous": "courons",
+      "vous": "courez",
+      "ils/elles": "courent"
+    },
+    "examples": [
+      { "french": "Je cours dans le parc.", "english": "I run in the park." },
+      { "french": "Nous courons chaque dimanche.", "english": "We run every Sunday." }
+    ]
+  },
+  {
+    "infinitive": "ouvrir",
+    "english": "to open",
+    "pattern": "other",
+    "participle": "ouvert",
+    "conjugations": {
+      "je": "ouvre",
+      "tu": "ouvres",
+      "il/elle/on": "ouvre",
+      "nous": "ouvrons",
+      "vous": "ouvrez",
+      "ils/elles": "ouvrent"
+    },
+    "examples": [
+      { "french": "J'ouvre la fenêtre.", "english": "I open the window." },
+      { "french": "Le magasin ouvre à neuf heures.", "english": "The store opens at nine o'clock." }
+    ]
+  },
+  {
+    "infinitive": "mettre",
+    "english": "to put",
+    "pattern": "other",
+    "participle": "mis",
+    "conjugations": {
+      "je": "mets",
+      "tu": "mets",
+      "il/elle/on": "met",
+      "nous": "mettons",
+      "vous": "mettez",
+      "ils/elles": "mettent"
+    },
+    "examples": [
+      { "french": "Je mets mon livre sur la table.", "english": "I put my book on the table." },
+      { "french": "Nous mettons les chaises dehors.", "english": "We put the chairs outside." }
+    ]
+  },
+  {
+    "infinitive": "sortir",
+    "english": "to go out/leave",
+    "pattern": "other",
+    "participle": "sorti",
+    "conjugations": {
+      "je": "sors",
+      "tu": "sors",
+      "il/elle/on": "sort",
+      "nous": "sortons",
+      "vous": "sortez",
+      "ils/elles": "sortent"
+    },
+    "examples": [
+      { "french": "Je sors avec des amis ce soir.", "english": "I am going out with friends tonight." },
+      { "french": "Ils sortent de la maison.", "english": "They leave the house." }
+    ]
+  },
+  {
+    "infinitive": "venir",
+    "english": "to come",
+    "pattern": "other",
+    "participle": "venu",
+    "conjugations": {
+      "je": "viens",
+      "tu": "viens",
+      "il/elle/on": "vient",
+      "nous": "venons",
+      "vous": "venez",
+      "ils/elles": "viennent"
+    },
+    "examples": [
+      { "french": "Je viens demain matin.", "english": "I am coming tomorrow morning." },
+      { "french": "Mes amis viennent chez moi.", "english": "My friends are coming to my place." }
+    ]
+  },
+  {
+    "infinitive": "partir",
+    "english": "to leave",
+    "pattern": "other",
+    "participle": "parti",
+    "conjugations": {
+      "je": "pars",
+      "tu": "pars",
+      "il/elle/on": "part",
+      "nous": "partons",
+      "vous": "partez",
+      "ils/elles": "partent"
+    },
+    "examples": [
+      { "french": "Je pars tôt le matin.", "english": "I leave early in the morning." },
+      { "french": "Nous partons en train demain.", "english": "We are leaving by train tomorrow." }
+    ]
+  },
+  {
+    "infinitive": "comprendre",
+    "english": "to understand",
+    "pattern": "other",
+    "participle": "compris",
+    "conjugations": {
+      "je": "comprends",
+      "tu": "comprends",
+      "il/elle/on": "comprend",
+      "nous": "comprenons",
+      "vous": "comprenez",
+      "ils/elles": "comprennent"
+    },
+    "examples": [
+      { "french": "Je comprends la leçon.", "english": "I understand the lesson." },
+      { "french": "Nous comprenons mieux maintenant.", "english": "We understand better now." }
+    ]
+  },
+  {
+    "infinitive": "savoir",
+    "english": "to know",
+    "pattern": "irregular",
+    "participle": "su",
+    "conjugations": {
+      "je": "sais",
+      "tu": "sais",
+      "il/elle/on": "sait",
+      "nous": "savons",
+      "vous": "savez",
+      "ils/elles": "savent"
+    },
+    "examples": [
+      { "french": "Je sais la réponse.", "english": "I know the answer." },
+      { "french": "Ils savent parler français.", "english": "They know how to speak French." }
+    ]
+  },
+  {
+    "infinitive": "devoir",
+    "english": "to have to / must",
+    "pattern": "irregular",
+    "participle": "dû",
+    "conjugations": {
+      "je": "dois",
+      "tu": "dois",
+      "il/elle/on": "doit",
+      "nous": "devons",
+      "vous": "devez",
+      "ils/elles": "doivent"
+    },
+    "examples": [
+      { "french": "Je dois partir bientôt.", "english": "I have to leave soon." },
+      { "french": "Nous devons finir ce travail.", "english": "We must finish this work." }
+    ]
+  },
+  {
+    "infinitive": "conduire",
+    "english": "to drive",
+    "pattern": "other",
+    "participle": "conduit",
+    "conjugations": {
+      "je": "conduis",
+      "tu": "conduis",
+      "il/elle/on": "conduit",
+      "nous": "conduisons",
+      "vous": "conduisez",
+      "ils/elles": "conduisent"
+    },
+    "examples": [
+      { "french": "Je conduis prudemment.", "english": "I drive carefully." },
+      { "french": "Elle conduit jusqu'au travail.", "english": "She drives to work." }
+    ]
+  },
+  {
+    "infinitive": "résoudre",
+    "english": "to solve",
+    "pattern": "other",
+    "participle": "résolu",
+    "conjugations": {
+      "je": "résous",
+      "tu": "résous",
+      "il/elle/on": "résout",
+      "nous": "résolvons",
+      "vous": "résolvez",
+      "ils/elles": "résolvent"
+    },
+    "examples": [
+      { "french": "Je résous le problème.", "english": "I solve the problem." },
+      { "french": "Nous résolvons les exercices ensemble.", "english": "We solve the exercises together." }
+    ]
+  },
+  {
+    "infinitive": "couvrir",
+    "english": "to cover",
+    "pattern": "other",
+    "participle": "couvert",
+    "conjugations": {
+      "je": "couvre",
+      "tu": "couvres",
+      "il/elle/on": "couvre",
+      "nous": "couvrons",
+      "vous": "couvrez",
+      "ils/elles": "couvrent"
+    },
+    "examples": [
+      { "french": "Je couvre la table.", "english": "I cover the table." },
+      { "french": "Les nuages couvrent le ciel.", "english": "The clouds cover the sky." }
+    ]
+  },
+  {
+    "infinitive": "découvrir",
+    "english": "to discover",
+    "pattern": "other",
+    "participle": "découvert",
+    "conjugations": {
+      "je": "découvre",
+      "tu": "découvres",
+      "il/elle/on": "découvre",
+      "nous": "découvrons",
+      "vous": "découvrez",
+      "ils/elles": "découvrent"
+    },
+    "examples": [
+      { "french": "Je découvre une nouvelle ville.", "english": "I discover a new city." },
+      { "french": "Nous découvrons la vérité.", "english": "We discover the truth." }
+    ]
+  },
+  {
+    "infinitive": "apercevoir",
+    "english": "to notice / to catch sight of",
+    "pattern": "other",
+    "participle": "aperçu",
+    "conjugations": {
+      "je": "aperçois",
+      "tu": "aperçois",
+      "il/elle/on": "aperçoit",
+      "nous": "apercevons",
+      "vous": "apercevez",
+      "ils/elles": "aperçoivent"
+    },
+    "examples": [
+      { "french": "J'aperçois la tour au loin.", "english": "I catch sight of the tower in the distance." },
+      { "french": "Nous apercevons nos amis dans la rue.", "english": "We notice our friends in the street." }
+    ]
+  },
+  {
+    "infinitive": "naître",
+    "english": "to be born",
+    "pattern": "other",
+    "participle": "né",
+    "conjugations": {
+      "je": "nais",
+      "tu": "nais",
+      "il/elle/on": "naît",
+      "nous": "naissons",
+      "vous": "naissez",
+      "ils/elles": "naissent"
+    },
+    "examples": [
+      { "french": "Je nais en hiver.", "english": "I am born in winter." },
+      { "french": "Beaucoup d'idées naissent ici.", "english": "Many ideas are born here." }
+    ]
+  },
+  {
+    "infinitive": "mourir",
+    "english": "to die",
+    "pattern": "other",
+    "participle": "mort",
+    "conjugations": {
+      "je": "meurs",
+      "tu": "meurs",
+      "il/elle/on": "meurt",
+      "nous": "mourons",
+      "vous": "mourez",
+      "ils/elles": "meurent"
+    },
+    "examples": [
+      { "french": "La batterie de mon téléphone meurt vite.", "english": "My phone battery dies quickly." },
+      { "french": "Les fleurs meurent sans eau.", "english": "Flowers die without water." }
+    ]
+  },
+  {
+    "infinitive": "descendre",
+    "english": "to go down",
+    "pattern": "other",
+    "participle": "descendu",
+    "conjugations": {
+      "je": "descends",
+      "tu": "descends",
+      "il/elle/on": "descend",
+      "nous": "descendons",
+      "vous": "descendez",
+      "ils/elles": "descendent"
+    },
+    "examples": [
+      { "french": "Je descends les escaliers.", "english": "I go down the stairs." },
+      { "french": "Nous descendons à la station suivante.", "english": "We get off at the next stop." }
+    ]
+  },
+  {
+    "infinitive": "dormir",
+    "english": "to sleep",
+    "pattern": "other",
+    "participle": "dormi",
+    "conjugations": {
+      "je": "dors",
+      "tu": "dors",
+      "il/elle/on": "dort",
+      "nous": "dormons",
+      "vous": "dormez",
+      "ils/elles": "dorment"
+    },
+    "examples": [
+      { "french": "Je dors huit heures par nuit.", "english": "I sleep eight hours a night." },
+      { "french": "Les enfants dorment déjà.", "english": "The children are already sleeping." }
+    ]
+  },
+  {
+    "infinitive": "se souvenir",
+    "english": "to remember",
+    "pattern": "other",
+    "participle": "souvenu",
+    "conjugations": {
+      "je": "me souviens",
+      "tu": "te souviens",
+      "il/elle/on": "se souvient",
+      "nous": "nous souvenons",
+      "vous": "vous souvenez",
+      "ils/elles": "se souviennent"
+    },
+    "examples": [
+      { "french": "Je me souviens de ce film.", "english": "I remember this film." },
+      { "french": "Nous nous souvenons de cette histoire.", "english": "We remember this story." }
+    ]
+  }
+]

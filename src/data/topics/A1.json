@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a1-greetings",
+    "title": "Greetings",
+    "summary": "Basic introductions and common phrases.",
+    "items": [
+      {
+        "french": "Bonjour",
+        "english": "Hello",
+        "note": "General daytime greeting."
+      },
+      {
+        "french": "Salut",
+        "english": "Hi",
+        "note": "Informal."
+      },
+      {
+        "french": "Je m'appelle...",
+        "english": "My name is...",
+        "note": "Use for introductions."
+      }
+    ]
+  },
+  {
+    "id": "a1-numbers",
+    "title": "Numbers",
+    "summary": "Core number vocabulary for dates, prices, and time.",
+    "items": [
+      {
+        "french": "un, deux, trois",
+        "english": "one, two, three",
+        "note": "Start with pronunciation."
+      },
+      {
+        "french": "dix",
+        "english": "ten",
+        "note": "Useful anchor number."
+      },
+      {
+        "french": "vingt",
+        "english": "twenty",
+        "note": "Common base for larger numbers."
+      }
+    ]
+  }
+]

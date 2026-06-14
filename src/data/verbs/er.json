@@ -1,0 +1,596 @@
+[
+  {
+    "infinitive": "parler",
+    "english": "to speak",
+    "pattern": "-er",
+    "participle": "parlé",
+    "conjugations": {
+      "je": "parle",
+      "tu": "parles",
+      "il/elle/on": "parle",
+      "nous": "parlons",
+      "vous": "parlez",
+      "ils/elles": "parlent"
+    },
+    "examples": [
+      { "french": "Je parle avec mon professeur.", "english": "I speak with my teacher." },
+      { "french": "Nous parlons français en classe.", "english": "We speak French in class." }
+    ]
+  },
+  {
+    "infinitive": "manger",
+    "english": "to eat",
+    "pattern": "-er",
+    "participle": "mangé",
+    "conjugations": {
+      "je": "mange",
+      "tu": "manges",
+      "il/elle/on": "mange",
+      "nous": "mangeons",
+      "vous": "mangez",
+      "ils/elles": "mangent"
+    },
+    "examples": [
+      { "french": "Je mange une pomme.", "english": "I eat an apple." },
+      { "french": "Nous mangeons à midi.", "english": "We eat at noon." }
+    ]
+  },
+  {
+    "infinitive": "aimer",
+    "english": "to like/love",
+    "pattern": "-er",
+    "participle": "aimé",
+    "conjugations": {
+      "je": "aime",
+      "tu": "aimes",
+      "il/elle/on": "aime",
+      "nous": "aimons",
+      "vous": "aimez",
+      "ils/elles": "aiment"
+    },
+    "examples": [
+      { "french": "J'aime la musique française.", "english": "I like French music." },
+      { "french": "Ils aiment voyager ensemble.", "english": "They like to travel together." }
+    ]
+  },
+  {
+    "infinitive": "acheter",
+    "english": "to buy",
+    "pattern": "-er",
+    "participle": "acheté",
+    "conjugations": {
+      "je": "achète",
+      "tu": "achètes",
+      "il/elle/on": "achète",
+      "nous": "achetons",
+      "vous": "achetez",
+      "ils/elles": "achètent"
+    },
+    "examples": [
+      { "french": "J'achète du pain.", "english": "I buy some bread." },
+      { "french": "Nous achetons des livres pour le cours.", "english": "We buy books for the class." }
+    ]
+  },
+  {
+    "infinitive": "chercher",
+    "english": "to look for",
+    "pattern": "-er",
+    "participle": "cherché",
+    "conjugations": {
+      "je": "cherche",
+      "tu": "cherches",
+      "il/elle/on": "cherche",
+      "nous": "cherchons",
+      "vous": "cherchez",
+      "ils/elles": "cherchent"
+    },
+    "examples": [
+      { "french": "Je cherche mes clés.", "english": "I am looking for my keys." },
+      { "french": "Nous cherchons un bon restaurant.", "english": "We are looking for a good restaurant." }
+    ]
+  },
+  {
+    "infinitive": "chanter",
+    "english": "to sing",
+    "pattern": "-er",
+    "participle": "chanté",
+    "conjugations": {
+      "je": "chante",
+      "tu": "chantes",
+      "il/elle/on": "chante",
+      "nous": "chantons",
+      "vous": "chantez",
+      "ils/elles": "chantent"
+    },
+    "examples": [
+      { "french": "Je chante dans la voiture.", "english": "I sing in the car." },
+      { "french": "Nous chantons en classe.", "english": "We sing in class." }
+    ]
+  },
+  {
+    "infinitive": "danser",
+    "english": "to dance",
+    "pattern": "-er",
+    "participle": "dansé",
+    "conjugations": {
+      "je": "danse",
+      "tu": "danses",
+      "il/elle/on": "danse",
+      "nous": "dansons",
+      "vous": "dansez",
+      "ils/elles": "dansent"
+    },
+    "examples": [
+      { "french": "Je danse avec mes amis.", "english": "I dance with my friends." },
+      { "french": "Ils dansent très bien.", "english": "They dance very well." }
+    ]
+  },
+  {
+    "infinitive": "étudier",
+    "english": "to study",
+    "pattern": "-er",
+    "participle": "étudié",
+    "conjugations": {
+      "je": "étudie",
+      "tu": "étudies",
+      "il/elle/on": "étudie",
+      "nous": "étudions",
+      "vous": "étudiez",
+      "ils/elles": "étudient"
+    },
+    "examples": [
+      { "french": "J'étudie le français chaque soir.", "english": "I study French every evening." },
+      { "french": "Vous étudiez pour l'examen.", "english": "You study for the exam." }
+    ]
+  },
+  {
+    "infinitive": "laver",
+    "english": "to wash",
+    "pattern": "-er",
+    "participle": "lavé",
+    "conjugations": {
+      "je": "lave",
+      "tu": "laves",
+      "il/elle/on": "lave",
+      "nous": "lavons",
+      "vous": "lavez",
+      "ils/elles": "lavent"
+    },
+    "examples": [
+      { "french": "Je lave la voiture.", "english": "I wash the car." },
+      { "french": "Nous lavons la vaisselle après le dîner.", "english": "We wash the dishes after dinner." }
+    ]
+  },
+  {
+    "infinitive": "voyager",
+    "english": "to travel",
+    "pattern": "-er",
+    "participle": "voyagé",
+    "conjugations": {
+      "je": "voyage",
+      "tu": "voyages",
+      "il/elle/on": "voyage",
+      "nous": "voyageons",
+      "vous": "voyagez",
+      "ils/elles": "voyagent"
+    },
+    "examples": [
+      { "french": "Je voyage en train.", "english": "I travel by train." },
+      { "french": "Ils voyagent en été.", "english": "They travel in the summer." }
+    ]
+  },
+  {
+    "infinitive": "préparer",
+    "english": "to prepare",
+    "pattern": "-er",
+    "participle": "préparé",
+    "conjugations": {
+      "je": "prépare",
+      "tu": "prépares",
+      "il/elle/on": "prépare",
+      "nous": "préparons",
+      "vous": "préparez",
+      "ils/elles": "préparent"
+    },
+    "examples": [
+      { "french": "Je prépare le dîner.", "english": "I prepare dinner." },
+      { "french": "Nous préparons nos affaires pour le voyage.", "english": "We prepare our things for the trip." }
+    ]
+  },
+  {
+    "infinitive": "visiter",
+    "english": "to visit",
+    "pattern": "-er",
+    "participle": "visité",
+    "conjugations": {
+      "je": "visite",
+      "tu": "visites",
+      "il/elle/on": "visite",
+      "nous": "visitons",
+      "vous": "visitez",
+      "ils/elles": "visitent"
+    },
+    "examples": [
+      { "french": "Je visite le musée.", "english": "I visit the museum." },
+      { "french": "Nous visitons Paris en été.", "english": "We visit Paris in the summer." }
+    ]
+  },
+  {
+    "infinitive": "habiter",
+    "english": "to live",
+    "pattern": "-er",
+    "participle": "habité",
+    "conjugations": {
+      "je": "habite",
+      "tu": "habites",
+      "il/elle/on": "habite",
+      "nous": "habitons",
+      "vous": "habitez",
+      "ils/elles": "habitent"
+    },
+    "examples": [
+      { "french": "J'habite à Vancouver.", "english": "I live in Vancouver." },
+      { "french": "Nous habitons près du centre-ville.", "english": "We live near downtown." }
+    ]
+  },
+  {
+    "infinitive": "payer",
+    "english": "to pay",
+    "pattern": "-er",
+    "participle": "payé",
+    "conjugations": {
+      "je": "paie/paye",
+      "tu": "paies/payes",
+      "il/elle/on": "paie/paye",
+      "nous": "payons",
+      "vous": "payez",
+      "ils/elles": "paient/payent"
+    },
+    "examples": [
+      { "french": "Je paie avec ma carte.", "english": "I pay with my card." },
+      { "french": "Nous payons l'addition.", "english": "We pay the bill." }
+    ]
+  },
+  {
+    "infinitive": "écouter",
+    "english": "to listen",
+    "pattern": "-er",
+    "participle": "écouté",
+    "conjugations": {
+      "je": "écoute",
+      "tu": "écoutes",
+      "il/elle/on": "écoute",
+      "nous": "écoutons",
+      "vous": "écoutez",
+      "ils/elles": "écoutent"
+    },
+    "examples": [
+      { "french": "J'écoute un podcast en français.", "english": "I listen to a podcast in French." },
+      { "french": "Les étudiants écoutent le professeur.", "english": "The students listen to the teacher." }
+    ]
+  },
+  {
+    "infinitive": "jouer",
+    "english": "to play",
+    "pattern": "-er",
+    "participle": "joué",
+    "conjugations": {
+      "je": "joue",
+      "tu": "joues",
+      "il/elle/on": "joue",
+      "nous": "jouons",
+      "vous": "jouez",
+      "ils/elles": "jouent"
+    },
+    "examples": [
+      { "french": "Je joue au football.", "english": "I play soccer." },
+      { "french": "Nous jouons à un jeu de cartes.", "english": "We play a card game." }
+    ]
+  },
+  {
+    "infinitive": "regarder",
+    "english": "to watch / to look at",
+    "pattern": "-er",
+    "participle": "regardé",
+    "conjugations": {
+      "je": "regarde",
+      "tu": "regardes",
+      "il/elle/on": "regarde",
+      "nous": "regardons",
+      "vous": "regardez",
+      "ils/elles": "regardent"
+    },
+    "examples": [
+      { "french": "Je regarde un film.", "english": "I watch a movie." },
+      { "french": "Nous regardons la télévision le soir.", "english": "We watch television in the evening." }
+    ]
+  },
+  {
+    "infinitive": "travailler",
+    "english": "to work",
+    "pattern": "-er",
+    "participle": "travaillé",
+    "conjugations": {
+      "je": "travaille",
+      "tu": "travailles",
+      "il/elle/on": "travaille",
+      "nous": "travaillons",
+      "vous": "travaillez",
+      "ils/elles": "travaillent"
+    },
+    "examples": [
+      { "french": "Je travaille de chez moi.", "english": "I work from home." },
+      { "french": "Elles travaillent ensemble sur ce projet.", "english": "They work together on this project." }
+    ]
+  },
+  {
+    "infinitive": "monter",
+    "english": "to go up / to climb",
+    "pattern": "-er",
+    "participle": "monté",
+    "conjugations": {
+      "je": "monte",
+      "tu": "montes",
+      "il/elle/on": "monte",
+      "nous": "montons",
+      "vous": "montez",
+      "ils/elles": "montent"
+    },
+    "examples": [
+      { "french": "Je monte au deuxième étage.", "english": "I go up to the second floor." },
+      { "french": "Nous montons dans le bus.", "english": "We get on the bus." }
+    ]
+  },
+  {
+    "infinitive": "rentrer",
+    "english": "to go home / to return",
+    "pattern": "-er",
+    "participle": "rentré",
+    "conjugations": {
+      "je": "rentre",
+      "tu": "rentres",
+      "il/elle/on": "rentre",
+      "nous": "rentrons",
+      "vous": "rentrez",
+      "ils/elles": "rentrent"
+    },
+    "examples": [
+      { "french": "Je rentre tard ce soir.", "english": "I am going home late tonight." },
+      { "french": "Ils rentrent après le travail.", "english": "They return after work." }
+    ]
+  },
+  {
+    "infinitive": "entrer",
+    "english": "to enter",
+    "pattern": "-er",
+    "participle": "entré",
+    "conjugations": {
+      "je": "entre",
+      "tu": "entres",
+      "il/elle/on": "entre",
+      "nous": "entrons",
+      "vous": "entrez",
+      "ils/elles": "entrent"
+    },
+    "examples": [
+      { "french": "J'entre dans la maison.", "english": "I enter the house." },
+      { "french": "Les élèves entrent en classe.", "english": "The students enter the classroom." }
+    ]
+  },
+  {
+    "infinitive": "retourner",
+    "english": "to return / to go back",
+    "pattern": "-er",
+    "participle": "retourné",
+    "conjugations": {
+      "je": "retourne",
+      "tu": "retournes",
+      "il/elle/on": "retourne",
+      "nous": "retournons",
+      "vous": "retournez",
+      "ils/elles": "retournent"
+    },
+    "examples": [
+      { "french": "Je retourne à Paris demain.", "english": "I return to Paris tomorrow." },
+      { "french": "Nous retournons au bureau.", "english": "We go back to the office." }
+    ]
+  },
+  {
+    "infinitive": "tomber",
+    "english": "to fall",
+    "pattern": "-er",
+    "participle": "tombé",
+    "conjugations": {
+      "je": "tombe",
+      "tu": "tombes",
+      "il/elle/on": "tombe",
+      "nous": "tombons",
+      "vous": "tombez",
+      "ils/elles": "tombent"
+    },
+    "examples": [
+      { "french": "Je tombe parfois dans la rue.", "english": "I sometimes fall in the street." },
+      { "french": "Les feuilles tombent en automne.", "english": "Leaves fall in autumn." }
+    ]
+  },
+  {
+    "infinitive": "rester",
+    "english": "to stay",
+    "pattern": "-er",
+    "participle": "resté",
+    "conjugations": {
+      "je": "reste",
+      "tu": "restes",
+      "il/elle/on": "reste",
+      "nous": "restons",
+      "vous": "restez",
+      "ils/elles": "restent"
+    },
+    "examples": [
+      { "french": "Je reste à la maison.", "english": "I stay at home." },
+      { "french": "Nous restons ici ce soir.", "english": "We stay here tonight." }
+    ]
+  },
+  {
+    "infinitive": "arriver",
+    "english": "to arrive",
+    "pattern": "-er",
+    "participle": "arrivé",
+    "conjugations": {
+      "je": "arrive",
+      "tu": "arrives",
+      "il/elle/on": "arrive",
+      "nous": "arrivons",
+      "vous": "arrivez",
+      "ils/elles": "arrivent"
+    },
+    "examples": [
+      { "french": "J'arrive à l'heure.", "english": "I arrive on time." },
+      { "french": "Ils arrivent demain matin.", "english": "They arrive tomorrow morning." }
+    ]
+  },
+  {
+    "infinitive": "téléphoner",
+    "english": "to call / to phone",
+    "pattern": "-er",
+    "participle": "téléphoné",
+    "conjugations": {
+      "je": "téléphone",
+      "tu": "téléphones",
+      "il/elle/on": "téléphone",
+      "nous": "téléphonons",
+      "vous": "téléphonez",
+      "ils/elles": "téléphonent"
+    },
+    "examples": [
+      { "french": "Je téléphone à mes parents.", "english": "I call my parents." },
+      { "french": "Nous téléphonons souvent le soir.", "english": "We call often in the evening." }
+    ]
+  },
+  {
+    "infinitive": "envoyer",
+    "english": "to send",
+    "pattern": "-er",
+    "participle": "envoyé",
+    "conjugations": {
+      "je": "envoie",
+      "tu": "envoies",
+      "il/elle/on": "envoie",
+      "nous": "envoyons",
+      "vous": "envoyez",
+      "ils/elles": "envoient"
+    },
+    "examples": [
+      { "french": "J'envoie un message.", "english": "I send a message." },
+      { "french": "Nous envoyons une carte postale.", "english": "We send a postcard." }
+    ]
+  },
+  {
+    "infinitive": "expliquer",
+    "english": "to explain",
+    "pattern": "-er",
+    "participle": "expliqué",
+    "conjugations": {
+      "je": "explique",
+      "tu": "expliques",
+      "il/elle/on": "explique",
+      "nous": "expliquons",
+      "vous": "expliquez",
+      "ils/elles": "expliquent"
+    },
+    "examples": [
+      { "french": "J'explique le problème.", "english": "I explain the problem." },
+      { "french": "Nous expliquons la règle aux étudiants.", "english": "We explain the rule to the students." }
+    ]
+  },
+  {
+    "infinitive": "porter",
+    "english": "to wear / to carry",
+    "pattern": "-er",
+    "participle": "porté",
+    "conjugations": {
+      "je": "porte",
+      "tu": "portes",
+      "il/elle/on": "porte",
+      "nous": "portons",
+      "vous": "portez",
+      "ils/elles": "portent"
+    },
+    "examples": [
+      { "french": "Elle porte une robe rouge.", "english": "She is wearing a red dress." },
+      { "french": "Je porte mon sac à l'école.", "english": "I carry my bag to school." }
+    ]
+  },
+  {
+    "infinitive": "commencer",
+    "english": "to start / to begin",
+    "pattern": "-er",
+    "participle": "commencé",
+    "conjugations": {
+      "je": "commence",
+      "tu": "commences",
+      "il/elle/on": "commence",
+      "nous": "commençons",
+      "vous": "commencez",
+      "ils/elles": "commencent"
+    },
+    "examples": [
+      { "french": "Je commence le sport demain.", "english": "I start sports tomorrow." },
+      { "french": "Nous commençons le cours à huit heures.", "english": "We start the class at eight o'clock." }
+    ]
+  },
+  {
+    "infinitive": "se lever",
+    "english": "to get up",
+    "pattern": "-er",
+    "participle": "levé",
+    "conjugations": {
+      "je": "me lève",
+      "tu": "te lèves",
+      "il/elle/on": "se lève",
+      "nous": "nous levons",
+      "vous": "vous levez",
+      "ils/elles": "se lèvent"
+    },
+    "examples": [
+      { "french": "Je me lève tôt le matin.", "english": "I get up early in the morning." },
+      { "french": "Nous nous levons à sept heures.", "english": "We get up at seven o'clock." }
+    ]
+  },
+  {
+    "infinitive": "se coucher",
+    "english": "to go to bed",
+    "pattern": "-er",
+    "participle": "couché",
+    "conjugations": {
+      "je": "me couche",
+      "tu": "te couches",
+      "il/elle/on": "se couche",
+      "nous": "nous couchons",
+      "vous": "vous couchez",
+      "ils/elles": "se couchent"
+    },
+    "examples": [
+      { "french": "Je me couche tard le week-end.", "english": "I go to bed late on weekends." },
+      { "french": "Elle se couche après minuit.", "english": "She goes to bed after midnight." }
+    ]
+  },
+  {
+    "infinitive": "s'habiller",
+    "english": "to get dressed",
+    "pattern": "-er",
+    "participle": "habillé",
+    "conjugations": {
+      "je": "m'habille",
+      "tu": "t'habilles",
+      "il/elle/on": "s'habille",
+      "nous": "nous habillons",
+      "vous": "vous habillez",
+      "ils/elles": "s'habillent"
+    },
+    "examples": [
+      { "french": "Je m'habille rapidement.", "english": "I get dressed quickly." },
+      { "french": "Ils s'habillent avant de sortir.", "english": "They get dressed before going out." }
+    ]
+  }
+]

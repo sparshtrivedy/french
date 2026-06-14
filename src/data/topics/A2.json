@@ -1,0 +1,950 @@
+[
+  {
+    "id": "a2-direct-and-indirect-object-pronouns",
+    "title": "Direct and indirect object pronouns",
+    "summary": "COD and COI basics, how to tell them apart, and where they go in the sentence.",
+    "items": [
+      {
+        "subheading": "Forms",
+        "french": "COD: me / te / le / la / nous / vous / les",
+        "english": "Direct object pronouns: me / you / him-it / her-it / us / you / them",
+        "note": "Use COD when the object answers who? or what? and receives the action directly."
+      },
+      {
+        "subheading": "Forms",
+        "french": "COI: me / te / lui / nous / vous / leur",
+        "english": "Indirect object pronouns: to me / to you / to him-her / to us / to you / to them",
+        "note": "Use COI when the object answers to whom? or for whom? and often follows `à`."
+      },
+      {
+        "subheading": "COD vs COI",
+        "french": "Je vois Marie → Je la vois. / Je parle à Marie → Je lui parle.",
+        "english": "I see Marie -> I see her. / I speak to Marie -> I speak to her.",
+        "note": "Quick COD vs COI contrast: direct uses `la`, indirect uses `lui`."
+      },
+      {
+        "subheading": "Present tense placement",
+        "french": "Tu manges la pomme → Tu la manges. / Tu téléphones à tes parents → Tu leur téléphones.",
+        "english": "You eat the apple -> You eat it. / You call your parents -> You call them.",
+        "note": "The pronoun goes before the conjugated verb in the present tense."
+      },
+      {
+        "subheading": "Passé composé placement",
+        "french": "J'ai acheté le livre → Je l'ai acheté. / J'ai envoyé un cadeau à Pierre → Je lui ai envoyé un cadeau.",
+        "english": "I bought the book -> I bought it. / I sent a gift to Pierre -> I sent him a gift.",
+        "note": "In passé composé, the pronoun still goes before the auxiliary."
+      },
+      {
+        "subheading": "How to identify",
+        "french": "Je vois qui ? Marie. → Je la vois. / Je parle à qui ? À Marie. → Je lui parle.",
+        "english": "I see whom? Marie. -> I see her. / I speak to whom? To Marie. -> I speak to her.",
+        "note": "Best cheat: ask the question first, then choose COD or COI."
+      },
+      {
+        "subheading": "Position rules",
+        "french": "Je le vois. / Je l'ai vu. / Je ne le vois pas. / Je ne lui parle pas.",
+        "english": "I see him-it. / I saw him-it. / I do not see him-it. / I do not speak to him-her.",
+        "note": "Position formulas: before the verb, before the auxiliary, and between `ne` and the verb in negation."
+      }
+    ]
+  },
+  {
+    "id": "a2-demonstratives",
+    "title": "Demonstratives",
+    "summary": "Demonstrative adjectives and pronouns for this, that, these, those, and the one.",
+    "items": [
+      {
+        "subheading": "Adjectives",
+        "french": "ce / cet / cette / ces",
+        "english": "this-that masculine / this-that before vowel-h / this-that feminine / these-those",
+        "note": "Core demonstrative adjectives to memorize."
+      },
+      {
+        "subheading": "Adjectives",
+        "french": "ce livre / cet homme / cette femme / ces livres / ces femmes",
+        "english": "this-that book / this-that man / this-that woman / these-those books / these-those women",
+        "note": "`ce` before consonant, `cet` before vowel or silent h, `cette` for feminine, `ces` for plural."
+      },
+      {
+        "subheading": "This vs that",
+        "french": "ce livre-ci / ce livre-là / cette maison-ci / cette maison-là / ces personnes-ci / ces personnes-là",
+        "english": "this book here / that book there / this house here / that house there / these people here / those people there",
+        "note": "Add `-ci` for near and `-là` for far. The suffix attaches to the noun, not the adjective."
+      },
+      {
+        "subheading": "Pronouns",
+        "french": "celui / celle / ceux / celles",
+        "english": "the one masculine / the one feminine / the ones masculine / the ones feminine",
+        "note": "Use demonstrative pronouns when replacing a noun."
+      },
+      {
+        "subheading": "Pronouns",
+        "french": "celui-ci / celui-là / celle-ci / celle-là",
+        "english": "this one / that one / this one feminine / that one feminine",
+        "note": "Add `-ci` and `-là` here too for contrast."
+      },
+      {
+        "subheading": "Pronouns in context",
+        "french": "Je préfère celle-ci à celle-là. / celui qui parle / celle de Jean",
+        "english": "I prefer this one to that one. / the one who is speaking / Jean's one",
+        "note": "Demonstrative pronouns can be followed by `qui` or by `de + noun`."
+      },
+      {
+        "subheading": "Pronouns in context",
+        "french": "Ma voiture est plus grande que celle de Jean.",
+        "english": "My car is bigger than Jean's.",
+        "note": "Common full-sentence example with a demonstrative pronoun."
+      }
+    ]
+  },
+  {
+    "id": "a2-passe-compose",
+    "title": "Passé composé",
+    "summary": "Main structure, negative form, regular participles, irregular participles, être agreement, and common exam verbs.",
+    "items": [
+      {
+        "subheading": "Structure",
+        "french": "Sujet + auxiliaire (avoir ou être) + participe passé + complément",
+        "english": "Subject + auxiliary (avoir or être) + past participle + complement",
+        "note": "Base structure for le passé composé."
+      },
+      {
+        "subheading": "Structure",
+        "french": "J'ai parlé. / Tu as fini. / Nous avons compris. / Je suis allé. / Elle est venue. / Ils sont partis.",
+        "english": "I spoke. / You finished. / We understood. / I went. / She came. / They left.",
+        "note": "Avoir verbs use `avoir`; être verbs use `être`."
+      },
+      {
+        "subheading": "Negative form",
+        "french": "ne + auxiliaire + pas + participe passé / Je n'ai pas mangé. / Elle n'est pas venue. / Nous ne sommes pas partis.",
+        "english": "ne + auxiliary + pas + past participle / I did not eat. / She did not come. / We did not leave.",
+        "note": "In the negative form, `ne ... pas` goes around the auxiliary."
+      },
+      {
+        "subheading": "Regular participles",
+        "french": "-ER → -é: parler → parlé / manger → mangé / écouter → écouté / travailler → travaillé / visiter → visité",
+        "english": "-ER becomes -é: spoken / eaten / listened / worked / visited",
+        "note": "Regular -ER rule: drop `-er`, add `-é`."
+      },
+      {
+        "subheading": "Regular participles",
+        "french": "-IR → -i: finir → fini / choisir → choisi / réussir → réussi / réfléchir → réfléchi / grandir → grandi",
+        "english": "-IR becomes -i: finished / chosen / succeeded / thought / grown",
+        "note": "Regular -IR rule: drop `-ir`, add `-i`."
+      },
+      {
+        "subheading": "Être agreement",
+        "french": "Il est allé / Elle est allée / Ils sont allés / Elles sont allées / Marie et Sophie sont nées à Lyon.",
+        "english": "He went / She went / They went / They went (all women) / Marie and Sophie were born in Lyon.",
+        "note": "With `être`, the participle agrees in gender and number. No agreement needed with `avoir` at this level."
+      },
+      {
+        "subheading": "Irregular families",
+        "french": "PRENDRE family: prendre → pris / apprendre → appris / comprendre → compris",
+        "english": "taken / learned / understood",
+        "note": "Useful irregular family to memorize together."
+      },
+      {
+        "subheading": "Irregular families",
+        "french": "OUVRIR family: ouvrir → ouvert / offrir → offert / couvrir → couvert / découvrir → découvert",
+        "english": "opened / offered / covered / discovered",
+        "note": "Another common participle family pattern."
+      },
+      {
+        "subheading": "Irregular families",
+        "french": "VENIR family: venir → venu / revenir → revenu / devenir → devenu",
+        "english": "come / come back / become",
+        "note": "Important because these often use `être`."
+      },
+      {
+        "subheading": "Irregular families",
+        "french": "VOIR family: voir → vu / recevoir → reçu / apercevoir → aperçu",
+        "english": "seen / received / noticed",
+        "note": "Short irregular set worth grouping together."
+      },
+      {
+        "subheading": "Irregular families",
+        "french": "U family: lire → lu / boire → bu / croire → cru / savoir → su / pouvoir → pu / devoir → dû / vouloir → voulu / courir → couru",
+        "english": "read / drunk / believed / known / been able to / had to / wanted / run",
+        "note": "Frequent irregular participles ending in `u`."
+      },
+      {
+        "subheading": "Irregular core list",
+        "french": "Core irregulars: être → été / avoir → eu / faire → fait / dire → dit / écrire → écrit / mettre → mis / conduire → conduit / vivre → vécu / résoudre → résolu / naître → né / mourir → mort / s'asseoir → assis",
+        "english": "been / had / done / said / written / put / driven / lived / solved / born / died / sat down",
+        "note": "Mixed high-value irregular participles."
+      },
+      {
+        "subheading": "DR MRS VANDERTRAMP",
+        "french": "devenir → devenu / revenir → revenu / monter → monté / rentrer → rentré / sortir → sorti / venir → venu / aller → allé / naître → né / descendre → descendu / entrer → entré / retourner → retourné / tomber → tombé / rester → resté / arriver → arrivé / mourir → mort / partir → parti",
+        "english": "become / come back / gone up / come back home / gone out / come / gone / born / gone down / entered / returned / fallen / stayed / arrived / died / left",
+        "note": "Classic memory list for common verbs that use `être` in the passé composé. Reflexive verbs also use `être`."
+      },
+      {
+        "subheading": "TEF / TCF essentials",
+        "french": "TEF/TCF essentials: être → été / avoir → eu / faire → fait / prendre → pris / comprendre → compris / dire → dit / écrire → écrit / voir → vu / lire → lu / boire → bu / recevoir → reçu / ouvrir → ouvert / offrir → offert / venir → venu / partir → parti / sortir → sorti",
+        "english": "been / had / done / taken / understood / said / written / seen / read / drunk / received / opened / offered / come / left / gone out",
+        "note": "Exam-relevant participles to know cold."
+      },
+      {
+        "subheading": "Common mistake",
+        "french": "Nous avons allé au cinéma. → Nous sommes allés au cinéma.",
+        "english": "We have went to the cinema. -> We went to the cinema.",
+        "note": "Check the auxiliary first. `Aller` takes `être`, and with `être` you also need agreement."
+      }
+    ]
+  },
+  {
+    "id": "a2-imperative",
+    "title": "Le mode impératif",
+    "summary": "Use the imperative to give orders, advice, suggestions, and prohibitions.",
+    "items": [
+      {
+        "subheading": "Overview",
+        "french": "Le mode impératif sert à donner un ordre, un conseil, une interdiction ou une suggestion.",
+        "english": "The imperative is used to give an order, advice, a prohibition, or a suggestion.",
+        "note": "There is no expressed subject, and it exists only in three persons: tu, nous, and vous."
+      },
+      {
+        "subheading": "Formation",
+        "french": "L'impératif est généralement basé sur le présent de l'indicatif.",
+        "english": "The imperative is generally based on the present tense of the indicative.",
+        "note": "Most forms are built from the present-tense verb, with a few adjustments."
+      },
+      {
+        "subheading": "1st group verbs (-ER)",
+        "french": "(Tu) Parle ! / (Nous) Parlons ! / (Vous) Parlez ! / (Tu) Mange ! / (Nous) Mangeons ! / (Vous) Mangez !",
+        "english": "(You) Speak! / Let's speak! / Speak! / (You) Eat! / Let's eat! / Eat!",
+        "note": "For most -ER verbs, the imperative matches the present tense, except `tu`, where the final `s` is dropped."
+      },
+      {
+        "subheading": "1st group verbs (-ER)",
+        "french": "Vas-y ! / Manges-en !",
+        "english": "Go there! / Eat some!",
+        "note": "Exception: keep the `s` in the `tu` form when it is followed by `y` or `en`."
+      },
+      {
+        "subheading": "2nd and 3rd group verbs",
+        "french": "(Tu) Finis ! / (Nous) Finissons ! / (Vous) Finissez ! / (Tu) Prends ! / (Nous) Prenons ! / (Vous) Prenez ! / (Tu) Viens ! / (Nous) Venons ! / (Vous) Venez ! / (Tu) Lis ! / (Nous) Lisons ! / (Vous) Lisez !",
+        "english": "(You) Finish! / Let's finish! / Finish! / (You) Take! / Let's take! / Take! / (You) Come! / Let's come! / Come! / (You) Read! / Let's read! / Read!",
+        "note": "For most 2nd- and 3rd-group verbs, the imperative is identical to the present tense and keeps the `s` in the `tu` form."
+      },
+      {
+        "subheading": "Irregular imperative verbs",
+        "french": "Être → Sois ! / Soyons ! / Soyez ! / Avoir → Aie ! / Ayons ! / Ayez ! / Savoir → Sache ! / Sachons ! / Sachez !",
+        "english": "Be! / Let's be! / Be! / Have! / Let's have! / Have! / Know! / Let's know! / Know!",
+        "note": "These common verbs have irregular imperative forms and should be memorized directly."
+      },
+      {
+        "subheading": "Reflexive verbs: affirmative",
+        "french": "Lève-toi ! / Levons-nous ! / Levez-vous ! / Dépêche-toi ! / Dépêchons-nous ! / Dépêchez-vous !",
+        "english": "Get up! / Let's get up! / Get up! / Hurry up! / Let's hurry! / Hurry up!",
+        "note": "In the affirmative imperative, reflexive pronouns become tonic pronouns (`toi`, `nous`, `vous`) and come after the verb with a hyphen."
+      },
+      {
+        "subheading": "Reflexive verbs: negative",
+        "french": "Ne te lève pas ! / Ne nous levons pas ! / Ne vous levez pas ! / Ne te dépêche pas ! / Ne nous dépêchons pas ! / Ne vous dépêchez pas !",
+        "english": "Don't get up! / Let's not get up! / Don't get up! / Don't hurry up! / Let's not hurry! / Don't hurry up!",
+        "note": "In the negative imperative, the reflexive pronoun goes back before the verb between `ne` and the verb."
+      },
+      {
+        "subheading": "Uses",
+        "french": "Ferme la porte ! / Venez avec moi ! / Faisons nos devoirs ! / Sois attentif en classe. / Réfléchissez avant de parler. / Mange équilibré. / Ne cours pas dans les couloirs ! / N'oubliez pas vos affaires ! / Ne t'inquiète pas.",
+        "english": "Close the door! / Come with me! / Let's do our homework! / Be attentive in class. / Think before speaking. / Eat a balanced diet. / Don't run in the hallways! / Don't forget your things! / Don't worry.",
+        "note": "These show the main uses of the imperative: order, advice, suggestion, and prohibition."
+      }
+    ]
+  },
+  {
+    "id": "a2-relative-pronouns",
+    "title": "Les pronoms relatifs",
+    "summary": "Use relative pronouns to connect two ideas and avoid repeating the same noun.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Les pronoms relatifs servent à relier deux phrases et à éviter la répétition d'un nom.",
+        "english": "Relative pronouns are used to connect two sentences and avoid repeating a noun.",
+        "note": "They introduce a relative clause."
+      },
+      {
+        "subheading": "Definition",
+        "french": "J'ai un livre. Ce livre est intéressant. → J'ai un livre qui est intéressant.",
+        "english": "I have a book. This book is interesting. -> I have a book that is interesting.",
+        "note": "The repeated noun gets replaced by a relative pronoun."
+      },
+      {
+        "subheading": "Main pronouns",
+        "french": "qui / que / où / dont",
+        "english": "who-that / that-which / where-when / of which-from which",
+        "note": "These are the main relative pronouns to know at A2."
+      },
+      {
+        "subheading": "QUI",
+        "french": "Qui remplace le sujet.",
+        "english": "Qui replaces the subject.",
+        "note": "Use `qui` when the replaced word is the subject of the verb."
+      },
+      {
+        "subheading": "QUI",
+        "french": "L'homme qui parle est mon professeur. / Le chien qui court est rapide. / Voici l'élève qui a réussi.",
+        "english": "The man who is speaking is my teacher. / The dog that is running is fast. / Here is the student who succeeded.",
+        "note": "After `qui`, the verb follows directly because `qui` is the subject."
+      },
+      {
+        "subheading": "QUE",
+        "french": "Que remplace le COD.",
+        "english": "Que replaces the direct object.",
+        "note": "Use `que` when the replaced word is the direct object. It is followed by a subject."
+      },
+      {
+        "subheading": "QUE",
+        "french": "Le livre que je lis est intéressant. / La robe qu'elle porte est belle. / Le film que nous regardons est long.",
+        "english": "The book that I am reading is interesting. / The dress that she is wearing is beautiful. / The film that we are watching is long.",
+        "note": "`Que` becomes `qu'` before a vowel."
+      },
+      {
+        "subheading": "OÙ",
+        "french": "Où indique le lieu ou le temps.",
+        "english": "Où indicates place or time.",
+        "note": "Use `où` for where or when."
+      },
+      {
+        "subheading": "OÙ",
+        "french": "La ville où je vis est grande. / Le jour où je suis né est spécial. / Voici la maison où il habite.",
+        "english": "The city where I live is big. / The day when I was born is special. / Here is the house where he lives.",
+        "note": "`Où` can refer to a place or to a moment in time."
+      },
+      {
+        "subheading": "DONT",
+        "french": "Dont remplace un complément introduit par `de`.",
+        "english": "Dont replaces a complement introduced by `de`.",
+        "note": "Useful with verbs like `parler de`, `avoir besoin de`, `se souvenir de`."
+      },
+      {
+        "subheading": "DONT",
+        "french": "Le livre dont je parle est intéressant. / L'homme dont je me souviens est gentil. / C'est un sujet dont je parle.",
+        "english": "The book that I am talking about is interesting. / The man I remember is kind. / It is a subject that I am talking about.",
+        "note": "Ask yourself whether the original phrase uses `de`."
+      },
+      {
+        "subheading": "Quick summary",
+        "french": "QUI = sujet / QUE = COD / OÙ = lieu ou temps / DONT = avec `de`",
+        "english": "QUI = subject / QUE = direct object / OÙ = place or time / DONT = with `de`",
+        "note": "This is the core distinction to memorize."
+      },
+      {
+        "subheading": "Exercises",
+        "french": "Le livre que je lis est intéressant. / La femme qui parle est ma mère. / La ville où je vais est Paris. / Le sujet dont je parle est difficile.",
+        "english": "The book that I am reading is interesting. / The woman who is speaking is my mother. / The city where I am going is Paris. / The subject I am talking about is difficult.",
+        "note": "Representative answers from the exercise patterns in the document."
+      },
+      {
+        "subheading": "Common mistakes",
+        "french": "Le livre qui je lis est intéressant. → Le livre que je lis est intéressant. / La femme que parle est gentille. → La femme qui parle est gentille. / La ville dont je vais est grande. → La ville où je vais est grande.",
+        "english": "The book who I read is interesting. -> The book that I am reading is interesting. / The woman that speaks is kind. -> The woman who speaks is kind. / The city of which I go is big. -> The city where I go is big.",
+        "note": "Typical confusion: `qui` for subject, `que` for COD, `où` for place, `dont` with `de`."
+      }
+    ]
+  },
+  {
+    "id": "a2-frequency-adverbs",
+    "title": "Les adverbes de fréquence",
+    "summary": "Use frequency adverbs to show how often something happens and where to place them in a sentence.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Les adverbes de fréquence indiquent la régularité d'une action ou d'un événement.",
+        "english": "Frequency adverbs show how regular an action or event is.",
+        "note": "They answer questions like `À quelle fréquence ?` or `Combien de fois ?`."
+      },
+      {
+        "subheading": "High frequency",
+        "french": "toujours / constamment / fréquemment / régulièrement / habituellement / d'habitude / souvent",
+        "english": "always / constantly / frequently / regularly / usually / usually / often",
+        "note": "These express actions that happen very often."
+      },
+      {
+        "subheading": "Medium frequency",
+        "french": "parfois / quelquefois / de temps en temps / occasionnellement",
+        "english": "sometimes / sometimes / from time to time / occasionally",
+        "note": "These express actions that happen now and then."
+      },
+      {
+        "subheading": "Low or zero frequency",
+        "french": "rarement / presque jamais / jamais",
+        "english": "rarely / almost never / never",
+        "note": "These express actions that happen very little or not at all."
+      },
+      {
+        "subheading": "Specific expressions",
+        "french": "tous les jours / chaque jour / toutes les semaines / chaque semaine / tous les mois / chaque mois / tous les ans / chaque année / une fois par jour / deux fois par semaine",
+        "english": "every day / each day / every week / each week / every month / each month / every year / each year / once a day / twice a week",
+        "note": "These are fixed frequency expressions rather than single adverbs."
+      },
+      {
+        "subheading": "Position with simple tenses",
+        "french": "Il travaille souvent tard. / Nous allons toujours au marché le samedi. / Elle ne mange jamais de viande.",
+        "english": "He often works late. / We always go to the market on Saturday. / She never eats meat.",
+        "note": "With simple tenses, the frequency adverb usually comes after the verb."
+      },
+      {
+        "subheading": "Position with compound tenses",
+        "french": "J'ai souvent voyagé en France. / Elles sont toujours parties avant midi. / Il n'a jamais compris.",
+        "english": "I have often traveled in France. / They have always left before noon. / He never understood.",
+        "note": "With compound tenses, the frequency adverb usually goes between the auxiliary and the past participle."
+      },
+      {
+        "subheading": "Long expressions",
+        "french": "De temps en temps, j'ai regardé ce film. / J'ai regardé ce film de temps en temps.",
+        "english": "From time to time, I watched this film. / I watched this film from time to time.",
+        "note": "Longer expressions can often go at the beginning or the end of the sentence."
+      },
+      {
+        "subheading": "With an infinitive",
+        "french": "Il faut toujours vérifier ses sources. / J'essaie de rarement manger dehors.",
+        "english": "One must always check one's sources. / I try to rarely eat out.",
+        "note": "With an infinitive, the adverb usually comes before the infinitive."
+      },
+      {
+        "subheading": "For emphasis",
+        "french": "Souvent, il pleut en automne. / Je fais du sport tous les jours.",
+        "english": "Often, it rains in autumn. / I do sports every day.",
+        "note": "Some frequency adverbs or expressions can be moved to the beginning or end for emphasis."
+      },
+      {
+        "subheading": "Negative frequency",
+        "french": "Il ne vient jamais en avance. / Elle n'a jamais visité Paris.",
+        "english": "He never comes early. / She has never visited Paris.",
+        "note": "Negative frequency expressions like `ne ... jamais` place `ne` before the verb or auxiliary and `jamais` after it."
+      }
+    ]
+  },
+  {
+    "id": "a2-futur-proche",
+    "title": "Le futur proche",
+    "summary": "Use the futur proche to talk about something that is going to happen soon or a plan that is already decided.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Le futur proche sert à exprimer une action dans un avenir très immédiat ou une intention déjà fixée.",
+        "english": "The near future is used to express an action in the very near future or an intention that is already decided.",
+        "note": "It is very common in spoken French."
+      },
+      {
+        "subheading": "Formation",
+        "french": "Sujet + aller (conjugué au présent) + verbe à l'infinitif + complément",
+        "english": "Subject + aller (conjugated in the present) + infinitive verb + complement",
+        "note": "Core structure: use the conjugated verb `aller` followed by an infinitive."
+      },
+      {
+        "subheading": "Aller in the present",
+        "french": "je vais / tu vas / il-elle-on va / nous allons / vous allez / ils-elles vont",
+        "english": "I am going / you are going / he-she-one is going / we are going / you are going / they are going",
+        "note": "You need the present-tense forms of `aller` to build the futur proche."
+      },
+      {
+        "subheading": "Simple examples",
+        "french": "Je vais manger. / Tu vas dormir. / Elle va étudier. / Nous allons voyager. / Vous allez travailler. / Ils vont jouer.",
+        "english": "I am going to eat. / You are going to sleep. / She is going to study. / We are going to travel. / You are going to work. / They are going to play.",
+        "note": "These are the basic futur proche patterns."
+      },
+      {
+        "subheading": "Examples with complements",
+        "french": "Je vais manger au restaurant ce soir. / Tu vas voir un film demain. / Il va partir en vacances la semaine prochaine. / Nous allons acheter une voiture. / Vous allez finir votre travail bientôt. / Elles vont apprendre le français.",
+        "english": "I am going to eat at the restaurant this evening. / You are going to see a movie tomorrow. / He is going to leave for vacation next week. / We are going to buy a car. / You are going to finish your work soon. / They are going to learn French.",
+        "note": "Add time expressions or objects after the infinitive as usual."
+      },
+      {
+        "subheading": "Uses",
+        "french": "Je vais sortir. / Je vais commencer le sport. / Nous allons déménager.",
+        "english": "I am going to go out. / I am going to start sports. / We are going to move.",
+        "note": "Main uses: imminent action, intention, and a decided plan."
+      },
+      {
+        "subheading": "Negative form",
+        "french": "Sujet + ne + aller + pas + infinitif / Je ne vais pas sortir ce soir. / Tu ne vas pas venir à mon anniversaire. / Ruben ne va pas travailler pendant 5 jours.",
+        "english": "Subject + ne + aller + pas + infinitive / I am not going to go out this evening. / You are not going to come to my birthday. / Ruben is not going to work for 5 days.",
+        "note": "The negation wraps around the conjugated form of `aller`."
+      },
+      {
+        "subheading": "Question forms",
+        "french": "Tu vas venir ? / Est-ce que tu vas venir ? / Vas-tu venir ?",
+        "english": "Are you going to come? / Are you going to come? / Are you going to come?",
+        "note": "You can ask questions with intonation, `est-ce que`, or inversion."
+      },
+      {
+        "subheading": "Attention",
+        "french": "Je vais manger ✔ / Je vais mange ✘",
+        "english": "I am going to eat ✔ / I am going to eats ✘",
+        "note": "Use the infinitive after `aller`, not another conjugated verb."
+      },
+      {
+        "subheading": "Attention",
+        "french": "Je vais / Tu vas / Il va / Nous allons / Vous allez / Ils vont",
+        "english": "I am going / You are going / He is going / We are going / You are going / They are going",
+        "note": "Do not forget to conjugate `aller` correctly."
+      }
+    ]
+  },
+  {
+    "id": "a2-partitive-articles",
+    "title": "Les articles partitifs",
+    "summary": "Use partitive articles for an unspecified quantity, especially with things that are not counted individually.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Les articles partitifs servent à parler d'une quantité indéterminée, c'est-à-dire une partie d'un tout qu'on ne peut pas compter.",
+        "english": "Partitive articles are used to talk about an unspecified quantity, that is, part of a whole that cannot be counted.",
+        "note": "In English this often corresponds to `some` or no article at all."
+      },
+      {
+        "subheading": "Definition",
+        "french": "Je mange du pain. / Elle boit de l'eau.",
+        "english": "I eat some bread. / She drinks some water.",
+        "note": "These are basic examples of an unspecified quantity."
+      },
+      {
+        "subheading": "Forms",
+        "french": "du / de la / de l' / des",
+        "english": "some masculine singular / some feminine singular / some before vowel or silent h / some plural",
+        "note": "These are the four main partitive forms."
+      },
+      {
+        "subheading": "Forms",
+        "french": "du fromage / de la soupe / de l'huile / des légumes",
+        "english": "some cheese / some soup / some oil / some vegetables",
+        "note": "Use `du` for masculine singular, `de la` for feminine singular, `de l'` before vowel or silent h, and `des` for plural."
+      },
+      {
+        "subheading": "Uses",
+        "french": "du lait / de la farine / de l'argent",
+        "english": "some milk / some flour / some money",
+        "note": "Use partitive articles with uncountable nouns."
+      },
+      {
+        "subheading": "Uses",
+        "french": "Je veux du café. / Elle mange de la viande.",
+        "english": "I want some coffee. / She eats some meat.",
+        "note": "Use them to express a vague or unspecified quantity."
+      },
+      {
+        "subheading": "Quantity expressions",
+        "french": "beaucoup de / un kilo de / un peu de",
+        "english": "a lot of / a kilo of / a little of",
+        "note": "With a precise quantity expression, the partitive is replaced by `de`."
+      },
+      {
+        "subheading": "Quantity expressions",
+        "french": "Je bois beaucoup d'eau. / Il achète un kilo de pommes.",
+        "english": "I drink a lot of water. / He buys a kilo of apples.",
+        "note": "After these expressions, use `de` or `d'`."
+      },
+      {
+        "subheading": "Comparison with other articles",
+        "french": "le pain / un pain / du pain",
+        "english": "the bread / a loaf of bread / some bread",
+        "note": "Definite article = specific thing, indefinite article = countable thing, partitive article = unspecified quantity."
+      },
+      {
+        "subheading": "Quick test",
+        "french": "Peut-on compter ? / du sucre, de l'eau / une pomme, des livres",
+        "english": "Can it be counted? / some sugar, some water / an apple, some books",
+        "note": "If the answer is no, use a partitive. If yes, use `un`, `une`, or `des`."
+      },
+      {
+        "subheading": "Recap examples",
+        "french": "Je mange du chocolat. / Elle prépare de la soupe. / Nous buvons de l'eau. / Ils achètent des fruits. / Je ne veux pas de sucre.",
+        "english": "I eat some chocolate. / She makes some soup. / We drink some water. / They buy some fruit. / I do not want any sugar.",
+        "note": "Useful mixed examples of affirmative and negative use."
+      },
+      {
+        "subheading": "Negation rule",
+        "french": "du / de la / de l' / des → de / d'",
+        "english": "partitive articles become `de` or `d'` in negation",
+        "note": "At the negative form, partitive articles usually change to `de` or `d'`."
+      },
+      {
+        "subheading": "Negation rule",
+        "french": "Sujet + ne + verbe + pas + de / d' + nom",
+        "english": "Subject + ne + verb + pas + de / d' + noun",
+        "note": "This is the basic negative structure."
+      },
+      {
+        "subheading": "Negation examples",
+        "french": "Je mange du pain → Je ne mange pas de pain. / Elle boit de la soupe → Elle ne boit pas de soupe. / Il prend de l'eau → Il ne prend pas d'eau. / Nous achetons des fruits → Nous n'achetons pas de fruits.",
+        "english": "I eat some bread -> I do not eat any bread. / She drinks some soup -> She does not drink any soup. / He takes some water -> He does not take any water. / We buy some fruit -> We do not buy any fruit.",
+        "note": "Negation often expresses zero quantity, so use the neutral `de` form."
+      },
+      {
+        "subheading": "Exception with être",
+        "french": "C'est du fromage → Ce n'est pas du fromage. / C'est de la soupe → Ce n'est pas de la soupe.",
+        "english": "It is some cheese -> It is not some cheese. / It is some soup -> It is not some soup.",
+        "note": "With the verb `être`, the partitive article does not change in the negative."
+      },
+      {
+        "subheading": "Other negatives",
+        "french": "Je ne bois jamais de café. / Elle ne mange plus de légumes. / Je ne bois pas d'eau.",
+        "english": "I never drink coffee. / She no longer eats vegetables. / I do not drink water.",
+        "note": "The same `de / d'` rule applies with `ne ... jamais` and `ne ... plus`. Before a vowel or silent h, use `d'`."
+      }
+    ]
+  },
+  {
+    "id": "a2-possessive-pronouns",
+    "title": "Les pronoms possessifs",
+    "summary": "Use possessive pronouns to replace a noun and show possession without repeating the noun.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Les pronoms possessifs remplacent un nom pour éviter la répétition et indiquent la possession.",
+        "english": "Possessive pronouns replace a noun to avoid repetition and show possession.",
+        "note": "They replace `possessive adjective + noun`."
+      },
+      {
+        "subheading": "Definition",
+        "french": "C'est mon livre. → C'est le mien. / Voici ta voiture. → Voici la tienne.",
+        "english": "It is my book. -> It is mine. / Here is your car. -> Here is yours.",
+        "note": "Basic pattern: the noun disappears and the possessive pronoun replaces it."
+      },
+      {
+        "subheading": "Core forms",
+        "french": "le mien / le tien / le sien / le nôtre / le vôtre / le leur",
+        "english": "mine / yours / his-hers / ours / yours / theirs",
+        "note": "Masculine singular forms."
+      },
+      {
+        "subheading": "Core forms",
+        "french": "la mienne / la tienne / la sienne / la nôtre / la vôtre / la leur",
+        "english": "mine / yours / hers-his / ours / yours / theirs",
+        "note": "Feminine singular forms."
+      },
+      {
+        "subheading": "Core forms",
+        "french": "les miens / les tiens / les siens / les nôtres / les vôtres / les leurs",
+        "english": "mine / yours / his-hers / ours / yours / theirs",
+        "note": "Masculine plural or mixed plural forms."
+      },
+      {
+        "subheading": "Core forms",
+        "french": "les miennes / les tiennes / les siennes / les nôtres / les vôtres / les leurs",
+        "english": "mine / yours / hers-his / ours / yours / theirs",
+        "note": "Feminine plural forms."
+      },
+      {
+        "subheading": "How to build them",
+        "french": "mon stylo → le mien / ta maison → la tienne / nos amis → les nôtres",
+        "english": "my pen -> mine / your house -> yours / our friends -> ours",
+        "note": "Structure: `possessive adjective + noun` becomes `possessive pronoun`."
+      },
+      {
+        "subheading": "Agreement",
+        "french": "Ton sac est noir. Le mien est rouge. / Sa voiture est rapide. La sienne est neuve.",
+        "english": "Your bag is black. Mine is red. / Her car is fast. Hers is new.",
+        "note": "The possessive pronoun agrees with the noun replaced, not with the owner."
+      },
+      {
+        "subheading": "Agreement",
+        "french": "Vos livres sont ici. Les nôtres sont là-bas. / Mes chaussures sont sales. Les tiennes sont propres.",
+        "english": "Your books are here. Ours are over there. / My shoes are dirty. Yours are clean.",
+        "note": "Check both gender and number of the noun being replaced."
+      },
+      {
+        "subheading": "Adjective vs pronoun",
+        "french": "mon livre / ta voiture / nos amis → le mien / la tienne / les nôtres",
+        "english": "my book / your car / our friends -> mine / yours / ours",
+        "note": "Possessive adjectives go before a noun. Possessive pronouns replace the noun."
+      },
+      {
+        "subheading": "Examples",
+        "french": "Ce sac est le mien. / Cette robe est la tienne. / Ces clés sont les leurs. / Notre appartement est plus grand que le vôtre. / Son vélo est cassé ; le mien fonctionne bien.",
+        "english": "This bag is mine. / This dress is yours. / These keys are theirs. / Our apartment is bigger than yours. / His bike is broken; mine works well.",
+        "note": "Useful sentence-level examples."
+      },
+      {
+        "subheading": "Dialogue",
+        "french": "À qui est cette voiture ? — C'est la mienne. / Et ces livres ? — Ce sont les tiens. / Où sont leurs sacs ? — Les leurs sont dans la voiture.",
+        "english": "Whose car is this? — It's mine. / And these books? — They are yours. / Where are their bags? — Theirs are in the car.",
+        "note": "Common conversational use."
+      },
+      {
+        "subheading": "Common mistakes",
+        "french": "le mienne ✘ → la mienne ✔ / les notre ✘ → les nôtres ✔",
+        "english": "wrong masculine-feminine form / missing accent and plural form",
+        "note": "Watch gender agreement and forms like `nôtre` and `vôtre`."
+      },
+      {
+        "subheading": "Quick guide",
+        "french": "livre → le mien / table → la mienne / livres → les miens / tables → les miennes",
+        "english": "book -> mine / table -> mine / books -> mine / tables -> mine",
+        "note": "Check the noun replaced first: masculine singular, feminine singular, masculine plural, feminine plural."
+      }
+    ]
+  },
+  {
+    "id": "a2-passe-recent",
+    "title": "Le passé récent",
+    "summary": "Use the passé récent to talk about something that happened just before the present moment.",
+    "items": [
+      {
+        "subheading": "Definition",
+        "french": "Le passé récent exprime une action terminée juste avant le moment où l'on parle.",
+        "english": "The recent past expresses an action that finished just before the moment of speaking.",
+        "note": "It emphasizes the closeness in time between the action and the present."
+      },
+      {
+        "subheading": "Definition",
+        "french": "Je viens de finir mon travail.",
+        "english": "I have just finished my work.",
+        "note": "This means the action happened only a moment ago."
+      },
+      {
+        "subheading": "Formation",
+        "french": "Sujet + venir (au présent) + de + verbe à l'infinitif + complément",
+        "english": "Subject + venir (in the present) + de + infinitive verb + complement",
+        "note": "This is the basic formula for the passé récent."
+      },
+      {
+        "subheading": "Formation",
+        "french": "Je viens de manger des croissants.",
+        "english": "I have just eaten croissants.",
+        "note": "This is a verbal periphrasis: several words form one time meaning."
+      },
+      {
+        "subheading": "Structure analysis",
+        "french": "Je = sujet / viens = verbe venir conjugué / de = préposition / manger = infinitif",
+        "english": "Je = subject / viens = conjugated verb venir / de = preposition / manger = infinitive",
+        "note": "The real action is in the infinitive, not in `venir`."
+      },
+      {
+        "subheading": "Conjugation of venir",
+        "french": "je viens / tu viens / il-elle vient / nous venons / vous venez / ils-elles viennent",
+        "english": "I come / you come / he-she comes / we come / you come / they come",
+        "note": "You need the present-tense forms of `venir` for the basic passé récent."
+      },
+      {
+        "subheading": "Time shifts",
+        "french": "Je viens de partir. / Je venais de partir quand il est arrivé. / Je viendrai de finir quand tu arriveras.",
+        "english": "I have just left. / I had just left when he arrived. / I will have just finished when you arrive.",
+        "note": "The tense of `venir` changes depending on the time frame: present, imperfect, or future."
+      },
+      {
+        "subheading": "Past in the past",
+        "french": "Elle venait de sortir quand il a appelé. / Nous venions de commencer le cours.",
+        "english": "She had just gone out when he called. / We had just started the lesson.",
+        "note": "Use `venir` in the imperfect to express something that had just happened before another past action."
+      },
+      {
+        "subheading": "Pronoun placement",
+        "french": "Je viens de le voir. / Elle vient de m'appeler. / Nous venons de leur parler.",
+        "english": "I have just seen him-it. / She has just called me. / We have just spoken to them.",
+        "note": "Pronouns go before the infinitive, not before `venir`."
+      },
+      {
+        "subheading": "Pronoun placement",
+        "french": "Je le viens de voir ✘ / Je viens de le voir ✔",
+        "english": "Wrong pronoun position ✘ / Correct pronoun position ✔",
+        "note": "This is a very common mistake."
+      },
+      {
+        "subheading": "Reflexive verbs",
+        "french": "Je viens de me lever. / Elle vient de se coucher. / Ils viennent de s'habiller.",
+        "english": "I have just gotten up. / She has just gone to bed. / They have just gotten dressed.",
+        "note": "With reflexive verbs, keep the reflexive pronoun before the infinitive."
+      },
+      {
+        "subheading": "Negative form",
+        "french": "Sujet + ne + venir + pas + de + infinitif",
+        "english": "Subject + ne + venir + pas + de + infinitive",
+        "note": "Basic negative structure of the passé récent."
+      },
+      {
+        "subheading": "Negative form",
+        "french": "Je ne viens pas de manger. / Elle ne vient pas de partir. / Je ne viens jamais de manger. / Il ne vient plus de travailler. / Elle ne vient pas encore de finir.",
+        "english": "I have not just eaten. / She has not just left. / I have never just eaten. / He no longer has just worked. / She has not finished just yet.",
+        "note": "Other negative words like `jamais`, `plus`, and `pas encore` can also be used."
+      },
+      {
+        "subheading": "Question forms",
+        "french": "Tu viens de finir ? / Est-ce que tu viens de finir ? / Viens-tu de finir ?",
+        "english": "Did you just finish? / Did you just finish? / Did you just finish?",
+        "note": "You can ask a question with intonation, `est-ce que`, or inversion."
+      },
+      {
+        "subheading": "Meaning and nuance",
+        "french": "Il vient de partir. / Tu viens de dire quoi ? / Je viens de terminer !",
+        "english": "He has just left. / What did you just say? / I have just finished!",
+        "note": "The passé récent can express immediacy, surprise, or insistence on a result."
+      },
+      {
+        "subheading": "Compared with other tenses",
+        "french": "Je viens de manger / J'ai mangé / Je mangeais / Je venais de manger",
+        "english": "I have just eaten / I ate / I was eating / I had just eaten",
+        "note": "Use the passé récent when you want to stress that the action happened very recently."
+      },
+      {
+        "subheading": "Frequent expressions",
+        "french": "juste / à l'instant / tout juste / il y a une seconde / Je viens juste de finir. / Elle vient à l'instant de partir.",
+        "english": "just / just now / just barely / a second ago / I have just finished. / She has just left this very moment.",
+        "note": "These expressions often appear with the passé récent."
+      },
+      {
+        "subheading": "Common mistakes",
+        "french": "Je viens de mangé ✘ → Je viens de manger ✔ / Je viens manger ✘ → Je viens de manger ✔ / Je le viens de voir ✘ → Je viens de le voir ✔",
+        "english": "Wrong past participle-like form ✘ / Correct infinitive ✔ / Missing `de` ✘ / Correct structure ✔ / Wrong pronoun position ✘ / Correct pronoun position ✔",
+        "note": "Three common errors: using a past participle, forgetting `de`, or putting the pronoun in the wrong place."
+      },
+      {
+        "subheading": "Complex examples",
+        "french": "Je viens de comprendre pourquoi il est parti. / Elle vient de recevoir un message important. / Nous venons de terminer un projet difficile. / Ils viennent de découvrir la vérité.",
+        "english": "I have just understood why he left. / She has just received an important message. / We have just finished a difficult project. / They have just discovered the truth.",
+        "note": "Longer examples show how natural the structure is in real sentences."
+      }
+    ]
+  },
+  {
+    "id": "a2-imparfait",
+    "title": "L'imparfait",
+    "summary": "Use the imparfait for ongoing past actions, repeated habits, states, descriptions, and background situations.",
+    "items": [
+      {
+        "subheading": "Overview",
+        "french": "L'imparfait décrit des actions en cours dans le passé, des habitudes, des états ou le contexte.",
+        "english": "The imperfect describes ongoing past actions, habits, states, or background context.",
+        "note": "It is used when the past action is not seen as completed at one precise moment."
+      },
+      {
+        "subheading": "Main uses",
+        "french": "actions en cours / habitudes dans le passé / états physiques ou émotionnels / descriptions ou arrière-plan / heure ou âge dans le passé",
+        "english": "ongoing actions / habits in the past / physical or emotional states / descriptions or background / time or age in the past",
+        "note": "These are the main situations where the imparfait is used."
+      },
+      {
+        "subheading": "Habitual actions",
+        "french": "Quand j'étais petit, je mangeais souvent des glaces. / Le dimanche, nous allions toujours à l'église. / Elle travaillait six jours par semaine. / Les enfants jouaient dans le parc chaque après-midi. / Autrefois, les gens voyageaient en train.",
+        "english": "When I was little, I often ate ice cream. / On Sundays, we always went to church. / She used to work six days a week. / The children played in the park every afternoon. / In the past, people traveled by train.",
+        "note": "Use the imparfait for repeated or usual actions in the past."
+      },
+      {
+        "subheading": "States and emotions",
+        "french": "J'étais très fatigué ce jour-là. / Nous avions peur du noir. / Elle aimait ce garçon depuis longtemps. / Il faisait beau et chaud. / Les enfants étaient malades.",
+        "english": "I was very tired that day. / We were afraid of the dark. / She had loved that boy for a long time. / The weather was nice and warm. / The children were sick.",
+        "note": "Use the imparfait for states, feelings, weather, and longer emotional situations."
+      },
+      {
+        "subheading": "Descriptions and background",
+        "french": "La maison était grande et blanche. / Les rues étaient désertes. / Il y avait beaucoup de monde au restaurant. / Paris semblait différent à cette époque. / Les arbres avaient des feuilles jaunes.",
+        "english": "The house was large and white. / The streets were deserted. / There were many people at the restaurant. / Paris seemed different at that time. / The trees had yellow leaves.",
+        "note": "Use the imparfait to set the scene or describe the background of a story."
+      },
+      {
+        "subheading": "Interrupted actions",
+        "french": "Je prenais mon petit-déjeuner quand le téléphone a sonné. / Ils regardaient la télévision quand je suis arrivé. / Pendant qu'elle dormait, quelqu'un est entré dans la maison.",
+        "english": "I was having breakfast when the phone rang. / They were watching television when I arrived. / While she was sleeping, someone entered the house.",
+        "note": "The action in progress is in the imparfait. The interrupting completed action is often in the passé composé."
+      },
+      {
+        "subheading": "Formation",
+        "french": "Prenez la forme `nous` du présent, enlevez `-ons`, puis ajoutez : -ais, -ais, -ait, -ions, -iez, -aient.",
+        "english": "Take the `nous` form of the present tense, remove `-ons`, then add: -ais, -ais, -ait, -ions, -iez, -aient.",
+        "note": "This is the standard way to form the imparfait."
+      },
+      {
+        "subheading": "Formation",
+        "french": "parler → nous parlons → parl- → je parlais / tu parlais / il-elle parlait / nous parlions / vous parliez / ils-elles parlaient",
+        "english": "parler -> we speak -> parl- -> I was speaking / you were speaking / he-she was speaking / we were speaking / you were speaking / they were speaking",
+        "note": "Use the `nous` stem and then add the imparfait endings."
+      },
+      {
+        "subheading": "Exception",
+        "french": "être → j'étais / tu étais / il-elle était / nous étions / vous étiez / ils-elles étaient",
+        "english": "to be -> I was / you were / he-she was / we were / you were / they were",
+        "note": "`Être` is the main irregular verb in the imparfait."
+      },
+      {
+        "subheading": "Core examples",
+        "french": "Quand j'étais petit, je mangeais des glaces tous les jours. / Il faisait beau ce jour-là. / Je prenais mon petit-déjeuner quand le téléphone a sonné. / La maison était grande et avait un beau jardin.",
+        "english": "When I was little, I used to eat ice cream every day. / The weather was nice that day. / I was having breakfast when the phone rang. / The house was large and had a beautiful garden.",
+        "note": "These examples cover habit, state, interrupted action, and description."
+      }
+    ]
+  },
+  {
+    "id": "a2-comparatives-superlatives",
+    "title": "Comparatives and superlatives",
+    "summary": "Use comparatives to compare two things and superlatives to show the highest or lowest degree.",
+    "items": [
+      {
+        "subheading": "Comparatives: overview",
+        "french": "plus... que / aussi... que / moins... que",
+        "english": "more... than / as... as / less... than",
+        "note": "These are the three main comparative patterns: superiority, equality, and inferiority."
+      },
+      {
+        "subheading": "Comparatives with adjectives",
+        "french": "Pierre est plus grand que Paul. / Cette maison est aussi belle que l'autre. / Ce film est moins intéressant que celui-là.",
+        "english": "Pierre is taller than Paul. / This house is as beautiful as the other one. / This movie is less interesting than that one.",
+        "note": "Basic structure: `plus`, `aussi`, or `moins` + adjective + `que`."
+      },
+      {
+        "subheading": "Comparatives with adjectives",
+        "french": "Elle est plus intelligente que lui. / Ils sont moins fatigués que nous.",
+        "english": "She is more intelligent than him. / They are less tired than us.",
+        "note": "The adjective still agrees with the subject in gender and number."
+      },
+      {
+        "subheading": "Comparatives with nouns",
+        "french": "plus de / autant de / moins de + nom + que",
+        "english": "more of / as many-much as / less of + noun + than",
+        "note": "Use these forms when comparing quantities of nouns."
+      },
+      {
+        "subheading": "Comparatives with nouns",
+        "french": "J'ai plus de livres que toi. / Elle a autant d'amis que lui. / Il a moins d'argent que moi. / Il a plus d'expérience que moi.",
+        "english": "I have more books than you. / She has as many friends as him. / He has less money than me. / He has more experience than me.",
+        "note": "Use `d'` instead of `de` before a vowel."
+      },
+      {
+        "subheading": "Irregular comparatives",
+        "french": "bon → meilleur / bien → mieux / mauvais → pire",
+        "english": "good → better / well → better / bad → worse",
+        "note": "These are the main irregular comparative forms."
+      },
+      {
+        "subheading": "Irregular comparatives",
+        "french": "Ce restaurant est meilleur que l'autre. / Elle parle français mieux que moi. / Ce film est pire que le premier.",
+        "english": "This restaurant is better than the other one. / She speaks French better than me. / This movie is worse than the first one.",
+        "note": "`Plus mauvais que` is also acceptable for `worse`."
+      },
+      {
+        "subheading": "Superlatives: overview",
+        "french": "le / la / les + plus / moins + adjectif + de / du / des / d'",
+        "english": "the + most / least + adjective + of / in",
+        "note": "Superlatives express the highest or lowest degree."
+      },
+      {
+        "subheading": "Superlative examples",
+        "french": "C'est le plus grand bâtiment de la ville. / Elle est la plus intelligente de sa classe. / Ce sont les moins chers des produits.",
+        "english": "It is the tallest building in the city. / She is the most intelligent in her class. / These are the least expensive of the products.",
+        "note": "Use the definite article before the superlative."
+      },
+      {
+        "subheading": "Superlative placement and agreement",
+        "french": "C'est la plus belle maison. / C'est la maison la plus belle. / Le plus grand garçon / La plus grande fille / Les plus grands garçons / Les plus grandes filles",
+        "english": "It is the most beautiful house. / It is the house that is the most beautiful. / The tallest boy / The tallest girl / The tallest boys / The tallest girls",
+        "note": "Superlatives can go before or after the noun, and the adjective agrees in gender and number."
+      },
+      {
+        "subheading": "Irregular superlatives",
+        "french": "bon → le meilleur / la meilleure / les meilleur(e)s / bien → le mieux / mauvais → le pire / la pire / les pires",
+        "english": "good → the best / the best feminine / the best plural / well → the best / bad → the worst / the worst feminine / the worst plural",
+        "note": "These are the main irregular superlative forms."
+      },
+      {
+        "subheading": "Irregular superlatives",
+        "french": "C'est le meilleur restaurant de la ville. / C'est la meilleure solution. / Elle danse le mieux de tous. / C'est le pire film que j'ai vu.",
+        "english": "It is the best restaurant in the city. / It is the best solution. / She dances the best of everyone. / It is the worst film I have seen.",
+        "note": "`Le plus mauvais` is also acceptable for `the worst`."
+      }
+    ]
+  }
+]
