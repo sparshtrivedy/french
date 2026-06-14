@@ -142,9 +142,27 @@
       },
       {
         "subheading": "Question words",
-        "french": "Qui / Que-Qu' / Où / Quand / Pourquoi / Comment / Combien",
-        "english": "Who / What / Where / When / Why / How / How many",
-        "note": "These are the most common question starters."
+        "french": "Qui / Que-Qu' / Quel-Quelle-Quels-Quelles / Où / Quand / Pourquoi / Comment / Combien",
+        "english": "Who / What / Which-what / Where / When / Why / How / How many",
+        "note": "`Quel` agrees with the noun: `quel`, `quelle`, `quels`, `quelles`."
+      },
+      {
+        "subheading": "Question examples",
+        "french": "Qui est-ce ? / Que fais-tu ? / Quel âge as-tu ?",
+        "english": "Who is it? / What are you doing? / How old are you?",
+        "note": "These show `qui`, `que`, and `quel` in short everyday questions."
+      },
+      {
+        "subheading": "Question examples",
+        "french": "Où habites-tu ? / Quand partons-nous ? / Pourquoi apprends-tu le français ?",
+        "english": "Where do you live? / When are we leaving? / Why are you learning French?",
+        "note": "Useful model questions with common verbs."
+      },
+      {
+        "subheading": "Question examples",
+        "french": "Comment ça va ? / Combien d'étudiants y a-t-il ? / Quelle heure est-il ?",
+        "english": "How are you? / How many students are there? / What time is it?",
+        "note": "These cover `comment`, `combien`, and `quelle`."
       },
       {
         "subheading": "Il y a",
@@ -170,6 +188,18 @@
         "french": "à / dans / sur / sous / devant / derrière / entre / à côté de / en face de / près de / loin de",
         "english": "at-in / in / on / under / in front of / behind / between / next to / opposite / near / far from",
         "note": "Example: `Le livre est sur la table.`"
+      },
+      {
+        "subheading": "Preposition examples",
+        "french": "Le chat est sous la chaise. / L'école est près de la maison. / Le café est en face de la gare.",
+        "english": "The cat is under the chair. / The school is near the house. / The cafe is opposite the station.",
+        "note": "These help fix `sous`, `près de`, and `en face de` in context."
+      },
+      {
+        "subheading": "Preposition examples",
+        "french": "La voiture est devant l'hôtel. / Le sac est à côté de la porte. / Le parc est entre la banque et la poste.",
+        "english": "The car is in front of the hotel. / The bag is next to the door. / The park is between the bank and the post office.",
+        "note": "Useful everyday location sentences."
       },
       {
         "subheading": "Asking the time",
