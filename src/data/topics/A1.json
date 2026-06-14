@@ -1,45 +1,261 @@
 [
   {
-    "id": "a1-greetings",
-    "title": "Greetings",
-    "summary": "Basic introductions and common phrases.",
+    "id": "a1-subject-pronouns-and-greetings",
+    "title": "Subject pronouns and greetings",
+    "summary": "Core subject pronouns and everyday greetings for basic introductions.",
     "items": [
       {
-        "french": "Bonjour",
-        "english": "Hello",
-        "note": "General daytime greeting."
+        "subheading": "Subject pronouns",
+        "french": "Je / Tu / Il / Elle / On / Nous / Vous / Ils / Elles",
+        "english": "I / You informal / He / She / We-one / We / You formal-plural / They masculine-mixed / They feminine",
+        "note": "Start by recognizing the subject before conjugating the verb."
       },
       {
-        "french": "Salut",
-        "english": "Hi",
-        "note": "Informal."
+        "subheading": "Subject pronouns",
+        "french": "Je suis étudiant. / Tu habites à Vancouver. / Nous parlons français.",
+        "english": "I am a student. / You live in Vancouver. / We speak French.",
+        "note": "Short subject-pronoun examples with common A1 verbs."
       },
       {
-        "french": "Je m'appelle...",
-        "english": "My name is...",
-        "note": "Use for introductions."
+        "subheading": "Greetings",
+        "french": "Bonjour / Bon après-midi / Bonsoir / Salut / Bonne nuit / À demain / Merci / S'il vous plaît / Au revoir",
+        "english": "Hello-good morning / Good afternoon / Good evening / Hi / Good night / See you tomorrow / Thank you / Please / Goodbye",
+        "note": "These are the most common polite phrases for basic conversation."
       }
     ]
   },
   {
-    "id": "a1-numbers",
-    "title": "Numbers",
-    "summary": "Core number vocabulary for dates, prices, and time.",
+    "id": "a1-articles-and-gender",
+    "title": "Articles and gender",
+    "summary": "Definite and indefinite articles plus common noun gender patterns.",
     "items": [
       {
-        "french": "un, deux, trois",
-        "english": "one, two, three",
-        "note": "Start with pronunciation."
+        "subheading": "Definite articles",
+        "french": "le / la / l' / les",
+        "english": "the masculine / the feminine / the before vowel / the plural",
+        "note": "Use `l'` before a vowel or silent h."
       },
       {
-        "french": "dix",
-        "english": "ten",
-        "note": "Useful anchor number."
+        "subheading": "Definite articles",
+        "french": "le livre / la voiture / l'école / les étudiants",
+        "english": "the book / the car / the school / the students",
+        "note": "Basic examples of the four definite article forms."
       },
       {
-        "french": "vingt",
-        "english": "twenty",
-        "note": "Common base for larger numbers."
+        "subheading": "Indefinite articles",
+        "french": "un / une / des",
+        "english": "a masculine / a feminine / some-plural",
+        "note": "Use these for non-specific nouns."
+      },
+      {
+        "subheading": "Indefinite articles",
+        "french": "un livre / une maison / des amis",
+        "english": "a book / a house / some friends",
+        "note": "Simple examples to memorize with article + noun together."
+      },
+      {
+        "subheading": "Gender patterns",
+        "french": "Usually masculine: -age / -ment / -eau / -isme",
+        "english": "Often masculine endings: -age / -ment / -eau / -isme",
+        "note": "Examples: `le voyage`, `le document`, `le bateau`, `le tourisme`."
+      },
+      {
+        "subheading": "Gender patterns",
+        "french": "Usually feminine: -tion / -té / -esse / -ie / -ure",
+        "english": "Often feminine endings: -tion / -té / -esse / -ie / -ure",
+        "note": "Examples: `la nation`, `la liberté`, `la vitesse`, `la pharmacie`, `la voiture`. These are patterns, not guarantees."
+      }
+    ]
+  },
+  {
+    "id": "a1-etre-and-avoir",
+    "title": "Être and avoir",
+    "summary": "The two most important verbs at A1, with core examples.",
+    "items": [
+      {
+        "subheading": "Être",
+        "french": "je suis / tu es / il-elle-on est / nous sommes / vous êtes / ils-elles sont",
+        "english": "I am / you are / he-she-one is / we are / you are / they are",
+        "note": "Memorize `être` early because it appears everywhere."
+      },
+      {
+        "subheading": "Être",
+        "french": "Je suis étudiant. / Elle est canadienne. / Nous sommes fatigués.",
+        "english": "I am a student. / She is Canadian. / We are tired.",
+        "note": "Simple identity and description examples."
+      },
+      {
+        "subheading": "Avoir",
+        "french": "j'ai / tu as / il-elle-on a / nous avons / vous avez / ils-elles ont",
+        "english": "I have / you have / he-she-one has / we have / you have / they have",
+        "note": "Another core irregular verb used constantly in French."
+      },
+      {
+        "subheading": "Avoir",
+        "french": "J'ai vingt ans. / Nous avons une voiture. / Ils ont un chien.",
+        "english": "I am twenty years old. / We have a car. / They have a dog.",
+        "note": "French uses `avoir` for age: `J'ai 20 ans.` literally `I have 20 years`."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-tense-verbs",
+    "title": "Present tense basics",
+    "summary": "Regular present-tense patterns plus two high-frequency irregular verbs.",
+    "items": [
+      {
+        "subheading": "Regular -ER pattern",
+        "french": "parler: parle / parles / parle / parlons / parlez / parlent",
+        "english": "to speak: speak / speak / speaks / speak / speak / speak",
+        "note": "Pattern: `e`, `es`, `e`, `ons`, `ez`, `ent`."
+      },
+      {
+        "subheading": "Regular -IR pattern",
+        "french": "finir: finis / finis / finit / finissons / finissez / finissent",
+        "english": "to finish: finish / finish / finishes / finish / finish / finish",
+        "note": "Pattern: `is`, `is`, `it`, `issons`, `issez`, `issent`."
+      },
+      {
+        "subheading": "Irregular verbs",
+        "french": "faire: fais / fais / fait / faisons / faites / font",
+        "english": "to do-make: do / do / does / do / do / do",
+        "note": "Example: `Je fais mes devoirs.` / `Vous faites quoi ?`"
+      },
+      {
+        "subheading": "Irregular verbs",
+        "french": "aller: vais / vas / va / allons / allez / vont",
+        "english": "to go: go / go / goes / go / go / go",
+        "note": "Examples: `Je vais au cinéma.` / `Nous allons à l'école.`"
+      }
+    ]
+  },
+  {
+    "id": "a1-questions-and-there-is",
+    "title": "Questions and il y a",
+    "summary": "Three ways to ask questions, common question words, and how to say there is-there are.",
+    "items": [
+      {
+        "subheading": "Question forms",
+        "french": "Tu parles français ? / Est-ce que tu parles français ? / Parles-tu français ?",
+        "english": "You speak French? / Do you speak French? / Do you speak French?",
+        "note": "Main A1 question methods: intonation, `est-ce que`, and inversion."
+      },
+      {
+        "subheading": "Question words",
+        "french": "Qui / Que-Qu' / Où / Quand / Pourquoi / Comment / Combien",
+        "english": "Who / What / Where / When / Why / How / How many",
+        "note": "These are the most common question starters."
+      },
+      {
+        "subheading": "Il y a",
+        "french": "Il y a un livre. / Il y a des étudiants. / Il n'y a pas de café.",
+        "english": "There is a book. / There are students. / There is no coffee.",
+        "note": "Use `il y a` for there is-there are. In the negative, use `de`."
+      },
+      {
+        "subheading": "Il y a questions",
+        "french": "Y a-t-il un restaurant ? / Est-ce qu'il y a un bus ?",
+        "english": "Is there a restaurant? / Is there a bus?",
+        "note": "Two common ways to ask whether something exists."
+      }
+    ]
+  },
+  {
+    "id": "a1-place-time-and-weather",
+    "title": "Place, time, and weather",
+    "summary": "Prepositions of place, telling time and the date, and basic weather vocabulary.",
+    "items": [
+      {
+        "subheading": "Prepositions of place",
+        "french": "à / dans / sur / sous / devant / derrière / entre / à côté de / en face de / près de / loin de",
+        "english": "at-in / in / on / under / in front of / behind / between / next to / opposite / near / far from",
+        "note": "Example: `Le livre est sur la table.`"
+      },
+      {
+        "subheading": "Asking the time",
+        "french": "Quelle heure est-il ? / Il est deux heures. / Il est deux heures et quart. / Il est deux heures et demie. / Il est trois heures moins le quart. / Il est midi. / Il est minuit.",
+        "english": "What time is it? / It is two o'clock. / It is quarter past two. / It is half past two. / It is quarter to three. / It is noon. / It is midnight.",
+        "note": "`et quart` = :15, `et demie` = :30, `moins le quart` = :45."
+      },
+      {
+        "subheading": "Asking the date",
+        "french": "Quelle est la date aujourd'hui ? / Quel jour sommes-nous ? / Nous sommes le lundi 7 avril 2025.",
+        "english": "What is today's date? / What day is it? / It is Monday, April 7, 2025.",
+        "note": "Useful date formulas for everyday conversation."
+      },
+      {
+        "subheading": "Weather",
+        "french": "Il fait beau / Il fait chaud / Il fait froid / Il pleut / Il neige / Il y a du soleil / Il y a du vent",
+        "english": "Nice weather / It is hot / It is cold / It is raining / It is snowing / It is sunny / It is windy",
+        "note": "Basic weather expressions to recognize and use."
+      },
+      {
+        "subheading": "Seasons",
+        "french": "le printemps / l'été / l'automne / l'hiver",
+        "english": "spring / summer / autumn / winter",
+        "note": "Core seasonal vocabulary."
+      }
+    ]
+  },
+  {
+    "id": "a1-basic-vocabulary",
+    "title": "Basic vocabulary",
+    "summary": "Useful connectors, family words, colors, and numbers for simple A1 sentences.",
+    "items": [
+      {
+        "subheading": "Connectors",
+        "french": "et / mais / ou / donc / parce que / puis / aussi / d'abord / ensuite / enfin",
+        "english": "and / but / or / therefore / because / then / also / first / then / finally",
+        "note": "Example: `Je suis fatigué parce que je travaille beaucoup.`"
+      },
+      {
+        "subheading": "Family",
+        "french": "le père / la mère / le frère / la sœur / le fils / la fille / l'oncle / la tante / le cousin / la cousine / les grands-parents",
+        "english": "father / mother / brother / sister / son / daughter / uncle / aunt / male cousin / female cousin / grandparents",
+        "note": "High-frequency family vocabulary."
+      },
+      {
+        "subheading": "Colors",
+        "french": "blanc-blanche / noir-noire / vert-verte / bleu-bleue / gris-grise / rouge / jaune / orange / rose",
+        "english": "white / black / green / blue / grey / red / yellow / orange / pink",
+        "note": "Some color adjectives change for gender and some stay the same."
+      },
+      {
+        "subheading": "Numbers 0-20",
+        "french": "zéro / un / deux / trois / quatre / cinq / six / sept / huit / neuf / dix / onze / douze / treize / quatorze / quinze / seize / dix-sept / dix-huit / dix-neuf / vingt",
+        "english": "zero / one / two / three / four / five / six / seven / eight / nine / ten / eleven / twelve / thirteen / fourteen / fifteen / sixteen / seventeen / eighteen / nineteen / twenty",
+        "note": "Memorize these as a base before moving on to larger numbers."
+      }
+    ]
+  },
+  {
+    "id": "a1-essential-sentences",
+    "title": "Essential exam sentences",
+    "summary": "Simple ready-made sentences for introductions, likes, family, and daily life.",
+    "items": [
+      {
+        "subheading": "Introduce yourself",
+        "french": "Je m'appelle Sparsh. / J'ai 22 ans. / Je suis étudiant. / J'habite à Vancouver. / Je parle anglais et un peu français.",
+        "english": "My name is Sparsh. / I am 22 years old. / I am a student. / I live in Vancouver. / I speak English and a little French.",
+        "note": "Basic self-introduction model."
+      },
+      {
+        "subheading": "Likes",
+        "french": "J'aime le sport. / J'aime la musique. / J'aime voyager.",
+        "english": "I like sports. / I like music. / I like traveling.",
+        "note": "Easy opinion sentences for beginner speaking."
+      },
+      {
+        "subheading": "Family",
+        "french": "J'ai une sœur. / J'ai deux parents. / Ma famille est importante.",
+        "english": "I have a sister. / I have two parents. / My family is important.",
+        "note": "Short family-description sentences."
+      },
+      {
+        "subheading": "Daily life",
+        "french": "Je travaille. / J'étudie à l'université. / Je vais à l'école.",
+        "english": "I work. / I study at university. / I go to school.",
+        "note": "Basic present-tense sentences for routine and daily life."
       }
     ]
   }
