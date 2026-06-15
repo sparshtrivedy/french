@@ -13,9 +13,37 @@
       "ils/elles": "sont"
     },
     "examples": [
-      { "french": "Je suis prêt.", "english": "I am ready." },
-      { "french": "Nous sommes en classe.", "english": "We are in class." }
-    ]
+      {
+        "french": "Je suis prêt.",
+        "english": "I am ready."
+      },
+      {
+        "french": "Nous sommes en classe.",
+        "english": "We are in class."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai été très fatigué après le travail.",
+          "english": "I was very tired after work."
+        },
+        {
+          "french": "Nous avons été contents de te voir hier.",
+          "english": "We were happy to see you yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais être plus disponible demain.",
+          "english": "I am going to be more available tomorrow."
+        },
+        {
+          "french": "Nous allons être à la maison ce soir.",
+          "english": "We are going to be at home tonight."
+        }
+      ]
+    }
   },
   {
     "infinitive": "avoir",
@@ -31,9 +59,37 @@
       "ils/elles": "ont"
     },
     "examples": [
-      { "french": "J'ai une question.", "english": "I have a question." },
-      { "french": "Ils ont beaucoup de travail.", "english": "They have a lot of work." }
-    ]
+      {
+        "french": "J'ai une question.",
+        "english": "I have a question."
+      },
+      {
+        "french": "Ils ont beaucoup de travail.",
+        "english": "They have a lot of work."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai eu une réunion tôt ce matin.",
+          "english": "I had a meeting early this morning."
+        },
+        {
+          "french": "Ils ont eu beaucoup de chance hier.",
+          "english": "They were very lucky yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais avoir plus de temps demain.",
+          "english": "I am going to have more time tomorrow."
+        },
+        {
+          "french": "Ils vont avoir un examen lundi.",
+          "english": "They are going to have an exam on Monday."
+        }
+      ]
+    }
   },
   {
     "infinitive": "devenir",
@@ -49,9 +105,37 @@
       "ils/elles": "deviennent"
     },
     "examples": [
-      { "french": "Je deviens plus confiant en français.", "english": "I am becoming more confident in French." },
-      { "french": "Ils deviennent amis rapidement.", "english": "They become friends quickly." }
-    ]
+      {
+        "french": "Je deviens plus confiant en français.",
+        "english": "I am becoming more confident in French."
+      },
+      {
+        "french": "Ils deviennent amis rapidement.",
+        "english": "They become friends quickly."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis devenu plus patient avec la pratique.",
+          "english": "I became more patient with practice."
+        },
+        {
+          "french": "Ils sont devenus amis au lycée.",
+          "english": "They became friends in high school."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais devenir meilleur en français.",
+          "english": "I am going to become better at French."
+        },
+        {
+          "french": "Ces enfants vont devenir très grands.",
+          "english": "These children are going to become very tall."
+        }
+      ]
+    }
   },
   {
     "infinitive": "aller",
@@ -67,9 +151,37 @@
       "ils/elles": "vont"
     },
     "examples": [
-      { "french": "Je vais au marché.", "english": "I go to the market." },
-      { "french": "Nous allons au cinéma ce soir.", "english": "We are going to the movies tonight." }
-    ]
+      {
+        "french": "Je vais au marché.",
+        "english": "I go to the market."
+      },
+      {
+        "french": "Nous allons au cinéma ce soir.",
+        "english": "We are going to the movies tonight."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis allé au marché avant midi.",
+          "english": "I went to the market before noon."
+        },
+        {
+          "french": "Nous sommes allés au cinéma samedi soir.",
+          "english": "We went to the movies on Saturday evening."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais aller à la banque demain.",
+          "english": "I am going to go to the bank tomorrow."
+        },
+        {
+          "french": "Nous allons aller au musée ce week-end.",
+          "english": "We are going to go to the museum this weekend."
+        }
+      ]
+    }
   },
   {
     "infinitive": "faire",
@@ -85,9 +197,37 @@
       "ils/elles": "font"
     },
     "examples": [
-      { "french": "Je fais mes exercices.", "english": "I do my exercises." },
-      { "french": "Que faites-vous aujourd'hui ?", "english": "What are you doing today?" }
-    ]
+      {
+        "french": "Je fais mes exercices.",
+        "english": "I do my exercises."
+      },
+      {
+        "french": "Que faites-vous aujourd'hui ?",
+        "english": "What are you doing today?"
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai fait mes devoirs après le dîner.",
+          "english": "I did my homework after dinner."
+        },
+        {
+          "french": "Nous avons fait un gâteau pour la fête.",
+          "english": "We made a cake for the party."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais faire les courses ce soir.",
+          "english": "I am going to do the shopping tonight."
+        },
+        {
+          "french": "Nous allons faire une promenade demain.",
+          "english": "We are going to take a walk tomorrow."
+        }
+      ]
+    }
   },
   {
     "infinitive": "revenir",
@@ -103,9 +243,37 @@
       "ils/elles": "reviennent"
     },
     "examples": [
-      { "french": "Je reviens demain.", "english": "I am coming back tomorrow." },
-      { "french": "Nous revenons tard le soir.", "english": "We come back late in the evening." }
-    ]
+      {
+        "french": "Je reviens demain.",
+        "english": "I am coming back tomorrow."
+      },
+      {
+        "french": "Nous revenons tard le soir.",
+        "english": "We come back late in the evening."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis revenu tard hier soir.",
+          "english": "I came back late last night."
+        },
+        {
+          "french": "Nous sommes revenus de vacances dimanche.",
+          "english": "We came back from vacation on Sunday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais revenir dans une heure.",
+          "english": "I am going to come back in an hour."
+        },
+        {
+          "french": "Nous allons revenir avant la fermeture.",
+          "english": "We are going to come back before closing."
+        }
+      ]
+    }
   },
   {
     "infinitive": "vouloir",
@@ -121,9 +289,37 @@
       "ils/elles": "veulent"
     },
     "examples": [
-      { "french": "Je veux un café.", "english": "I want a coffee." },
-      { "french": "Ils veulent apprendre vite.", "english": "They want to learn quickly." }
-    ]
+      {
+        "french": "Je veux un café.",
+        "english": "I want a coffee."
+      },
+      {
+        "french": "Ils veulent apprendre vite.",
+        "english": "They want to learn quickly."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai voulu t'appeler hier.",
+          "english": "I wanted to call you yesterday."
+        },
+        {
+          "french": "Ils ont voulu partir plus tôt.",
+          "english": "They wanted to leave earlier."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais vouloir plus de détails.",
+          "english": "I am going to want more details."
+        },
+        {
+          "french": "Ils vont vouloir une réponse rapide.",
+          "english": "They are going to want a quick answer."
+        }
+      ]
+    }
   },
   {
     "infinitive": "pouvoir",
@@ -139,9 +335,37 @@
       "ils/elles": "peuvent"
     },
     "examples": [
-      { "french": "Je peux t'aider.", "english": "I can help you." },
-      { "french": "Nous pouvons commencer maintenant.", "english": "We can start now." }
-    ]
+      {
+        "french": "Je peux t'aider.",
+        "english": "I can help you."
+      },
+      {
+        "french": "Nous pouvons commencer maintenant.",
+        "english": "We can start now."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai pu finir le projet à temps.",
+          "english": "I was able to finish the project on time."
+        },
+        {
+          "french": "Nous avons pu entrer sans attendre.",
+          "english": "We were able to get in without waiting."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais pouvoir t'aider demain.",
+          "english": "I am going to be able to help you tomorrow."
+        },
+        {
+          "french": "Nous allons pouvoir commencer bientôt.",
+          "english": "We are going to be able to start soon."
+        }
+      ]
+    }
   },
   {
     "infinitive": "apprendre",
@@ -157,9 +381,37 @@
       "ils/elles": "apprennent"
     },
     "examples": [
-      { "french": "J'apprends le français.", "english": "I am learning French." },
-      { "french": "Les enfants apprennent vite.", "english": "Children learn quickly." }
-    ]
+      {
+        "french": "J'apprends le français.",
+        "english": "I am learning French."
+      },
+      {
+        "french": "Les enfants apprennent vite.",
+        "english": "Children learn quickly."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai appris une bonne nouvelle ce matin.",
+          "english": "I learned some good news this morning."
+        },
+        {
+          "french": "Les enfants ont appris ce poème à l'école.",
+          "english": "The children learned this poem at school."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais apprendre les verbes irréguliers ce soir.",
+          "english": "I am going to learn the irregular verbs tonight."
+        },
+        {
+          "french": "Les enfants vont apprendre à nager cet été.",
+          "english": "The children are going to learn how to swim this summer."
+        }
+      ]
+    }
   },
   {
     "infinitive": "prendre",
@@ -175,9 +427,37 @@
       "ils/elles": "prennent"
     },
     "examples": [
-      { "french": "Je prends le bus.", "english": "I take the bus." },
-      { "french": "Nous prenons des notes.", "english": "We take notes." }
-    ]
+      {
+        "french": "Je prends le bus.",
+        "english": "I take the bus."
+      },
+      {
+        "french": "Nous prenons des notes.",
+        "english": "We take notes."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai pris le bus ce matin.",
+          "english": "I took the bus this morning."
+        },
+        {
+          "french": "Nous avons pris des notes pendant le cours.",
+          "english": "We took notes during the class."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais prendre un café après la réunion.",
+          "english": "I am going to have a coffee after the meeting."
+        },
+        {
+          "french": "Nous allons prendre le train demain matin.",
+          "english": "We are going to take the train tomorrow morning."
+        }
+      ]
+    }
   },
   {
     "infinitive": "dire",
@@ -193,9 +473,37 @@
       "ils/elles": "disent"
     },
     "examples": [
-      { "french": "Je dis la vérité.", "english": "I tell the truth." },
-      { "french": "Ils disent bonjour.", "english": "They say hello." }
-    ]
+      {
+        "french": "Je dis la vérité.",
+        "english": "I tell the truth."
+      },
+      {
+        "french": "Ils disent bonjour.",
+        "english": "They say hello."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai dit la vérité à mes parents.",
+          "english": "I told the truth to my parents."
+        },
+        {
+          "french": "Ils ont dit bonjour à tout le monde.",
+          "english": "They said hello to everyone."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais dire merci au professeur.",
+          "english": "I am going to say thank you to the teacher."
+        },
+        {
+          "french": "Ils vont dire ce qu'ils pensent.",
+          "english": "They are going to say what they think."
+        }
+      ]
+    }
   },
   {
     "infinitive": "lire",
@@ -211,9 +519,37 @@
       "ils/elles": "lisent"
     },
     "examples": [
-      { "french": "Je lis un roman.", "english": "I read a novel." },
-      { "french": "Elle lit le journal tous les matins.", "english": "She reads the newspaper every morning." }
-    ]
+      {
+        "french": "Je lis un roman.",
+        "english": "I read a novel."
+      },
+      {
+        "french": "Elle lit le journal tous les matins.",
+        "english": "She reads the newspaper every morning."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai lu ce roman pendant les vacances.",
+          "english": "I read this novel during the holidays."
+        },
+        {
+          "french": "Elle a lu le journal dans le train.",
+          "english": "She read the newspaper on the train."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais lire ce chapitre ce soir.",
+          "english": "I am going to read this chapter tonight."
+        },
+        {
+          "french": "Elle va lire le message plus tard.",
+          "english": "She is going to read the message later."
+        }
+      ]
+    }
   },
   {
     "infinitive": "vivre",
@@ -229,9 +565,37 @@
       "ils/elles": "vivent"
     },
     "examples": [
-      { "french": "Je vis au Canada.", "english": "I live in Canada." },
-      { "french": "Ils vivent près de la mer.", "english": "They live near the sea." }
-    ]
+      {
+        "french": "Je vis au Canada.",
+        "english": "I live in Canada."
+      },
+      {
+        "french": "Ils vivent près de la mer.",
+        "english": "They live near the sea."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai vécu à Montréal pendant deux ans.",
+          "english": "I lived in Montreal for two years."
+        },
+        {
+          "french": "Ils ont vécu près de la mer quand ils étaient enfants.",
+          "english": "They lived near the sea when they were children."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais vivre en France pendant un semestre.",
+          "english": "I am going to live in France for one semester."
+        },
+        {
+          "french": "Ils vont vivre ensemble l'année prochaine.",
+          "english": "They are going to live together next year."
+        }
+      ]
+    }
   },
   {
     "infinitive": "voir",
@@ -247,9 +611,37 @@
       "ils/elles": "voient"
     },
     "examples": [
-      { "french": "Je vois la montagne.", "english": "I see the mountain." },
-      { "french": "Nous voyons nos amis demain.", "english": "We are seeing our friends tomorrow." }
-    ]
+      {
+        "french": "Je vois la montagne.",
+        "english": "I see the mountain."
+      },
+      {
+        "french": "Nous voyons nos amis demain.",
+        "english": "We are seeing our friends tomorrow."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai vu la montagne depuis l'hôtel.",
+          "english": "I saw the mountain from the hotel."
+        },
+        {
+          "french": "Nous avons vu nos amis samedi.",
+          "english": "We saw our friends on Saturday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais voir le médecin demain.",
+          "english": "I am going to see the doctor tomorrow."
+        },
+        {
+          "french": "Nous allons voir un film ce soir.",
+          "english": "We are going to watch a movie tonight."
+        }
+      ]
+    }
   },
   {
     "infinitive": "boire",
@@ -265,9 +657,37 @@
       "ils/elles": "boivent"
     },
     "examples": [
-      { "french": "Je bois de l'eau.", "english": "I drink water." },
-      { "french": "Vous buvez du café le matin.", "english": "You drink coffee in the morning." }
-    ]
+      {
+        "french": "Je bois de l'eau.",
+        "english": "I drink water."
+      },
+      {
+        "french": "Vous buvez du café le matin.",
+        "english": "You drink coffee in the morning."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai bu un grand verre d'eau après le sport.",
+          "english": "I drank a big glass of water after exercise."
+        },
+        {
+          "french": "Vous avez bu trop de café ce matin.",
+          "english": "You drank too much coffee this morning."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais boire un thé après le déjeuner.",
+          "english": "I am going to drink some tea after lunch."
+        },
+        {
+          "french": "Vous allez boire quelque chose au café.",
+          "english": "You are going to drink something at the cafe."
+        }
+      ]
+    }
   },
   {
     "infinitive": "recevoir",
@@ -283,9 +703,37 @@
       "ils/elles": "reçoivent"
     },
     "examples": [
-      { "french": "Je reçois un message.", "english": "I receive a message." },
-      { "french": "Nous recevons des invités ce soir.", "english": "We are receiving guests tonight." }
-    ]
+      {
+        "french": "Je reçois un message.",
+        "english": "I receive a message."
+      },
+      {
+        "french": "Nous recevons des invités ce soir.",
+        "english": "We are receiving guests tonight."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai reçu un message important hier.",
+          "english": "I received an important message yesterday."
+        },
+        {
+          "french": "Nous avons reçu des invités samedi soir.",
+          "english": "We had guests over on Saturday evening."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais recevoir un colis demain.",
+          "english": "I am going to receive a package tomorrow."
+        },
+        {
+          "french": "Nous allons recevoir nos amis ce week-end.",
+          "english": "We are going to host our friends this weekend."
+        }
+      ]
+    }
   },
   {
     "infinitive": "offrir",
@@ -301,9 +749,37 @@
       "ils/elles": "offrent"
     },
     "examples": [
-      { "french": "J'offre un cadeau à mon ami.", "english": "I give a gift to my friend." },
-      { "french": "Ils offrent leur aide.", "english": "They offer their help." }
-    ]
+      {
+        "french": "J'offre un cadeau à mon ami.",
+        "english": "I give a gift to my friend."
+      },
+      {
+        "french": "Ils offrent leur aide.",
+        "english": "They offer their help."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai offert un cadeau à mon ami pour son anniversaire.",
+          "english": "I gave my friend a gift for his birthday."
+        },
+        {
+          "french": "Ils ont offert leur aide immédiatement.",
+          "english": "They offered their help right away."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais offrir des fleurs à ma mère.",
+          "english": "I am going to give flowers to my mother."
+        },
+        {
+          "french": "Ils vont offrir un dessert aux invités.",
+          "english": "They are going to offer the guests a dessert."
+        }
+      ]
+    }
   },
   {
     "infinitive": "écrire",
@@ -319,9 +795,37 @@
       "ils/elles": "écrivent"
     },
     "examples": [
-      { "french": "J'écris un e-mail.", "english": "I write an email." },
-      { "french": "Nous écrivons une carte postale.", "english": "We write a postcard." }
-    ]
+      {
+        "french": "J'écris un e-mail.",
+        "english": "I write an email."
+      },
+      {
+        "french": "Nous écrivons une carte postale.",
+        "english": "We write a postcard."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai écrit un e-mail au professeur hier soir.",
+          "english": "I wrote an email to the teacher last night."
+        },
+        {
+          "french": "Nous avons écrit une carte postale pendant le voyage.",
+          "english": "We wrote a postcard during the trip."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais écrire à ma sœur ce soir.",
+          "english": "I am going to write to my sister tonight."
+        },
+        {
+          "french": "Nous allons écrire le rapport demain matin.",
+          "english": "We are going to write the report tomorrow morning."
+        }
+      ]
+    }
   },
   {
     "infinitive": "croire",
@@ -337,9 +841,37 @@
       "ils/elles": "croient"
     },
     "examples": [
-      { "french": "Je crois ton histoire.", "english": "I believe your story." },
-      { "french": "Ils croient en leurs capacités.", "english": "They believe in their abilities." }
-    ]
+      {
+        "french": "Je crois ton histoire.",
+        "english": "I believe your story."
+      },
+      {
+        "french": "Ils croient en leurs capacités.",
+        "english": "They believe in their abilities."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai cru ton histoire au début.",
+          "english": "I believed your story at first."
+        },
+        {
+          "french": "Ils ont cru en leur projet dès le départ.",
+          "english": "They believed in their project from the start."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais croire tes explications cette fois.",
+          "english": "I am going to believe your explanation this time."
+        },
+        {
+          "french": "Ils vont croire cette annonce sans hésiter.",
+          "english": "They are going to believe this announcement without hesitation."
+        }
+      ]
+    }
   },
   {
     "infinitive": "courir",
@@ -355,9 +887,37 @@
       "ils/elles": "courent"
     },
     "examples": [
-      { "french": "Je cours dans le parc.", "english": "I run in the park." },
-      { "french": "Nous courons chaque dimanche.", "english": "We run every Sunday." }
-    ]
+      {
+        "french": "Je cours dans le parc.",
+        "english": "I run in the park."
+      },
+      {
+        "french": "Nous courons chaque dimanche.",
+        "english": "We run every Sunday."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai couru dans le parc avant le travail.",
+          "english": "I ran in the park before work."
+        },
+        {
+          "french": "Nous avons couru cinq kilomètres dimanche.",
+          "english": "We ran five kilometers on Sunday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais courir ce soir s'il fait beau.",
+          "english": "I am going to run tonight if the weather is nice."
+        },
+        {
+          "french": "Nous allons courir ensemble demain matin.",
+          "english": "We are going to run together tomorrow morning."
+        }
+      ]
+    }
   },
   {
     "infinitive": "ouvrir",
@@ -373,9 +933,37 @@
       "ils/elles": "ouvrent"
     },
     "examples": [
-      { "french": "J'ouvre la fenêtre.", "english": "I open the window." },
-      { "french": "Le magasin ouvre à neuf heures.", "english": "The store opens at nine o'clock." }
-    ]
+      {
+        "french": "J'ouvre la fenêtre.",
+        "english": "I open the window."
+      },
+      {
+        "french": "Le magasin ouvre à neuf heures.",
+        "english": "The store opens at nine o'clock."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai ouvert la fenêtre parce qu'il faisait chaud.",
+          "english": "I opened the window because it was hot."
+        },
+        {
+          "french": "Le magasin a ouvert à neuf heures hier.",
+          "english": "The store opened at nine o'clock yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais ouvrir la porte tout de suite.",
+          "english": "I am going to open the door right away."
+        },
+        {
+          "french": "Le magasin va ouvrir plus tôt demain.",
+          "english": "The store is going to open earlier tomorrow."
+        }
+      ]
+    }
   },
   {
     "infinitive": "mettre",
@@ -391,9 +979,37 @@
       "ils/elles": "mettent"
     },
     "examples": [
-      { "french": "Je mets mon livre sur la table.", "english": "I put my book on the table." },
-      { "french": "Nous mettons les chaises dehors.", "english": "We put the chairs outside." }
-    ]
+      {
+        "french": "Je mets mon livre sur la table.",
+        "english": "I put my book on the table."
+      },
+      {
+        "french": "Nous mettons les chaises dehors.",
+        "english": "We put the chairs outside."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai mis mon livre sur la table.",
+          "english": "I put my book on the table."
+        },
+        {
+          "french": "Nous avons mis les chaises dehors avant le dîner.",
+          "english": "We put the chairs outside before dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais mettre mon téléphone en mode silencieux.",
+          "english": "I am going to put my phone on silent mode."
+        },
+        {
+          "french": "Nous allons mettre la table dans quelques minutes.",
+          "english": "We are going to set the table in a few minutes."
+        }
+      ]
+    }
   },
   {
     "infinitive": "sortir",
@@ -409,9 +1025,37 @@
       "ils/elles": "sortent"
     },
     "examples": [
-      { "french": "Je sors avec des amis ce soir.", "english": "I am going out with friends tonight." },
-      { "french": "Ils sortent de la maison.", "english": "They leave the house." }
-    ]
+      {
+        "french": "Je sors avec des amis ce soir.",
+        "english": "I am going out with friends tonight."
+      },
+      {
+        "french": "Ils sortent de la maison.",
+        "english": "They leave the house."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis sorti avec des amis vendredi soir.",
+          "english": "I went out with friends on Friday night."
+        },
+        {
+          "french": "Ils sont sortis de la maison très tôt.",
+          "english": "They left the house very early."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais sortir après le travail.",
+          "english": "I am going to go out after work."
+        },
+        {
+          "french": "Ils vont sortir prendre l'air un peu.",
+          "english": "They are going to go outside to get some air."
+        }
+      ]
+    }
   },
   {
     "infinitive": "venir",
@@ -427,9 +1071,37 @@
       "ils/elles": "viennent"
     },
     "examples": [
-      { "french": "Je viens demain matin.", "english": "I am coming tomorrow morning." },
-      { "french": "Mes amis viennent chez moi.", "english": "My friends are coming to my place." }
-    ]
+      {
+        "french": "Je viens demain matin.",
+        "english": "I am coming tomorrow morning."
+      },
+      {
+        "french": "Mes amis viennent chez moi.",
+        "english": "My friends are coming to my place."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis venu te voir hier après-midi.",
+          "english": "I came to see you yesterday afternoon."
+        },
+        {
+          "french": "Mes amis sont venus chez moi pour dîner.",
+          "english": "My friends came to my place for dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais venir demain matin.",
+          "english": "I am going to come tomorrow morning."
+        },
+        {
+          "french": "Mes amis vont venir ce week-end.",
+          "english": "My friends are going to come this weekend."
+        }
+      ]
+    }
   },
   {
     "infinitive": "partir",
@@ -445,9 +1117,37 @@
       "ils/elles": "partent"
     },
     "examples": [
-      { "french": "Je pars tôt le matin.", "english": "I leave early in the morning." },
-      { "french": "Nous partons en train demain.", "english": "We are leaving by train tomorrow." }
-    ]
+      {
+        "french": "Je pars tôt le matin.",
+        "english": "I leave early in the morning."
+      },
+      {
+        "french": "Nous partons en train demain.",
+        "english": "We are leaving by train tomorrow."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis parti tôt ce matin.",
+          "english": "I left early this morning."
+        },
+        {
+          "french": "Nous sommes partis en train vendredi.",
+          "english": "We left by train on Friday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais partir bientôt pour l'aéroport.",
+          "english": "I am going to leave for the airport soon."
+        },
+        {
+          "french": "Nous allons partir après le déjeuner.",
+          "english": "We are going to leave after lunch."
+        }
+      ]
+    }
   },
   {
     "infinitive": "comprendre",
@@ -463,9 +1163,37 @@
       "ils/elles": "comprennent"
     },
     "examples": [
-      { "french": "Je comprends la leçon.", "english": "I understand the lesson." },
-      { "french": "Nous comprenons mieux maintenant.", "english": "We understand better now." }
-    ]
+      {
+        "french": "Je comprends la leçon.",
+        "english": "I understand the lesson."
+      },
+      {
+        "french": "Nous comprenons mieux maintenant.",
+        "english": "We understand better now."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai compris la leçon après l'explication.",
+          "english": "I understood the lesson after the explanation."
+        },
+        {
+          "french": "Nous avons compris le problème trop tard.",
+          "english": "We understood the problem too late."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais comprendre avec un autre exemple.",
+          "english": "I am going to understand with another example."
+        },
+        {
+          "french": "Nous allons mieux comprendre demain.",
+          "english": "We are going to understand better tomorrow."
+        }
+      ]
+    }
   },
   {
     "infinitive": "savoir",
@@ -481,9 +1209,37 @@
       "ils/elles": "savent"
     },
     "examples": [
-      { "french": "Je sais la réponse.", "english": "I know the answer." },
-      { "french": "Ils savent parler français.", "english": "They know how to speak French." }
-    ]
+      {
+        "french": "Je sais la réponse.",
+        "english": "I know the answer."
+      },
+      {
+        "french": "Ils savent parler français.",
+        "english": "They know how to speak French."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai su la vérité hier soir.",
+          "english": "I found out the truth last night."
+        },
+        {
+          "french": "Ils ont su répondre immédiatement.",
+          "english": "They knew how to answer right away."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais savoir le résultat demain.",
+          "english": "I am going to know the result tomorrow."
+        },
+        {
+          "french": "Ils vont savoir quoi faire bientôt.",
+          "english": "They are going to know what to do soon."
+        }
+      ]
+    }
   },
   {
     "infinitive": "devoir",
@@ -499,9 +1255,37 @@
       "ils/elles": "doivent"
     },
     "examples": [
-      { "french": "Je dois partir bientôt.", "english": "I have to leave soon." },
-      { "french": "Nous devons finir ce travail.", "english": "We must finish this work." }
-    ]
+      {
+        "french": "Je dois partir bientôt.",
+        "english": "I have to leave soon."
+      },
+      {
+        "french": "Nous devons finir ce travail.",
+        "english": "We must finish this work."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai dû partir plus tôt hier.",
+          "english": "I had to leave earlier yesterday."
+        },
+        {
+          "french": "Nous avons dû finir ce travail avant midi.",
+          "english": "We had to finish this work before noon."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais devoir attendre encore un peu.",
+          "english": "I am going to have to wait a bit longer."
+        },
+        {
+          "french": "Nous allons devoir prendre une décision.",
+          "english": "We are going to have to make a decision."
+        }
+      ]
+    }
   },
   {
     "infinitive": "conduire",
@@ -517,9 +1301,37 @@
       "ils/elles": "conduisent"
     },
     "examples": [
-      { "french": "Je conduis prudemment.", "english": "I drive carefully." },
-      { "french": "Elle conduit jusqu'au travail.", "english": "She drives to work." }
-    ]
+      {
+        "french": "Je conduis prudemment.",
+        "english": "I drive carefully."
+      },
+      {
+        "french": "Elle conduit jusqu'au travail.",
+        "english": "She drives to work."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai conduit pendant trois heures hier.",
+          "english": "I drove for three hours yesterday."
+        },
+        {
+          "french": "Elle a conduit jusqu'au travail sous la pluie.",
+          "english": "She drove to work in the rain."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais conduire mes parents à la gare.",
+          "english": "I am going to drive my parents to the station."
+        },
+        {
+          "french": "Elle va conduire jusqu'à Lyon demain.",
+          "english": "She is going to drive to Lyon tomorrow."
+        }
+      ]
+    }
   },
   {
     "infinitive": "résoudre",
@@ -535,9 +1347,37 @@
       "ils/elles": "résolvent"
     },
     "examples": [
-      { "french": "Je résous le problème.", "english": "I solve the problem." },
-      { "french": "Nous résolvons les exercices ensemble.", "english": "We solve the exercises together." }
-    ]
+      {
+        "french": "Je résous le problème.",
+        "english": "I solve the problem."
+      },
+      {
+        "french": "Nous résolvons les exercices ensemble.",
+        "english": "We solve the exercises together."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai résolu le problème en quelques minutes.",
+          "english": "I solved the problem in a few minutes."
+        },
+        {
+          "french": "Nous avons résolu les exercices ensemble.",
+          "english": "We solved the exercises together."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais résoudre ce problème ce soir.",
+          "english": "I am going to solve this problem tonight."
+        },
+        {
+          "french": "Nous allons résoudre cette question ensemble.",
+          "english": "We are going to solve this question together."
+        }
+      ]
+    }
   },
   {
     "infinitive": "couvrir",
@@ -553,9 +1393,37 @@
       "ils/elles": "couvrent"
     },
     "examples": [
-      { "french": "Je couvre la table.", "english": "I cover the table." },
-      { "french": "Les nuages couvrent le ciel.", "english": "The clouds cover the sky." }
-    ]
+      {
+        "french": "Je couvre la table.",
+        "english": "I cover the table."
+      },
+      {
+        "french": "Les nuages couvrent le ciel.",
+        "english": "The clouds cover the sky."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai couvert la table avant l'arrivée des invités.",
+          "english": "I covered the table before the guests arrived."
+        },
+        {
+          "french": "Les nuages ont couvert le ciel en fin d'après-midi.",
+          "english": "The clouds covered the sky in the late afternoon."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais couvrir le canapé avec une couverture.",
+          "english": "I am going to cover the sofa with a blanket."
+        },
+        {
+          "french": "Les nuages vont couvrir le ciel ce soir.",
+          "english": "The clouds are going to cover the sky tonight."
+        }
+      ]
+    }
   },
   {
     "infinitive": "découvrir",
@@ -571,9 +1439,37 @@
       "ils/elles": "découvrent"
     },
     "examples": [
-      { "french": "Je découvre une nouvelle ville.", "english": "I discover a new city." },
-      { "french": "Nous découvrons la vérité.", "english": "We discover the truth." }
-    ]
+      {
+        "french": "Je découvre une nouvelle ville.",
+        "english": "I discover a new city."
+      },
+      {
+        "french": "Nous découvrons la vérité.",
+        "english": "We discover the truth."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai découvert une nouvelle ville pendant mes vacances.",
+          "english": "I discovered a new city during my vacation."
+        },
+        {
+          "french": "Nous avons découvert la vérité hier.",
+          "english": "We discovered the truth yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais découvrir ce quartier à pied.",
+          "english": "I am going to discover this neighborhood on foot."
+        },
+        {
+          "french": "Nous allons découvrir un nouveau restaurant ce soir.",
+          "english": "We are going to discover a new restaurant tonight."
+        }
+      ]
+    }
   },
   {
     "infinitive": "apercevoir",
@@ -589,9 +1485,37 @@
       "ils/elles": "aperçoivent"
     },
     "examples": [
-      { "french": "J'aperçois la tour au loin.", "english": "I catch sight of the tower in the distance." },
-      { "french": "Nous apercevons nos amis dans la rue.", "english": "We notice our friends in the street." }
-    ]
+      {
+        "french": "J'aperçois la tour au loin.",
+        "english": "I catch sight of the tower in the distance."
+      },
+      {
+        "french": "Nous apercevons nos amis dans la rue.",
+        "english": "We notice our friends in the street."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai aperçu la tour au loin.",
+          "english": "I caught sight of the tower in the distance."
+        },
+        {
+          "french": "Nous avons aperçu nos amis dans la rue.",
+          "english": "We spotted our friends in the street."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais apercevoir la mer depuis la colline.",
+          "english": "I am going to catch sight of the sea from the hill."
+        },
+        {
+          "french": "Nous allons apercevoir le village après le virage.",
+          "english": "We are going to see the village after the turn."
+        }
+      ]
+    }
   },
   {
     "infinitive": "naître",
@@ -607,9 +1531,37 @@
       "ils/elles": "naissent"
     },
     "examples": [
-      { "french": "Je nais en hiver.", "english": "I am born in winter." },
-      { "french": "Beaucoup d'idées naissent ici.", "english": "Many ideas are born here." }
-    ]
+      {
+        "french": "Je nais en hiver.",
+        "english": "I am born in winter."
+      },
+      {
+        "french": "Beaucoup d'idées naissent ici.",
+        "english": "Many ideas are born here."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis né en hiver au Canada.",
+          "english": "I was born in winter in Canada."
+        },
+        {
+          "french": "Beaucoup d'idées sont nées pendant cette réunion.",
+          "english": "Many ideas were born during that meeting."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Un bébé va naître dans cette famille en juillet.",
+          "english": "A baby is going to be born into this family in July."
+        },
+        {
+          "french": "De nouvelles idées vont naître de ce projet.",
+          "english": "New ideas are going to emerge from this project."
+        }
+      ]
+    }
   },
   {
     "infinitive": "mourir",
@@ -625,9 +1577,37 @@
       "ils/elles": "meurent"
     },
     "examples": [
-      { "french": "La batterie de mon téléphone meurt vite.", "english": "My phone battery dies quickly." },
-      { "french": "Les fleurs meurent sans eau.", "english": "Flowers die without water." }
-    ]
+      {
+        "french": "La batterie de mon téléphone meurt vite.",
+        "english": "My phone battery dies quickly."
+      },
+      {
+        "french": "Les fleurs meurent sans eau.",
+        "english": "Flowers die without water."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "La batterie de mon téléphone est morte hier soir.",
+          "english": "My phone battery died last night."
+        },
+        {
+          "french": "Les fleurs sont mortes sans eau.",
+          "english": "The flowers died without water."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "La batterie va mourir si je ne la recharge pas.",
+          "english": "The battery is going to die if I do not charge it."
+        },
+        {
+          "french": "Les fleurs vont mourir sans lumière.",
+          "english": "The flowers are going to die without light."
+        }
+      ]
+    }
   },
   {
     "infinitive": "descendre",
@@ -643,9 +1623,37 @@
       "ils/elles": "descendent"
     },
     "examples": [
-      { "french": "Je descends les escaliers.", "english": "I go down the stairs." },
-      { "french": "Nous descendons à la station suivante.", "english": "We get off at the next stop." }
-    ]
+      {
+        "french": "Je descends les escaliers.",
+        "english": "I go down the stairs."
+      },
+      {
+        "french": "Nous descendons à la station suivante.",
+        "english": "We get off at the next stop."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis descendu à la station suivante.",
+          "english": "I got off at the next stop."
+        },
+        {
+          "french": "Nous sommes descendus trop vite de la montagne.",
+          "english": "We came down the mountain too quickly."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais descendre dans cinq minutes.",
+          "english": "I am going to come downstairs in five minutes."
+        },
+        {
+          "french": "Nous allons descendre à la prochaine station.",
+          "english": "We are going to get off at the next stop."
+        }
+      ]
+    }
   },
   {
     "infinitive": "dormir",
@@ -661,9 +1669,37 @@
       "ils/elles": "dorment"
     },
     "examples": [
-      { "french": "Je dors huit heures par nuit.", "english": "I sleep eight hours a night." },
-      { "french": "Les enfants dorment déjà.", "english": "The children are already sleeping." }
-    ]
+      {
+        "french": "Je dors huit heures par nuit.",
+        "english": "I sleep eight hours a night."
+      },
+      {
+        "french": "Les enfants dorment déjà.",
+        "english": "The children are already sleeping."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai dormi huit heures cette nuit.",
+          "english": "I slept eight hours last night."
+        },
+        {
+          "french": "Les enfants ont dormi très tôt hier.",
+          "english": "The children slept very early yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais dormir un peu après le déjeuner.",
+          "english": "I am going to sleep a little after lunch."
+        },
+        {
+          "french": "Les enfants vont dormir chez leurs grands-parents.",
+          "english": "The children are going to sleep at their grandparents' house."
+        }
+      ]
+    }
   },
   {
     "infinitive": "se souvenir",
@@ -679,8 +1715,36 @@
       "ils/elles": "se souviennent"
     },
     "examples": [
-      { "french": "Je me souviens de ce film.", "english": "I remember this film." },
-      { "french": "Nous nous souvenons de cette histoire.", "english": "We remember this story." }
-    ]
+      {
+        "french": "Je me souviens de ce film.",
+        "english": "I remember this film."
+      },
+      {
+        "french": "Nous nous souvenons de cette histoire.",
+        "english": "We remember this story."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je me suis souvenu de ton anniversaire au dernier moment.",
+          "english": "I remembered your birthday at the last moment."
+        },
+        {
+          "french": "Nous nous sommes souvenus de cette histoire pendant le dîner.",
+          "english": "We remembered that story during dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais me souvenir de cette leçon.",
+          "english": "I am going to remember this lesson."
+        },
+        {
+          "french": "Nous allons nous souvenir de ce voyage longtemps.",
+          "english": "We are going to remember this trip for a long time."
+        }
+      ]
+    }
   }
 ]

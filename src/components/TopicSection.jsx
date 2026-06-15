@@ -18,6 +18,42 @@ function groupItemsBySubheading(items) {
   return groups;
 }
 
+function isTenseTopic(topic) {
+  const signature = `${topic.id} ${topic.title}`.toLowerCase();
+
+  return /(present tense|pass[eé] compos[eé]|imparfait|futur|pass[eé] r[eé]cent)/.test(signature);
+}
+
+function TopicTabs({ topics, selectedTopicId, onSelectTopic, tone = "default" }) {
+  return (
+    <div className="flex gap-2 overflow-x-auto pb-1">
+      {topics.map((topic) => {
+        const isActive = topic.id === selectedTopicId;
+
+        return (
+          <button
+            key={topic.id}
+            type="button"
+            onClick={() => onSelectTopic(topic.id)}
+            className={[
+              "shrink-0 rounded-full border px-4 py-2 text-sm font-medium transition",
+              tone === "accent"
+                ? isActive
+                  ? "border-accent bg-accent text-white"
+                  : "border-accent/20 bg-accentSoft text-accent hover:border-accent/40"
+                : isActive
+                  ? "border-stone-900 bg-stone-900 text-white"
+                  : "border-stone-300 bg-white text-stone-700 hover:border-stone-400 hover:bg-stone-50",
+            ].join(" ")}
+          >
+            {topic.title}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
 export function TopicSection({ section, search, selectedTopicId, onSelectTopic }) {
   const query = search.trim().toLowerCase();
 
@@ -55,6 +91,7 @@ export function TopicSection({ section, search, selectedTopicId, onSelectTopic }
   const selectedIndex = topics.findIndex((topic) => topic.id === selectedTopicId);
   const selectedTopic = selectedIndex >= 0 ? topics[selectedIndex] : null;
   const visibleTopics = query ? topics : selectedTopic ? [selectedTopic] : [];
+  const tenseTopics = useMemo(() => topics.filter(isTenseTopic), [topics]);
 
   return (
     <div className="space-y-5">
@@ -71,7 +108,7 @@ export function TopicSection({ section, search, selectedTopicId, onSelectTopic }
             <span className="rounded-full border border-stone-300 px-3 py-1 text-stone-600">
               {topics.length} topic{topics.length === 1 ? "" : "s"}
             </span>
-            {!query && selectedTopic ? (
+            {!query && selectedTopic && topics.length > 1 ? (
               <>
                 <button
                   type="button"
@@ -93,6 +130,35 @@ export function TopicSection({ section, search, selectedTopicId, onSelectTopic }
             ) : null}
           </div>
         </div>
+
+        {!query && topics.length > 1 ? (
+          <div className="mt-5 space-y-4 border-t border-stone-200 pt-5">
+            {tenseTopics.length > 1 ? (
+              <div className="space-y-2">
+                <div className="text-xs font-semibold uppercase tracking-[0.16em] text-stone-500">
+                  Tense shortcuts
+                </div>
+                <TopicTabs
+                  topics={tenseTopics}
+                  selectedTopicId={selectedTopicId}
+                  onSelectTopic={onSelectTopic}
+                  tone="accent"
+                />
+              </div>
+            ) : null}
+
+            <div className="space-y-2">
+              <div className="text-xs font-semibold uppercase tracking-[0.16em] text-stone-500">
+                All topics
+              </div>
+              <TopicTabs
+                topics={topics}
+                selectedTopicId={selectedTopicId}
+                onSelectTopic={onSelectTopic}
+              />
+            </div>
+          </div>
+        ) : null}
       </section>
 
       {topics.length === 0 ? (
