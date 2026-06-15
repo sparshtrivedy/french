@@ -722,6 +722,9 @@ function VerbCard({ verb, speech }) {
                 <th scope="col" className="px-3 py-2 text-left">
                   {tenseLabel}
                 </th>
+                <th scope="col" className="w-14 px-3 py-2 text-right">
+                  Audio
+                </th>
               </tr>
             </thead>
             <tbody>
@@ -731,6 +734,15 @@ function VerbCard({ verb, speech }) {
                     {subject}
                   </th>
                   <td className="bg-white px-3 py-3 font-medium text-stone-900">{form}</td>
+                  <td className="bg-white px-3 py-3 text-right">
+                    <PronunciationButton
+                      text={`${subject} ${form}`}
+                      label={`Pronounce conjugation: ${subject} ${form}`}
+                      activeText={speech.activeText}
+                      onSpeak={speech.speak}
+                      disabled={!speech.supported}
+                    />
+                  </td>
                 </tr>
               ))}
             </tbody>
