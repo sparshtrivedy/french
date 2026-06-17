@@ -13,9 +13,47 @@
       "ils/elles": "finissent"
     },
     "examples": [
-      { "french": "Je finis mes devoirs.", "english": "I finish my homework." },
-      { "french": "Ils finissent le travail demain.", "english": "They finish the work tomorrow." }
-    ]
+      {
+        "french": "Je finis mes devoirs.",
+        "english": "I finish my homework."
+      },
+      {
+        "french": "Ils finissent le travail demain.",
+        "english": "They finish the work tomorrow."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai fini mes devoirs avant le dîner.",
+          "english": "I finished my homework before dinner."
+        },
+        {
+          "french": "Ils ont fini le travail hier.",
+          "english": "They finished the work yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais finir ce chapitre ce soir.",
+          "english": "I am going to finish this chapter tonight."
+        },
+        {
+          "french": "Ils vont finir le projet demain.",
+          "english": "They are going to finish the project tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je finissais toujours mes devoirs avant huit heures.",
+          "english": "I always finished my homework before eight o'clock."
+        },
+        {
+          "french": "Ils finissaient le travail très tard.",
+          "english": "They finished work very late."
+        }
+      ]
+    }
   },
   {
     "infinitive": "réfléchir",
@@ -31,9 +69,47 @@
       "ils/elles": "réfléchissent"
     },
     "examples": [
-      { "french": "Je réfléchis à la réponse.", "english": "I am thinking about the answer." },
-      { "french": "Nous réfléchissons avant de décider.", "english": "We think before deciding." }
-    ]
+      {
+        "french": "Je réfléchis à la réponse.",
+        "english": "I am thinking about the answer."
+      },
+      {
+        "french": "Nous réfléchissons avant de décider.",
+        "english": "We think before deciding."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai réfléchi à ta question toute la nuit.",
+          "english": "I thought about your question all night."
+        },
+        {
+          "french": "Nous avons réfléchi avant de décider.",
+          "english": "We thought before deciding."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais réfléchir à cette proposition.",
+          "english": "I am going to think about this proposal."
+        },
+        {
+          "french": "Nous allons réfléchir ensemble ce soir.",
+          "english": "We are going to think together tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je réfléchissais souvent à mon avenir.",
+          "english": "I often thought about my future."
+        },
+        {
+          "french": "Nous réfléchissions longtemps avant de décider.",
+          "english": "We thought for a long time before deciding."
+        }
+      ]
+    }
   },
   {
     "infinitive": "choisir",
@@ -49,9 +125,47 @@
       "ils/elles": "choisissent"
     },
     "examples": [
-      { "french": "Je choisis un livre.", "english": "I choose a book." },
-      { "french": "Vous choisissez la bonne option.", "english": "You choose the right option." }
-    ]
+      {
+        "french": "Je choisis un livre.",
+        "english": "I choose a book."
+      },
+      {
+        "french": "Vous choisissez la bonne option.",
+        "english": "You choose the right option."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai choisi un livre pour le voyage.",
+          "english": "I chose a book for the trip."
+        },
+        {
+          "french": "Vous avez choisi la bonne option.",
+          "english": "You chose the right option."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais choisir une autre table.",
+          "english": "I am going to choose another table."
+        },
+        {
+          "french": "Vous allez choisir votre groupe demain.",
+          "english": "You are going to choose your group tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je choisissais toujours le plat du jour.",
+          "english": "I always chose the daily special."
+        },
+        {
+          "french": "Vous choisissiez vos livres avec soin.",
+          "english": "You chose your books carefully."
+        }
+      ]
+    }
   },
   {
     "infinitive": "réussir",
@@ -67,9 +181,47 @@
       "ils/elles": "réussissent"
     },
     "examples": [
-      { "french": "Tu réussis souvent cet exercice.", "english": "You often succeed at this exercise." },
-      { "french": "Nous réussissons grâce à la pratique.", "english": "We succeed thanks to practice." }
-    ]
+      {
+        "french": "Tu réussis souvent cet exercice.",
+        "english": "You often succeed at this exercise."
+      },
+      {
+        "french": "Nous réussissons grâce à la pratique.",
+        "english": "We succeed thanks to practice."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Tu as réussi cet exercice du premier coup.",
+          "english": "You succeeded at this exercise on the first try."
+        },
+        {
+          "french": "Nous avons réussi grâce à la pratique.",
+          "english": "We succeeded thanks to practice."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Tu vas réussir cet examen.",
+          "english": "You are going to succeed in this exam."
+        },
+        {
+          "french": "Nous allons réussir si nous restons calmes.",
+          "english": "We are going to succeed if we stay calm."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Tu réussissais souvent cet exercice.",
+          "english": "You often succeeded at this exercise."
+        },
+        {
+          "french": "Nous réussissions grâce à la pratique régulière.",
+          "english": "We succeeded thanks to regular practice."
+        }
+      ]
+    }
   },
   {
     "infinitive": "grandir",
@@ -85,9 +237,47 @@
       "ils/elles": "grandissent"
     },
     "examples": [
-      { "french": "L'enfant grandit vite.", "english": "The child grows quickly." },
-      { "french": "Les plantes grandissent au soleil.", "english": "Plants grow in the sun." }
-    ]
+      {
+        "french": "L'enfant grandit vite.",
+        "english": "The child grows quickly."
+      },
+      {
+        "french": "Les plantes grandissent au soleil.",
+        "english": "Plants grow in the sun."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "L'enfant a grandi très vite cette année.",
+          "english": "The child grew very quickly this year."
+        },
+        {
+          "french": "Les plantes ont grandi au soleil.",
+          "english": "The plants grew in the sun."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "L'enfant va grandir dans un environnement calme.",
+          "english": "The child is going to grow up in a calm environment."
+        },
+        {
+          "french": "Les plantes vont grandir rapidement avec cette pluie.",
+          "english": "The plants are going to grow quickly with this rain."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais enfant, je grandissais à la campagne.",
+          "english": "When I was a child, I was growing up in the countryside."
+        },
+        {
+          "french": "Les plantes grandissaient bien dans ce jardin.",
+          "english": "The plants were growing well in that garden."
+        }
+      ]
+    }
   },
   {
     "infinitive": "remplir",
@@ -103,9 +293,47 @@
       "ils/elles": "remplissent"
     },
     "examples": [
-      { "french": "Je remplis la bouteille d'eau.", "english": "I fill the water bottle." },
-      { "french": "Nous remplissons le formulaire.", "english": "We fill out the form." }
-    ]
+      {
+        "french": "Je remplis la bouteille d'eau.",
+        "english": "I fill the water bottle."
+      },
+      {
+        "french": "Nous remplissons le formulaire.",
+        "english": "We fill out the form."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai rempli la bouteille d'eau avant de partir.",
+          "english": "I filled the water bottle before leaving."
+        },
+        {
+          "french": "Nous avons rempli le formulaire en ligne.",
+          "english": "We filled out the form online."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais remplir ce document maintenant.",
+          "english": "I am going to fill out this document now."
+        },
+        {
+          "french": "Nous allons remplir les verres pour tout le monde.",
+          "english": "We are going to fill the glasses for everyone."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je remplissais toujours ma bouteille avant le cours.",
+          "english": "I always filled my bottle before class."
+        },
+        {
+          "french": "Nous remplissions les formulaires à la main.",
+          "english": "We used to fill out the forms by hand."
+        }
+      ]
+    }
   },
   {
     "infinitive": "applaudir",
@@ -121,9 +349,47 @@
       "ils/elles": "applaudissent"
     },
     "examples": [
-      { "french": "J'applaudis la performance.", "english": "I applaud the performance." },
-      { "french": "Ils applaudissent à la fin du concert.", "english": "They applaud at the end of the concert." }
-    ]
+      {
+        "french": "J'applaudis la performance.",
+        "english": "I applaud the performance."
+      },
+      {
+        "french": "Ils applaudissent à la fin du concert.",
+        "english": "They applaud at the end of the concert."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai applaudi la performance à la fin du concert.",
+          "english": "I applauded the performance at the end of the concert."
+        },
+        {
+          "french": "Ils ont applaudi très fort.",
+          "english": "They applauded very loudly."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais applaudir quand le discours sera fini.",
+          "english": "I am going to applaud when the speech is over."
+        },
+        {
+          "french": "Ils vont applaudir les artistes ce soir.",
+          "english": "They are going to applaud the artists tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'applaudissais toujours à la fin des spectacles.",
+          "english": "I always applauded at the end of performances."
+        },
+        {
+          "french": "Ils applaudissaient chaque chanson.",
+          "english": "They applauded after every song."
+        }
+      ]
+    }
   },
   {
     "infinitive": "obéir",
@@ -139,9 +405,47 @@
       "ils/elles": "obéissent"
     },
     "examples": [
-      { "french": "Le chien obéit bien.", "english": "The dog obeys well." },
-      { "french": "Les enfants obéissent à leurs parents.", "english": "The children obey their parents." }
-    ]
+      {
+        "french": "Le chien obéit bien.",
+        "english": "The dog obeys well."
+      },
+      {
+        "french": "Les enfants obéissent à leurs parents.",
+        "english": "The children obey their parents."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Le chien a obéi immédiatement.",
+          "english": "The dog obeyed immediately."
+        },
+        {
+          "french": "Les enfants ont obéi à leurs parents.",
+          "english": "The children obeyed their parents."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Le chien va obéir si tu restes calme.",
+          "english": "The dog is going to obey if you stay calm."
+        },
+        {
+          "french": "Les enfants vont obéir aux consignes.",
+          "english": "The children are going to obey the instructions."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Le chien obéissait bien à son maître.",
+          "english": "The dog obeyed its owner well."
+        },
+        {
+          "french": "Les enfants obéissaient sans discuter.",
+          "english": "The children obeyed without arguing."
+        }
+      ]
+    }
   },
   {
     "infinitive": "rougir",
@@ -157,9 +461,47 @@
       "ils/elles": "rougissent"
     },
     "examples": [
-      { "french": "Je rougis facilement.", "english": "I blush easily." },
-      { "french": "Elle rougit quand elle est gênée.", "english": "She blushes when she is embarrassed." }
-    ]
+      {
+        "french": "Je rougis facilement.",
+        "english": "I blush easily."
+      },
+      {
+        "french": "Elle rougit quand elle est gênée.",
+        "english": "She blushes when she is embarrassed."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai rougi quand tout le monde m'a regardé.",
+          "english": "I blushed when everyone looked at me."
+        },
+        {
+          "french": "Elle a rougi en entendant ce compliment.",
+          "english": "She blushed when she heard that compliment."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais rougir si tu continues.",
+          "english": "I am going to blush if you keep going."
+        },
+        {
+          "french": "Elle va rougir quand elle verra le cadeau.",
+          "english": "She is going to blush when she sees the gift."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je rougissais facilement quand j'étais adolescent.",
+          "english": "I blushed easily when I was a teenager."
+        },
+        {
+          "french": "Elle rougissait chaque fois qu'on la complimentait.",
+          "english": "She blushed every time someone complimented her."
+        }
+      ]
+    }
   },
   {
     "infinitive": "nourrir",
@@ -175,9 +517,47 @@
       "ils/elles": "nourrissent"
     },
     "examples": [
-      { "french": "Je nourris le chat.", "english": "I feed the cat." },
-      { "french": "Ils nourrissent les oiseaux le matin.", "english": "They feed the birds in the morning." }
-    ]
+      {
+        "french": "Je nourris le chat.",
+        "english": "I feed the cat."
+      },
+      {
+        "french": "Ils nourrissent les oiseaux le matin.",
+        "english": "They feed the birds in the morning."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai nourri le chat avant de sortir.",
+          "english": "I fed the cat before going out."
+        },
+        {
+          "french": "Ils ont nourri les oiseaux ce matin.",
+          "english": "They fed the birds this morning."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais nourrir le chien dans une minute.",
+          "english": "I am going to feed the dog in a minute."
+        },
+        {
+          "french": "Ils vont nourrir les animaux ce soir.",
+          "english": "They are going to feed the animals tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je nourrissais le chat tous les matins.",
+          "english": "I fed the cat every morning."
+        },
+        {
+          "french": "Ils nourrissaient les oiseaux pendant l'hiver.",
+          "english": "They fed the birds during the winter."
+        }
+      ]
+    }
   },
   {
     "infinitive": "punir",
@@ -193,9 +573,47 @@
       "ils/elles": "punissent"
     },
     "examples": [
-      { "french": "Le professeur punit les retards répétés.", "english": "The teacher punishes repeated lateness." },
-      { "french": "On ne punit pas sans explication.", "english": "You do not punish without an explanation." }
-    ]
+      {
+        "french": "Le professeur punit les retards répétés.",
+        "english": "The teacher punishes repeated lateness."
+      },
+      {
+        "french": "On ne punit pas sans explication.",
+        "english": "You do not punish without an explanation."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Le professeur a puni les retards répétés.",
+          "english": "The teacher punished repeated lateness."
+        },
+        {
+          "french": "On a puni les élèves sans explication.",
+          "english": "The students were punished without explanation."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Le professeur va punir ce comportement.",
+          "english": "The teacher is going to punish that behavior."
+        },
+        {
+          "french": "On va punir les retards encore une fois.",
+          "english": "Repeated lateness is going to be punished once again."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Le professeur punissait souvent ce genre d'erreur.",
+          "english": "The teacher often punished that kind of mistake."
+        },
+        {
+          "french": "On punissait les retards dans cette école.",
+          "english": "Lateness used to be punished in that school."
+        }
+      ]
+    }
   },
   {
     "infinitive": "bâtir",
@@ -211,8 +629,46 @@
       "ils/elles": "bâtissent"
     },
     "examples": [
-      { "french": "Ils bâtissent une maison.", "english": "They build a house." },
-      { "french": "Nous bâtissons quelque chose de solide.", "english": "We are building something solid." }
-    ]
+      {
+        "french": "Ils bâtissent une maison.",
+        "english": "They build a house."
+      },
+      {
+        "french": "Nous bâtissons quelque chose de solide.",
+        "english": "We are building something solid."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Ils ont bâti une maison en deux ans.",
+          "english": "They built a house in two years."
+        },
+        {
+          "french": "Nous avons bâti quelque chose de solide.",
+          "english": "We built something solid."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Ils vont bâtir un nouveau garage.",
+          "english": "They are going to build a new garage."
+        },
+        {
+          "french": "Nous allons bâtir ce projet ensemble.",
+          "english": "We are going to build this project together."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Ils bâtissaient une maison près du lac.",
+          "english": "They were building a house near the lake."
+        },
+        {
+          "french": "Nous bâtissions notre avenir pas à pas.",
+          "english": "We were building our future step by step."
+        }
+      ]
+    }
   }
 ]

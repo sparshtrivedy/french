@@ -13,9 +13,47 @@
       "ils/elles": "parlent"
     },
     "examples": [
-      { "french": "Je parle avec mon professeur.", "english": "I speak with my teacher." },
-      { "french": "Nous parlons français en classe.", "english": "We speak French in class." }
-    ]
+      {
+        "french": "Je parle avec mon professeur.",
+        "english": "I speak with my teacher."
+      },
+      {
+        "french": "Nous parlons français en classe.",
+        "english": "We speak French in class."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai parlé avec mon professeur après le cours.",
+          "english": "I spoke with my teacher after class."
+        },
+        {
+          "french": "Nous avons parlé français toute la soirée.",
+          "english": "We spoke French all evening."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais parler au directeur demain matin.",
+          "english": "I am going to speak to the principal tomorrow morning."
+        },
+        {
+          "french": "Nous allons parler de ce projet ce soir.",
+          "english": "We are going to talk about this project tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais petit, je parlais souvent avec mon grand-père.",
+          "english": "When I was little, I often talked with my grandfather."
+        },
+        {
+          "french": "Nous parlions français en classe tous les jours.",
+          "english": "We spoke French in class every day."
+        }
+      ]
+    }
   },
   {
     "infinitive": "manger",
@@ -31,9 +69,47 @@
       "ils/elles": "mangent"
     },
     "examples": [
-      { "french": "Je mange une pomme.", "english": "I eat an apple." },
-      { "french": "Nous mangeons à midi.", "english": "We eat at noon." }
-    ]
+      {
+        "french": "Je mange une pomme.",
+        "english": "I eat an apple."
+      },
+      {
+        "french": "Nous mangeons à midi.",
+        "english": "We eat at noon."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai mangé une pomme après le sport.",
+          "english": "I ate an apple after exercise."
+        },
+        {
+          "french": "Nous avons mangé au restaurant hier soir.",
+          "english": "We ate at the restaurant last night."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais manger chez moi ce soir.",
+          "english": "I am going to eat at home tonight."
+        },
+        {
+          "french": "Nous allons manger avec des amis demain.",
+          "english": "We are going to eat with friends tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais étudiant, je mangeais souvent à la cafétéria.",
+          "english": "When I was a student, I often ate at the cafeteria."
+        },
+        {
+          "french": "Nous mangions toujours à midi.",
+          "english": "We always ate at noon."
+        }
+      ]
+    }
   },
   {
     "infinitive": "aimer",
@@ -49,9 +125,47 @@
       "ils/elles": "aiment"
     },
     "examples": [
-      { "french": "J'aime la musique française.", "english": "I like French music." },
-      { "french": "Ils aiment voyager ensemble.", "english": "They like to travel together." }
-    ]
+      {
+        "french": "J'aime la musique française.",
+        "english": "I like French music."
+      },
+      {
+        "french": "Ils aiment voyager ensemble.",
+        "english": "They like to travel together."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai aimé ce film dès le début.",
+          "english": "I liked that movie from the very beginning."
+        },
+        {
+          "french": "Ils ont aimé voyager ensemble en été.",
+          "english": "They enjoyed traveling together in the summer."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais aimer ce livre, j'en suis sûr.",
+          "english": "I am going to like this book, I am sure of it."
+        },
+        {
+          "french": "Ils vont aimer ce restaurant.",
+          "english": "They are going to like this restaurant."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais jeune, j'aimais beaucoup la musique française.",
+          "english": "When I was young, I really liked French music."
+        },
+        {
+          "french": "Ils aimaient voyager en train.",
+          "english": "They liked traveling by train."
+        }
+      ]
+    }
   },
   {
     "infinitive": "acheter",
@@ -67,9 +181,47 @@
       "ils/elles": "achètent"
     },
     "examples": [
-      { "french": "J'achète du pain.", "english": "I buy some bread." },
-      { "french": "Nous achetons des livres pour le cours.", "english": "We buy books for the class." }
-    ]
+      {
+        "french": "J'achète du pain.",
+        "english": "I buy some bread."
+      },
+      {
+        "french": "Nous achetons des livres pour le cours.",
+        "english": "We buy books for the class."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai acheté du pain ce matin.",
+          "english": "I bought some bread this morning."
+        },
+        {
+          "french": "Nous avons acheté des livres pour le cours.",
+          "english": "We bought books for the class."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais acheter un cadeau cet après-midi.",
+          "english": "I am going to buy a gift this afternoon."
+        },
+        {
+          "french": "Nous allons acheter des billets demain.",
+          "english": "We are going to buy tickets tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Avant, j'achetais mon café dans cette rue.",
+          "english": "Before, I used to buy my coffee on this street."
+        },
+        {
+          "french": "Nous achetions nos légumes au marché.",
+          "english": "We used to buy our vegetables at the market."
+        }
+      ]
+    }
   },
   {
     "infinitive": "chercher",
@@ -85,9 +237,47 @@
       "ils/elles": "cherchent"
     },
     "examples": [
-      { "french": "Je cherche mes clés.", "english": "I am looking for my keys." },
-      { "french": "Nous cherchons un bon restaurant.", "english": "We are looking for a good restaurant." }
-    ]
+      {
+        "french": "Je cherche mes clés.",
+        "english": "I am looking for my keys."
+      },
+      {
+        "french": "Nous cherchons un bon restaurant.",
+        "english": "We are looking for a good restaurant."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai cherché mes clés pendant une heure.",
+          "english": "I looked for my keys for an hour."
+        },
+        {
+          "french": "Nous avons cherché un bon restaurant près de la gare.",
+          "english": "We looked for a good restaurant near the station."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais chercher mon sac dans la voiture.",
+          "english": "I am going to get my bag from the car."
+        },
+        {
+          "french": "Nous allons chercher un appartement ce week-end.",
+          "english": "We are going to look for an apartment this weekend."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je cherchais souvent mes lunettes le matin.",
+          "english": "I was often looking for my glasses in the morning."
+        },
+        {
+          "french": "Nous cherchions un emploi à cette époque.",
+          "english": "We were looking for a job at that time."
+        }
+      ]
+    }
   },
   {
     "infinitive": "chanter",
@@ -103,9 +293,47 @@
       "ils/elles": "chantent"
     },
     "examples": [
-      { "french": "Je chante dans la voiture.", "english": "I sing in the car." },
-      { "french": "Nous chantons en classe.", "english": "We sing in class." }
-    ]
+      {
+        "french": "Je chante dans la voiture.",
+        "english": "I sing in the car."
+      },
+      {
+        "french": "Nous chantons en classe.",
+        "english": "We sing in class."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai chanté dans la voiture tout le trajet.",
+          "english": "I sang in the car the whole way."
+        },
+        {
+          "french": "Nous avons chanté en classe hier.",
+          "english": "We sang in class yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais chanter à la fête ce soir.",
+          "english": "I am going to sing at the party tonight."
+        },
+        {
+          "french": "Nous allons chanter ensemble demain.",
+          "english": "We are going to sing together tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais enfant, je chantais souvent dans ma chambre.",
+          "english": "When I was a child, I often sang in my room."
+        },
+        {
+          "french": "Nous chantions dans la chorale de l'école.",
+          "english": "We used to sing in the school choir."
+        }
+      ]
+    }
   },
   {
     "infinitive": "danser",
@@ -121,9 +349,47 @@
       "ils/elles": "dansent"
     },
     "examples": [
-      { "french": "Je danse avec mes amis.", "english": "I dance with my friends." },
-      { "french": "Ils dansent très bien.", "english": "They dance very well." }
-    ]
+      {
+        "french": "Je danse avec mes amis.",
+        "english": "I dance with my friends."
+      },
+      {
+        "french": "Ils dansent très bien.",
+        "english": "They dance very well."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai dansé avec mes amis samedi soir.",
+          "english": "I danced with my friends on Saturday night."
+        },
+        {
+          "french": "Ils ont dansé jusqu'à minuit.",
+          "english": "They danced until midnight."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais danser après le dîner.",
+          "english": "I am going to dance after dinner."
+        },
+        {
+          "french": "Ils vont danser à ce mariage.",
+          "english": "They are going to dance at this wedding."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je dansais souvent quand j'étais à l'université.",
+          "english": "I used to dance often when I was in university."
+        },
+        {
+          "french": "Ils dansaient très bien ensemble.",
+          "english": "They danced very well together."
+        }
+      ]
+    }
   },
   {
     "infinitive": "étudier",
@@ -139,9 +405,47 @@
       "ils/elles": "étudient"
     },
     "examples": [
-      { "french": "J'étudie le français chaque soir.", "english": "I study French every evening." },
-      { "french": "Vous étudiez pour l'examen.", "english": "You study for the exam." }
-    ]
+      {
+        "french": "J'étudie le français chaque soir.",
+        "english": "I study French every evening."
+      },
+      {
+        "french": "Vous étudiez pour l'examen.",
+        "english": "You study for the exam."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai étudié le français toute la soirée.",
+          "english": "I studied French all evening."
+        },
+        {
+          "french": "Vous avez étudié pour l'examen hier.",
+          "english": "You studied for the exam yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais étudier à la bibliothèque demain.",
+          "english": "I am going to study at the library tomorrow."
+        },
+        {
+          "french": "Vous allez étudier ce chapitre ce soir.",
+          "english": "You are going to study this chapter tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'étudiais le français chaque soir après le travail.",
+          "english": "I studied French every evening after work."
+        },
+        {
+          "french": "Vous étudiiez ensemble avant les examens.",
+          "english": "You used to study together before exams."
+        }
+      ]
+    }
   },
   {
     "infinitive": "laver",
@@ -157,9 +461,47 @@
       "ils/elles": "lavent"
     },
     "examples": [
-      { "french": "Je lave la voiture.", "english": "I wash the car." },
-      { "french": "Nous lavons la vaisselle après le dîner.", "english": "We wash the dishes after dinner." }
-    ]
+      {
+        "french": "Je lave la voiture.",
+        "english": "I wash the car."
+      },
+      {
+        "french": "Nous lavons la vaisselle après le dîner.",
+        "english": "We wash the dishes after dinner."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai lavé la voiture dimanche.",
+          "english": "I washed the car on Sunday."
+        },
+        {
+          "french": "Nous avons lavé la vaisselle après le dîner.",
+          "english": "We washed the dishes after dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais laver mes vêtements ce soir.",
+          "english": "I am going to wash my clothes tonight."
+        },
+        {
+          "french": "Nous allons laver le sol demain matin.",
+          "english": "We are going to wash the floor tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je lavais toujours la voiture le samedi.",
+          "english": "I always washed the car on Saturdays."
+        },
+        {
+          "french": "Nous lavions la vaisselle ensemble.",
+          "english": "We used to wash the dishes together."
+        }
+      ]
+    }
   },
   {
     "infinitive": "voyager",
@@ -175,9 +517,47 @@
       "ils/elles": "voyagent"
     },
     "examples": [
-      { "french": "Je voyage en train.", "english": "I travel by train." },
-      { "french": "Ils voyagent en été.", "english": "They travel in the summer." }
-    ]
+      {
+        "french": "Je voyage en train.",
+        "english": "I travel by train."
+      },
+      {
+        "french": "Ils voyagent en été.",
+        "english": "They travel in the summer."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai voyagé en train pendant les vacances.",
+          "english": "I traveled by train during the holidays."
+        },
+        {
+          "french": "Ils ont voyagé en été l'année dernière.",
+          "english": "They traveled in the summer last year."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais voyager en Espagne cet été.",
+          "english": "I am going to travel in Spain this summer."
+        },
+        {
+          "french": "Ils vont voyager ensemble le mois prochain.",
+          "english": "They are going to travel together next month."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais jeune, je voyageais peu.",
+          "english": "When I was young, I traveled very little."
+        },
+        {
+          "french": "Ils voyageaient souvent en été.",
+          "english": "They used to travel often in the summer."
+        }
+      ]
+    }
   },
   {
     "infinitive": "préparer",
@@ -193,9 +573,47 @@
       "ils/elles": "préparent"
     },
     "examples": [
-      { "french": "Je prépare le dîner.", "english": "I prepare dinner." },
-      { "french": "Nous préparons nos affaires pour le voyage.", "english": "We prepare our things for the trip." }
-    ]
+      {
+        "french": "Je prépare le dîner.",
+        "english": "I prepare dinner."
+      },
+      {
+        "french": "Nous préparons nos affaires pour le voyage.",
+        "english": "We prepare our things for the trip."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai préparé le dîner pour tout le monde.",
+          "english": "I prepared dinner for everyone."
+        },
+        {
+          "french": "Nous avons préparé nos affaires hier soir.",
+          "english": "We prepared our things last night."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais préparer le déjeuner maintenant.",
+          "english": "I am going to prepare lunch now."
+        },
+        {
+          "french": "Nous allons préparer la salle demain.",
+          "english": "We are going to prepare the room tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je préparais toujours le café le matin.",
+          "english": "I always prepared the coffee in the morning."
+        },
+        {
+          "french": "Nous préparions nos voyages avec soin.",
+          "english": "We prepared our trips carefully."
+        }
+      ]
+    }
   },
   {
     "infinitive": "visiter",
@@ -211,9 +629,47 @@
       "ils/elles": "visitent"
     },
     "examples": [
-      { "french": "Je visite le musée.", "english": "I visit the museum." },
-      { "french": "Nous visitons Paris en été.", "english": "We visit Paris in the summer." }
-    ]
+      {
+        "french": "Je visite le musée.",
+        "english": "I visit the museum."
+      },
+      {
+        "french": "Nous visitons Paris en été.",
+        "english": "We visit Paris in the summer."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai visité le musée avec ma famille.",
+          "english": "I visited the museum with my family."
+        },
+        {
+          "french": "Nous avons visité Paris en avril.",
+          "english": "We visited Paris in April."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais visiter Lyon ce week-end.",
+          "english": "I am going to visit Lyon this weekend."
+        },
+        {
+          "french": "Nous allons visiter ce château demain.",
+          "english": "We are going to visit this castle tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je visitais souvent ce musée quand j'habitais ici.",
+          "english": "I often visited that museum when I lived here."
+        },
+        {
+          "french": "Nous visitions une nouvelle ville chaque été.",
+          "english": "We used to visit a new city every summer."
+        }
+      ]
+    }
   },
   {
     "infinitive": "habiter",
@@ -229,9 +685,47 @@
       "ils/elles": "habitent"
     },
     "examples": [
-      { "french": "J'habite à Vancouver.", "english": "I live in Vancouver." },
-      { "french": "Nous habitons près du centre-ville.", "english": "We live near downtown." }
-    ]
+      {
+        "french": "J'habite à Vancouver.",
+        "english": "I live in Vancouver."
+      },
+      {
+        "french": "Nous habitons près du centre-ville.",
+        "english": "We live near downtown."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai habité à Vancouver pendant trois ans.",
+          "english": "I lived in Vancouver for three years."
+        },
+        {
+          "french": "Nous avons habité près du centre-ville.",
+          "english": "We lived near downtown."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais habiter à Montréal l'année prochaine.",
+          "english": "I am going to live in Montreal next year."
+        },
+        {
+          "french": "Nous allons habiter près de l'école.",
+          "english": "We are going to live near the school."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'habitais à Québec quand j'étais enfant.",
+          "english": "I lived in Quebec when I was a child."
+        },
+        {
+          "french": "Nous habitions près du centre-ville à cette époque.",
+          "english": "We lived near downtown at that time."
+        }
+      ]
+    }
   },
   {
     "infinitive": "payer",
@@ -247,9 +741,47 @@
       "ils/elles": "paient/payent"
     },
     "examples": [
-      { "french": "Je paie avec ma carte.", "english": "I pay with my card." },
-      { "french": "Nous payons l'addition.", "english": "We pay the bill." }
-    ]
+      {
+        "french": "Je paie avec ma carte.",
+        "english": "I pay with my card."
+      },
+      {
+        "french": "Nous payons l'addition.",
+        "english": "We pay the bill."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai payé avec ma carte hier.",
+          "english": "I paid with my card yesterday."
+        },
+        {
+          "french": "Nous avons payé l'addition à la fin du repas.",
+          "english": "We paid the bill at the end of the meal."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais payer en espèces cette fois.",
+          "english": "I am going to pay in cash this time."
+        },
+        {
+          "french": "Nous allons payer demain matin.",
+          "english": "We are going to pay tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je payais toujours en espèces au marché.",
+          "english": "I always paid in cash at the market."
+        },
+        {
+          "french": "Nous payions l'addition chacun notre tour.",
+          "english": "We used to pay the bill in turns."
+        }
+      ]
+    }
   },
   {
     "infinitive": "écouter",
@@ -265,9 +797,47 @@
       "ils/elles": "écoutent"
     },
     "examples": [
-      { "french": "J'écoute un podcast en français.", "english": "I listen to a podcast in French." },
-      { "french": "Les étudiants écoutent le professeur.", "english": "The students listen to the teacher." }
-    ]
+      {
+        "french": "J'écoute un podcast en français.",
+        "english": "I listen to a podcast in French."
+      },
+      {
+        "french": "Les étudiants écoutent le professeur.",
+        "english": "The students listen to the teacher."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai écouté un podcast en français ce matin.",
+          "english": "I listened to a French podcast this morning."
+        },
+        {
+          "french": "Les étudiants ont écouté le professeur attentivement.",
+          "english": "The students listened to the teacher attentively."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais écouter cette chanson encore une fois.",
+          "english": "I am going to listen to that song one more time."
+        },
+        {
+          "french": "Les étudiants vont écouter l'enregistrement demain.",
+          "english": "The students are going to listen to the recording tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'écoutais souvent la radio en travaillant.",
+          "english": "I often listened to the radio while working."
+        },
+        {
+          "french": "Les étudiants écoutaient toujours le professeur en silence.",
+          "english": "The students always listened to the teacher in silence."
+        }
+      ]
+    }
   },
   {
     "infinitive": "jouer",
@@ -283,9 +853,47 @@
       "ils/elles": "jouent"
     },
     "examples": [
-      { "french": "Je joue au football.", "english": "I play soccer." },
-      { "french": "Nous jouons à un jeu de cartes.", "english": "We play a card game." }
-    ]
+      {
+        "french": "Je joue au football.",
+        "english": "I play soccer."
+      },
+      {
+        "french": "Nous jouons à un jeu de cartes.",
+        "english": "We play a card game."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai joué au football avec mes cousins.",
+          "english": "I played soccer with my cousins."
+        },
+        {
+          "french": "Nous avons joué à un jeu de cartes après le dîner.",
+          "english": "We played a card game after dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais jouer au tennis demain.",
+          "english": "I am going to play tennis tomorrow."
+        },
+        {
+          "french": "Nous allons jouer ensemble ce soir.",
+          "english": "We are going to play together tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je jouais souvent au football après l'école.",
+          "english": "I often played soccer after school."
+        },
+        {
+          "french": "Nous jouions à des jeux de cartes en vacances.",
+          "english": "We used to play card games on vacation."
+        }
+      ]
+    }
   },
   {
     "infinitive": "regarder",
@@ -301,9 +909,47 @@
       "ils/elles": "regardent"
     },
     "examples": [
-      { "french": "Je regarde un film.", "english": "I watch a movie." },
-      { "french": "Nous regardons la télévision le soir.", "english": "We watch television in the evening." }
-    ]
+      {
+        "french": "Je regarde un film.",
+        "english": "I watch a movie."
+      },
+      {
+        "french": "Nous regardons la télévision le soir.",
+        "english": "We watch television in the evening."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai regardé un film hier soir.",
+          "english": "I watched a movie last night."
+        },
+        {
+          "french": "Nous avons regardé la télévision après le dîner.",
+          "english": "We watched television after dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais regarder ce documentaire ce soir.",
+          "english": "I am going to watch this documentary tonight."
+        },
+        {
+          "french": "Nous allons regarder le match demain.",
+          "english": "We are going to watch the game tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je regardais souvent ce programme avec ma famille.",
+          "english": "I often watched that program with my family."
+        },
+        {
+          "french": "Nous regardions la télévision le soir.",
+          "english": "We watched television in the evening."
+        }
+      ]
+    }
   },
   {
     "infinitive": "travailler",
@@ -319,9 +965,47 @@
       "ils/elles": "travaillent"
     },
     "examples": [
-      { "french": "Je travaille de chez moi.", "english": "I work from home." },
-      { "french": "Elles travaillent ensemble sur ce projet.", "english": "They work together on this project." }
-    ]
+      {
+        "french": "Je travaille de chez moi.",
+        "english": "I work from home."
+      },
+      {
+        "french": "Elles travaillent ensemble sur ce projet.",
+        "english": "They work together on this project."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai travaillé de chez moi hier.",
+          "english": "I worked from home yesterday."
+        },
+        {
+          "french": "Elles ont travaillé ensemble sur ce projet.",
+          "english": "They worked together on that project."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais travailler tard ce soir.",
+          "english": "I am going to work late tonight."
+        },
+        {
+          "french": "Elles vont travailler sur ce dossier demain.",
+          "english": "They are going to work on this file tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je travaillais beaucoup quand j'étais à Paris.",
+          "english": "I worked a lot when I was in Paris."
+        },
+        {
+          "french": "Elles travaillaient ensemble chaque semaine.",
+          "english": "They worked together every week."
+        }
+      ]
+    }
   },
   {
     "infinitive": "monter",
@@ -337,9 +1021,47 @@
       "ils/elles": "montent"
     },
     "examples": [
-      { "french": "Je monte au deuxième étage.", "english": "I go up to the second floor." },
-      { "french": "Nous montons dans le bus.", "english": "We get on the bus." }
-    ]
+      {
+        "french": "Je monte au deuxième étage.",
+        "english": "I go up to the second floor."
+      },
+      {
+        "french": "Nous montons dans le bus.",
+        "english": "We get on the bus."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis monté au deuxième étage rapidement.",
+          "english": "I went up to the second floor quickly."
+        },
+        {
+          "french": "Nous sommes montés dans le bus à huit heures.",
+          "english": "We got on the bus at eight o'clock."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais monter voir Julie tout de suite.",
+          "english": "I am going to go upstairs to see Julie right away."
+        },
+        {
+          "french": "Nous allons monter dans le train dans quelques minutes.",
+          "english": "We are going to get on the train in a few minutes."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je montais toujours les escaliers à pied.",
+          "english": "I always went up the stairs on foot."
+        },
+        {
+          "french": "Nous montions souvent dans ce vieux bus.",
+          "english": "We often got on that old bus."
+        }
+      ]
+    }
   },
   {
     "infinitive": "rentrer",
@@ -355,9 +1077,47 @@
       "ils/elles": "rentrent"
     },
     "examples": [
-      { "french": "Je rentre tard ce soir.", "english": "I am going home late tonight." },
-      { "french": "Ils rentrent après le travail.", "english": "They return after work." }
-    ]
+      {
+        "french": "Je rentre tard ce soir.",
+        "english": "I am going home late tonight."
+      },
+      {
+        "french": "Ils rentrent après le travail.",
+        "english": "They return after work."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis rentré tard ce soir-là.",
+          "english": "I came home late that evening."
+        },
+        {
+          "french": "Ils sont rentrés après le travail.",
+          "english": "They came back after work."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais rentrer après la réunion.",
+          "english": "I am going to come home after the meeting."
+        },
+        {
+          "french": "Ils vont rentrer avant minuit.",
+          "english": "They are going to come back before midnight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je rentrais toujours tard le jeudi.",
+          "english": "I always came home late on Thursdays."
+        },
+        {
+          "french": "Ils rentraient ensemble après le travail.",
+          "english": "They used to come back together after work."
+        }
+      ]
+    }
   },
   {
     "infinitive": "entrer",
@@ -373,9 +1133,47 @@
       "ils/elles": "entrent"
     },
     "examples": [
-      { "french": "J'entre dans la maison.", "english": "I enter the house." },
-      { "french": "Les élèves entrent en classe.", "english": "The students enter the classroom." }
-    ]
+      {
+        "french": "J'entre dans la maison.",
+        "english": "I enter the house."
+      },
+      {
+        "french": "Les élèves entrent en classe.",
+        "english": "The students enter the classroom."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis entré dans la maison sans bruit.",
+          "english": "I entered the house quietly."
+        },
+        {
+          "french": "Les élèves sont entrés en classe à l'heure.",
+          "english": "The students entered the classroom on time."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais entrer dans le bureau maintenant.",
+          "english": "I am going to enter the office now."
+        },
+        {
+          "french": "Les élèves vont entrer dans la salle dans une minute.",
+          "english": "The students are going to enter the room in a minute."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'entrais toujours par cette porte.",
+          "english": "I always entered through that door."
+        },
+        {
+          "french": "Les élèves entraient en classe en silence.",
+          "english": "The students entered the classroom quietly."
+        }
+      ]
+    }
   },
   {
     "infinitive": "retourner",
@@ -391,9 +1189,47 @@
       "ils/elles": "retournent"
     },
     "examples": [
-      { "french": "Je retourne à Paris demain.", "english": "I return to Paris tomorrow." },
-      { "french": "Nous retournons au bureau.", "english": "We go back to the office." }
-    ]
+      {
+        "french": "Je retourne à Paris demain.",
+        "english": "I return to Paris tomorrow."
+      },
+      {
+        "french": "Nous retournons au bureau.",
+        "english": "We go back to the office."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis retourné à Paris l'année dernière.",
+          "english": "I went back to Paris last year."
+        },
+        {
+          "french": "Nous sommes retournés au bureau après le déjeuner.",
+          "english": "We went back to the office after lunch."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais retourner à cette boutique demain.",
+          "english": "I am going to go back to that shop tomorrow."
+        },
+        {
+          "french": "Nous allons retourner au bureau tout à l'heure.",
+          "english": "We are going to go back to the office in a little while."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je retournais souvent à Paris pour le travail.",
+          "english": "I often went back to Paris for work."
+        },
+        {
+          "french": "Nous retournions au bureau après chaque rendez-vous.",
+          "english": "We used to go back to the office after every meeting."
+        }
+      ]
+    }
   },
   {
     "infinitive": "tomber",
@@ -409,9 +1245,47 @@
       "ils/elles": "tombent"
     },
     "examples": [
-      { "french": "Je tombe parfois dans la rue.", "english": "I sometimes fall in the street." },
-      { "french": "Les feuilles tombent en automne.", "english": "Leaves fall in autumn." }
-    ]
+      {
+        "french": "Je tombe parfois dans la rue.",
+        "english": "I sometimes fall in the street."
+      },
+      {
+        "french": "Les feuilles tombent en automne.",
+        "english": "Leaves fall in autumn."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis tombé dans la rue hier.",
+          "english": "I fell in the street yesterday."
+        },
+        {
+          "french": "Les feuilles sont tombées en automne.",
+          "english": "The leaves fell in autumn."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais tomber si je ne fais pas attention.",
+          "english": "I am going to fall if I am not careful."
+        },
+        {
+          "french": "Les feuilles vont tomber bientôt.",
+          "english": "The leaves are going to fall soon."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je tombais souvent quand j'apprenais à patiner.",
+          "english": "I fell often when I was learning to skate."
+        },
+        {
+          "french": "Les feuilles tombaient lentement en automne.",
+          "english": "The leaves were falling slowly in autumn."
+        }
+      ]
+    }
   },
   {
     "infinitive": "rester",
@@ -427,9 +1301,47 @@
       "ils/elles": "restent"
     },
     "examples": [
-      { "french": "Je reste à la maison.", "english": "I stay at home." },
-      { "french": "Nous restons ici ce soir.", "english": "We stay here tonight." }
-    ]
+      {
+        "french": "Je reste à la maison.",
+        "english": "I stay at home."
+      },
+      {
+        "french": "Nous restons ici ce soir.",
+        "english": "We stay here tonight."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis resté à la maison toute la journée.",
+          "english": "I stayed at home all day."
+        },
+        {
+          "french": "Nous sommes restés ici jusqu'à minuit.",
+          "english": "We stayed here until midnight."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais rester ici encore une heure.",
+          "english": "I am going to stay here for another hour."
+        },
+        {
+          "french": "Nous allons rester à la maison ce soir.",
+          "english": "We are going to stay at home tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je restais souvent seul le week-end.",
+          "english": "I often stayed alone on weekends."
+        },
+        {
+          "french": "Nous restions ici pendant l'été.",
+          "english": "We stayed here during the summer."
+        }
+      ]
+    }
   },
   {
     "infinitive": "arriver",
@@ -445,9 +1357,47 @@
       "ils/elles": "arrivent"
     },
     "examples": [
-      { "french": "J'arrive à l'heure.", "english": "I arrive on time." },
-      { "french": "Ils arrivent demain matin.", "english": "They arrive tomorrow morning." }
-    ]
+      {
+        "french": "J'arrive à l'heure.",
+        "english": "I arrive on time."
+      },
+      {
+        "french": "Ils arrivent demain matin.",
+        "english": "They arrive tomorrow morning."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je suis arrivé à l'heure ce matin.",
+          "english": "I arrived on time this morning."
+        },
+        {
+          "french": "Ils sont arrivés tôt ce matin.",
+          "english": "They arrived early this morning."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais arriver vers midi.",
+          "english": "I am going to arrive around noon."
+        },
+        {
+          "french": "Ils vont arriver demain matin.",
+          "english": "They are going to arrive tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'arrivais souvent en avance au travail.",
+          "english": "I often arrived early at work."
+        },
+        {
+          "french": "Ils arrivaient toujours ensemble.",
+          "english": "They always arrived together."
+        }
+      ]
+    }
   },
   {
     "infinitive": "téléphoner",
@@ -463,9 +1413,47 @@
       "ils/elles": "téléphonent"
     },
     "examples": [
-      { "french": "Je téléphone à mes parents.", "english": "I call my parents." },
-      { "french": "Nous téléphonons souvent le soir.", "english": "We call often in the evening." }
-    ]
+      {
+        "french": "Je téléphone à mes parents.",
+        "english": "I call my parents."
+      },
+      {
+        "french": "Nous téléphonons souvent le soir.",
+        "english": "We call often in the evening."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai téléphoné à mes parents hier soir.",
+          "english": "I called my parents last night."
+        },
+        {
+          "french": "Nous avons téléphoné après le dîner.",
+          "english": "We called after dinner."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais téléphoner au médecin demain.",
+          "english": "I am going to call the doctor tomorrow."
+        },
+        {
+          "french": "Nous allons téléphoner ce soir.",
+          "english": "We are going to call tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je téléphonais souvent à ma sœur le dimanche.",
+          "english": "I often called my sister on Sundays."
+        },
+        {
+          "french": "Nous téléphonions toujours le soir.",
+          "english": "We always called in the evening."
+        }
+      ]
+    }
   },
   {
     "infinitive": "envoyer",
@@ -481,9 +1469,47 @@
       "ils/elles": "envoient"
     },
     "examples": [
-      { "french": "J'envoie un message.", "english": "I send a message." },
-      { "french": "Nous envoyons une carte postale.", "english": "We send a postcard." }
-    ]
+      {
+        "french": "J'envoie un message.",
+        "english": "I send a message."
+      },
+      {
+        "french": "Nous envoyons une carte postale.",
+        "english": "We send a postcard."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai envoyé un message ce matin.",
+          "english": "I sent a message this morning."
+        },
+        {
+          "french": "Nous avons envoyé une carte postale de Nice.",
+          "english": "We sent a postcard from Nice."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais envoyer ce document maintenant.",
+          "english": "I am going to send this document now."
+        },
+        {
+          "french": "Nous allons envoyer les invitations demain.",
+          "english": "We are going to send the invitations tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'envoyais souvent des messages tard le soir.",
+          "english": "I often sent messages late at night."
+        },
+        {
+          "french": "Nous envoyions une carte postale à chaque voyage.",
+          "english": "We used to send a postcard on every trip."
+        }
+      ]
+    }
   },
   {
     "infinitive": "expliquer",
@@ -499,9 +1525,47 @@
       "ils/elles": "expliquent"
     },
     "examples": [
-      { "french": "J'explique le problème.", "english": "I explain the problem." },
-      { "french": "Nous expliquons la règle aux étudiants.", "english": "We explain the rule to the students." }
-    ]
+      {
+        "french": "J'explique le problème.",
+        "english": "I explain the problem."
+      },
+      {
+        "french": "Nous expliquons la règle aux étudiants.",
+        "english": "We explain the rule to the students."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai expliqué le problème au professeur.",
+          "english": "I explained the problem to the teacher."
+        },
+        {
+          "french": "Nous avons expliqué la règle aux étudiants.",
+          "english": "We explained the rule to the students."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais expliquer la situation tout de suite.",
+          "english": "I am going to explain the situation right away."
+        },
+        {
+          "french": "Nous allons expliquer la règle demain.",
+          "english": "We are going to explain the rule tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'expliquais toujours les choses calmement.",
+          "english": "I always explained things calmly."
+        },
+        {
+          "french": "Nous expliquions la règle à chaque nouveau groupe.",
+          "english": "We explained the rule to every new group."
+        }
+      ]
+    }
   },
   {
     "infinitive": "porter",
@@ -517,9 +1581,47 @@
       "ils/elles": "portent"
     },
     "examples": [
-      { "french": "Elle porte une robe rouge.", "english": "She is wearing a red dress." },
-      { "french": "Je porte mon sac à l'école.", "english": "I carry my bag to school." }
-    ]
+      {
+        "french": "Elle porte une robe rouge.",
+        "english": "She is wearing a red dress."
+      },
+      {
+        "french": "Je porte mon sac à l'école.",
+        "english": "I carry my bag to school."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Elle a porté une robe rouge à la fête.",
+          "english": "She wore a red dress to the party."
+        },
+        {
+          "french": "J'ai porté mon sac toute la journée.",
+          "english": "I carried my bag all day."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Elle va porter cette veste ce soir.",
+          "english": "She is going to wear this jacket tonight."
+        },
+        {
+          "french": "Je vais porter ces boîtes jusqu'à la voiture.",
+          "english": "I am going to carry these boxes to the car."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Elle portait souvent des vêtements colorés.",
+          "english": "She often wore colorful clothes."
+        },
+        {
+          "french": "Je portais mon sac à l'école tous les jours.",
+          "english": "I carried my bag to school every day."
+        }
+      ]
+    }
   },
   {
     "infinitive": "commencer",
@@ -535,9 +1637,47 @@
       "ils/elles": "commencent"
     },
     "examples": [
-      { "french": "Je commence le sport demain.", "english": "I start sports tomorrow." },
-      { "french": "Nous commençons le cours à huit heures.", "english": "We start the class at eight o'clock." }
-    ]
+      {
+        "french": "Je commence le sport demain.",
+        "english": "I start sports tomorrow."
+      },
+      {
+        "french": "Nous commençons le cours à huit heures.",
+        "english": "We start the class at eight o'clock."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "J'ai commencé le sport en janvier.",
+          "english": "I started exercising in January."
+        },
+        {
+          "french": "Nous avons commencé le cours à huit heures.",
+          "english": "We started the class at eight o'clock."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais commencer ce livre ce soir.",
+          "english": "I am going to start this book tonight."
+        },
+        {
+          "french": "Nous allons commencer la réunion dans cinq minutes.",
+          "english": "We are going to start the meeting in five minutes."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je commençais toujours la journée avec un café.",
+          "english": "I always started the day with a coffee."
+        },
+        {
+          "french": "Nous commencions le cours à huit heures tous les lundis.",
+          "english": "We started class at eight o'clock every Monday."
+        }
+      ]
+    }
   },
   {
     "infinitive": "se lever",
@@ -553,9 +1693,47 @@
       "ils/elles": "se lèvent"
     },
     "examples": [
-      { "french": "Je me lève tôt le matin.", "english": "I get up early in the morning." },
-      { "french": "Nous nous levons à sept heures.", "english": "We get up at seven o'clock." }
-    ]
+      {
+        "french": "Je me lève tôt le matin.",
+        "english": "I get up early in the morning."
+      },
+      {
+        "french": "Nous nous levons à sept heures.",
+        "english": "We get up at seven o'clock."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je me suis levé tôt ce matin.",
+          "english": "I got up early this morning."
+        },
+        {
+          "french": "Nous nous sommes levés à sept heures hier.",
+          "english": "We got up at seven o'clock yesterday."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais me lever plus tôt demain.",
+          "english": "I am going to get up earlier tomorrow."
+        },
+        {
+          "french": "Nous allons nous lever à six heures pour partir.",
+          "english": "We are going to get up at six o'clock to leave."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je me levais tôt quand je travaillais au centre-ville.",
+          "english": "I got up early when I worked downtown."
+        },
+        {
+          "french": "Nous nous levions à sept heures tous les matins.",
+          "english": "We got up at seven o'clock every morning."
+        }
+      ]
+    }
   },
   {
     "infinitive": "se coucher",
@@ -571,9 +1749,47 @@
       "ils/elles": "se couchent"
     },
     "examples": [
-      { "french": "Je me couche tard le week-end.", "english": "I go to bed late on weekends." },
-      { "french": "Elle se couche après minuit.", "english": "She goes to bed after midnight." }
-    ]
+      {
+        "french": "Je me couche tard le week-end.",
+        "english": "I go to bed late on weekends."
+      },
+      {
+        "french": "Elle se couche après minuit.",
+        "english": "She goes to bed after midnight."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je me suis couché tard hier soir.",
+          "english": "I went to bed late last night."
+        },
+        {
+          "french": "Elle s'est couchée après minuit.",
+          "english": "She went to bed after midnight."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais me coucher tôt ce soir.",
+          "english": "I am going to go to bed early tonight."
+        },
+        {
+          "french": "Elle va se coucher après le film.",
+          "english": "She is going to go to bed after the movie."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je me couchais tard quand j'étais étudiant.",
+          "english": "I went to bed late when I was a student."
+        },
+        {
+          "french": "Elle se couchait toujours après minuit.",
+          "english": "She always went to bed after midnight."
+        }
+      ]
+    }
   },
   {
     "infinitive": "s'habiller",
@@ -589,8 +1805,46 @@
       "ils/elles": "s'habillent"
     },
     "examples": [
-      { "french": "Je m'habille rapidement.", "english": "I get dressed quickly." },
-      { "french": "Ils s'habillent avant de sortir.", "english": "They get dressed before going out." }
-    ]
+      {
+        "french": "Je m'habille rapidement.",
+        "english": "I get dressed quickly."
+      },
+      {
+        "french": "Ils s'habillent avant de sortir.",
+        "english": "They get dressed before going out."
+      }
+    ],
+    "examplesByTense": {
+      "passe-compose": [
+        {
+          "french": "Je me suis habillé rapidement ce matin.",
+          "english": "I got dressed quickly this morning."
+        },
+        {
+          "french": "Ils se sont habillés avant de sortir.",
+          "english": "They got dressed before going out."
+        }
+      ],
+      "futur-proche": [
+        {
+          "french": "Je vais m'habiller tout de suite.",
+          "english": "I am going to get dressed right away."
+        },
+        {
+          "french": "Ils vont s'habiller pour la fête.",
+          "english": "They are going to get dressed for the party."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je m'habillais toujours en noir à cette époque.",
+          "english": "I always dressed in black at that time."
+        },
+        {
+          "french": "Ils s'habillaient vite avant l'école.",
+          "english": "They got dressed quickly before school."
+        }
+      ]
+    }
   }
 ]

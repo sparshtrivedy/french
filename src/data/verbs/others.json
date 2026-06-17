@@ -42,6 +42,16 @@
           "french": "Nous allons être à la maison ce soir.",
           "english": "We are going to be at home tonight."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais petit, j'étais très timide.",
+          "english": "When I was little, I was very shy."
+        },
+        {
+          "french": "Nous étions toujours en classe à huit heures.",
+          "english": "We were always in class at eight o'clock."
+        }
       ]
     }
   },
@@ -87,6 +97,16 @@
         {
           "french": "Ils vont avoir un examen lundi.",
           "english": "They are going to have an exam on Monday."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais étudiant, j'avais peu d'argent.",
+          "english": "When I was a student, I had little money."
+        },
+        {
+          "french": "Ils avaient souvent beaucoup de travail le lundi.",
+          "english": "They often had a lot of work on Mondays."
         }
       ]
     }
@@ -134,6 +154,16 @@
           "french": "Ces enfants vont devenir très grands.",
           "english": "These children are going to become very tall."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Avec le temps, je devenais plus patient.",
+          "english": "Over time, I was becoming more patient."
+        },
+        {
+          "french": "Ils devenaient amis peu à peu.",
+          "english": "They were gradually becoming friends."
+        }
       ]
     }
   },
@@ -179,6 +209,16 @@
         {
           "french": "Nous allons aller au musée ce week-end.",
           "english": "We are going to go to the museum this weekend."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'habitais ici, j'allais au marché chaque samedi.",
+          "english": "When I lived here, I went to the market every Saturday."
+        },
+        {
+          "french": "Nous allions souvent au cinéma ensemble.",
+          "english": "We often went to the movies together."
         }
       ]
     }
@@ -226,6 +266,16 @@
           "french": "Nous allons faire une promenade demain.",
           "english": "We are going to take a walk tomorrow."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais au lycée, je faisais mes devoirs après le dîner.",
+          "english": "When I was in high school, I used to do my homework after dinner."
+        },
+        {
+          "french": "Nous faisions un gâteau pour chaque anniversaire.",
+          "english": "We used to make a cake for every birthday."
+        }
       ]
     }
   },
@@ -271,6 +321,16 @@
         {
           "french": "Nous allons revenir avant la fermeture.",
           "english": "We are going to come back before closing."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je revenais tard du travail tous les jeudis.",
+          "english": "I used to come back late from work every Thursday."
+        },
+        {
+          "french": "Nous revenions toujours par cette route.",
+          "english": "We always came back by that route."
         }
       ]
     }
@@ -318,6 +378,16 @@
           "french": "Ils vont vouloir une réponse rapide.",
           "english": "They are going to want a quick answer."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais enfant, je voulais un chien.",
+          "english": "When I was a child, I wanted a dog."
+        },
+        {
+          "french": "Ils voulaient partir plus tôt que nous.",
+          "english": "They wanted to leave earlier than we did."
+        }
       ]
     }
   },
@@ -363,6 +433,16 @@
         {
           "french": "Nous allons pouvoir commencer bientôt.",
           "english": "We are going to be able to start soon."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "À cette époque, je pouvais courir plus vite.",
+          "english": "At that time, I could run faster."
+        },
+        {
+          "french": "Nous pouvions entrer sans problème.",
+          "english": "We could get in without any problem."
         }
       ]
     }
@@ -410,6 +490,16 @@
           "french": "Les enfants vont apprendre à nager cet été.",
           "english": "The children are going to learn how to swim this summer."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Quand j'étais à Montréal, j'apprenais le français le soir.",
+          "english": "When I was in Montreal, I was learning French in the evening."
+        },
+        {
+          "french": "Les enfants apprenaient ce poème à l'école.",
+          "english": "The children were learning that poem at school."
+        }
       ]
     }
   },
@@ -455,6 +545,16 @@
         {
           "french": "Nous allons prendre le train demain matin.",
           "english": "We are going to take the train tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je prenais le bus tous les matins.",
+          "english": "I used to take the bus every morning."
+        },
+        {
+          "french": "Nous prenions des notes pendant chaque cours.",
+          "english": "We took notes during every class."
         }
       ]
     }
@@ -502,6 +602,16 @@
           "french": "Ils vont dire ce qu'ils pensent.",
           "english": "They are going to say what they think."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je disais toujours la vérité à mes parents.",
+          "english": "I always told the truth to my parents."
+        },
+        {
+          "french": "Ils disaient bonjour à tout le monde.",
+          "english": "They used to say hello to everyone."
+        }
       ]
     }
   },
@@ -547,6 +657,16 @@
         {
           "french": "Elle va lire le message plus tard.",
           "english": "She is going to read the message later."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je lisais ce roman dans le train chaque soir.",
+          "english": "I used to read that novel on the train every evening."
+        },
+        {
+          "french": "Elle lisait le journal au café.",
+          "english": "She used to read the newspaper at the cafe."
         }
       ]
     }
@@ -594,6 +714,16 @@
           "french": "Ils vont vivre ensemble l'année prochaine.",
           "english": "They are going to live together next year."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "À cette époque, je vivais au Canada.",
+          "english": "At that time, I was living in Canada."
+        },
+        {
+          "french": "Ils vivaient près de la mer quand ils étaient jeunes.",
+          "english": "They lived near the sea when they were young."
+        }
       ]
     }
   },
@@ -639,6 +769,16 @@
         {
           "french": "Nous allons voir un film ce soir.",
           "english": "We are going to watch a movie tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "De ma fenêtre, je voyais les montagnes.",
+          "english": "From my window, I could see the mountains."
+        },
+        {
+          "french": "Nous voyions souvent nos amis le week-end.",
+          "english": "We often saw our friends on weekends."
         }
       ]
     }
@@ -686,6 +826,16 @@
           "french": "Vous allez boire quelque chose au café.",
           "english": "You are going to drink something at the cafe."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je buvais du thé tous les après-midis.",
+          "english": "I used to drink tea every afternoon."
+        },
+        {
+          "french": "Vous buviez toujours du café le matin.",
+          "english": "You always drank coffee in the morning."
+        }
       ]
     }
   },
@@ -731,6 +881,16 @@
         {
           "french": "Nous allons recevoir nos amis ce week-end.",
           "english": "We are going to host our friends this weekend."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je recevais souvent des messages tard le soir.",
+          "english": "I often received messages late in the evening."
+        },
+        {
+          "french": "Nous recevions des invités presque chaque dimanche.",
+          "english": "We used to have guests almost every Sunday."
         }
       ]
     }
@@ -778,6 +938,16 @@
           "french": "Ils vont offrir un dessert aux invités.",
           "english": "They are going to offer the guests a dessert."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "J'offrais toujours des fleurs à ma mère.",
+          "english": "I always gave flowers to my mother."
+        },
+        {
+          "french": "Ils offraient leur aide sans hésiter.",
+          "english": "They offered their help without hesitation."
+        }
       ]
     }
   },
@@ -823,6 +993,16 @@
         {
           "french": "Nous allons écrire le rapport demain matin.",
           "english": "We are going to write the report tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "J'écrivais à ma sœur chaque semaine.",
+          "english": "I wrote to my sister every week."
+        },
+        {
+          "french": "Nous écrivions des cartes postales pendant les vacances.",
+          "english": "We used to write postcards during the holidays."
         }
       ]
     }
@@ -870,6 +1050,16 @@
           "french": "Ils vont croire cette annonce sans hésiter.",
           "english": "They are going to believe this announcement without hesitation."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "À ce moment-là, je croyais encore ton histoire.",
+          "english": "At that moment, I still believed your story."
+        },
+        {
+          "french": "Ils croyaient en leur projet depuis le début.",
+          "english": "They believed in their project from the beginning."
+        }
       ]
     }
   },
@@ -915,6 +1105,16 @@
         {
           "french": "Nous allons courir ensemble demain matin.",
           "english": "We are going to run together tomorrow morning."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je courais dans le parc avant le travail.",
+          "english": "I used to run in the park before work."
+        },
+        {
+          "french": "Nous courions ensemble tous les dimanches.",
+          "english": "We used to run together every Sunday."
         }
       ]
     }
@@ -962,6 +1162,16 @@
           "french": "Le magasin va ouvrir plus tôt demain.",
           "english": "The store is going to open earlier tomorrow."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "J'ouvrais la fenêtre dès que j'arrivais.",
+          "english": "I used to open the window as soon as I arrived."
+        },
+        {
+          "french": "Le magasin ouvrait à neuf heures.",
+          "english": "The store opened at nine o'clock."
+        }
       ]
     }
   },
@@ -1007,6 +1217,16 @@
         {
           "french": "Nous allons mettre la table dans quelques minutes.",
           "english": "We are going to set the table in a few minutes."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je mettais toujours mes clés sur la table.",
+          "english": "I always put my keys on the table."
+        },
+        {
+          "french": "Nous mettions les chaises dehors en été.",
+          "english": "We used to put the chairs outside in the summer."
         }
       ]
     }
@@ -1054,6 +1274,16 @@
           "french": "Ils vont sortir prendre l'air un peu.",
           "english": "They are going to go outside to get some air."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je sortais avec des amis chaque vendredi soir.",
+          "english": "I used to go out with friends every Friday night."
+        },
+        {
+          "french": "Ils sortaient de la maison très tôt.",
+          "english": "They used to leave the house very early."
+        }
       ]
     }
   },
@@ -1099,6 +1329,16 @@
         {
           "french": "Mes amis vont venir ce week-end.",
           "english": "My friends are going to come this weekend."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je venais te voir chaque semaine.",
+          "english": "I used to come see you every week."
+        },
+        {
+          "french": "Mes amis venaient souvent chez moi.",
+          "english": "My friends often came to my place."
         }
       ]
     }
@@ -1146,6 +1386,16 @@
           "french": "Nous allons partir après le déjeuner.",
           "english": "We are going to leave after lunch."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je partais tôt le matin pour éviter la circulation.",
+          "english": "I used to leave early in the morning to avoid traffic."
+        },
+        {
+          "french": "Nous partions en train pendant l'été.",
+          "english": "We used to leave by train during the summer."
+        }
       ]
     }
   },
@@ -1191,6 +1441,16 @@
         {
           "french": "Nous allons mieux comprendre demain.",
           "english": "We are going to understand better tomorrow."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Au début, je ne comprenais pas la leçon.",
+          "english": "At first, I did not understand the lesson."
+        },
+        {
+          "french": "Nous comprenions mieux avec plus d'exemples.",
+          "english": "We understood better with more examples."
         }
       ]
     }
@@ -1238,6 +1498,16 @@
           "french": "Ils vont savoir quoi faire bientôt.",
           "english": "They are going to know what to do soon."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je savais déjà la réponse.",
+          "english": "I already knew the answer."
+        },
+        {
+          "french": "Ils savaient parler français à dix ans.",
+          "english": "They knew how to speak French at age ten."
+        }
       ]
     }
   },
@@ -1283,6 +1553,16 @@
         {
           "french": "Nous allons devoir prendre une décision.",
           "english": "We are going to have to make a decision."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je devais travailler tous les samedis.",
+          "english": "I had to work every Saturday."
+        },
+        {
+          "french": "Nous devions finir ce projet avant juin.",
+          "english": "We had to finish that project before June."
         }
       ]
     }
@@ -1330,6 +1610,16 @@
           "french": "Elle va conduire jusqu'à Lyon demain.",
           "english": "She is going to drive to Lyon tomorrow."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je conduisais toujours prudemment sous la pluie.",
+          "english": "I always drove carefully in the rain."
+        },
+        {
+          "french": "Elle conduisait jusqu'au travail chaque matin.",
+          "english": "She drove to work every morning."
+        }
       ]
     }
   },
@@ -1375,6 +1665,16 @@
         {
           "french": "Nous allons résoudre cette question ensemble.",
           "english": "We are going to solve this question together."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je résolvais souvent ce type de problème au bureau.",
+          "english": "I often solved that type of problem at work."
+        },
+        {
+          "french": "Nous résolvions les exercices ensemble.",
+          "english": "We used to solve the exercises together."
         }
       ]
     }
@@ -1422,6 +1722,16 @@
           "french": "Les nuages vont couvrir le ciel ce soir.",
           "english": "The clouds are going to cover the sky tonight."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je couvrais la table avant l'arrivée des invités.",
+          "english": "I used to cover the table before the guests arrived."
+        },
+        {
+          "french": "Les nuages couvraient le ciel en fin de journée.",
+          "english": "The clouds were covering the sky at the end of the day."
+        }
       ]
     }
   },
@@ -1467,6 +1777,16 @@
         {
           "french": "Nous allons découvrir un nouveau restaurant ce soir.",
           "english": "We are going to discover a new restaurant tonight."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je découvrais un nouveau quartier chaque mois.",
+          "english": "I was discovering a new neighborhood every month."
+        },
+        {
+          "french": "Nous découvrions la vérité peu à peu.",
+          "english": "We were discovering the truth little by little."
         }
       ]
     }
@@ -1514,6 +1834,16 @@
           "french": "Nous allons apercevoir le village après le virage.",
           "english": "We are going to see the village after the turn."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Depuis la colline, j'apercevais la mer.",
+          "english": "From the hill, I could catch sight of the sea."
+        },
+        {
+          "french": "Nous apercevions nos amis dans la foule.",
+          "english": "We used to spot our friends in the crowd."
+        }
       ]
     }
   },
@@ -1559,6 +1889,16 @@
         {
           "french": "De nouvelles idées vont naître de ce projet.",
           "english": "New ideas are going to emerge from this project."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "À cette époque, beaucoup d'idées naissaient ici.",
+          "english": "At that time, many ideas were emerging here."
+        },
+        {
+          "french": "De nouvelles traditions naissaient dans ce quartier.",
+          "english": "New traditions were being born in that neighborhood."
         }
       ]
     }
@@ -1606,6 +1946,16 @@
           "french": "Les fleurs vont mourir sans lumière.",
           "english": "The flowers are going to die without light."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Sans eau, les fleurs mouraient vite.",
+          "english": "Without water, the flowers died quickly."
+        },
+        {
+          "french": "La batterie de mon téléphone mourait toujours trop tôt.",
+          "english": "My phone battery always died too early."
+        }
       ]
     }
   },
@@ -1651,6 +2001,16 @@
         {
           "french": "Nous allons descendre à la prochaine station.",
           "english": "We are going to get off at the next stop."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je descendais à la station suivante tous les jours.",
+          "english": "I used to get off at the next stop every day."
+        },
+        {
+          "french": "Nous descendions de la montagne avant la nuit.",
+          "english": "We came down the mountain before nightfall."
         }
       ]
     }
@@ -1698,6 +2058,16 @@
           "french": "Les enfants vont dormir chez leurs grands-parents.",
           "english": "The children are going to sleep at their grandparents' house."
         }
+      ],
+      "imparfait": [
+        {
+          "french": "Je dormais huit heures par nuit.",
+          "english": "I used to sleep eight hours a night."
+        },
+        {
+          "french": "Les enfants dormaient déjà à neuf heures.",
+          "english": "The children were already sleeping at nine o'clock."
+        }
       ]
     }
   },
@@ -1743,6 +2113,16 @@
         {
           "french": "Nous allons nous souvenir de ce voyage longtemps.",
           "english": "We are going to remember this trip for a long time."
+        }
+      ],
+      "imparfait": [
+        {
+          "french": "Je me souvenais très bien de cette histoire.",
+          "english": "I remembered that story very well."
+        },
+        {
+          "french": "Nous nous souvenions toujours de son anniversaire.",
+          "english": "We always remembered her birthday."
         }
       ]
     }
