@@ -18,6 +18,14 @@ const ALLER_FORMS = {
   vous: "allez",
   "ils/elles": "vont",
 };
+const IMPARFAIT_ENDINGS = {
+  je: "ais",
+  tu: "ais",
+  "il/elle/on": "ait",
+  nous: "ions",
+  vous: "iez",
+  "ils/elles": "aient",
+};
 const ETRE_AUXILIARY_VERBS = new Set([
   "aller",
   "arriver",
@@ -189,9 +197,39 @@ function getPasseComposeForm(subject, verb) {
   return `${auxiliary} ${agreedParticiple}`;
 }
 
+function getImparfaitStem(verb) {
+  if (verb.infinitive === "être") {
+    return "ét";
+  }
+
+  const nousForm = verb.conjugations.nous ?? "";
+  const baseForm = isReflexiveVerb(verb) ? nousForm.replace(/^nous\s+/i, "") : nousForm;
+
+  if (!baseForm.endsWith("ons")) {
+    return baseForm;
+  }
+
+  return baseForm.slice(0, -3);
+}
+
+function getImparfaitForm(subject, verb) {
+  const stem = getImparfaitStem(verb);
+  const conjugated = `${stem}${IMPARFAIT_ENDINGS[subject]}`;
+
+  if (!isReflexiveVerb(verb)) {
+    return conjugated;
+  }
+
+  return `${formatReflexiveChunk(subject, conjugated)}${conjugated}`;
+}
+
 function getConjugationRows(verb, tense) {
   if (tense === "present") {
     return SUBJECTS.map((subject) => [subject, verb.conjugations[subject]]);
+  }
+
+  if (tense === "imparfait") {
+    return SUBJECTS.map((subject) => [subject, getImparfaitForm(subject, verb)]);
   }
 
   if (tense === "passe-compose") {
@@ -644,6 +682,7 @@ function VerbCard({ verb, speech }) {
 
   const tenseOptions = [
     { id: "present", label: "Present" },
+    { id: "imparfait", label: "Imparfait" },
     { id: "passe-compose", label: "Passé composé" },
     { id: "futur-proche", label: "Futur proche" },
   ];
